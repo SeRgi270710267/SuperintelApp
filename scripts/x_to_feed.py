@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Merge one X API v2 timeline response into feeds.json.
+"""Merge a local X API v2 timeline file into feeds.json.
 
   python3 scripts/x_to_feed.py response.json --feed x:elonmusk --handle elonmusk
+
+This reads the file you pass. It does not call api.x.com or api.twitter.com.
 """
 
 from __future__ import annotations

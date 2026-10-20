@@ -11,7 +11,14 @@
       "adapter": "fxtwitter",
       "source_urls": ["{fxtwitterBase}/2/profile/elonmusk/statuses"],
       "fallbacks": [
-        {"adapter": "nitter_rss", "source_urls": []}
+        {
+          "adapter": "nitter_rss",
+          "source_urls": [
+            "https://nitter.meowing.monster/{handle}/rss",
+            "https://nitter.kareem.one/{handle}/rss",
+            "https://nitter.jaydenha.uk/{handle}/rss"
+          ]
+        }
       ],
       "fixture": "scripts/fixtures/x_api_v2_elon.json",
       "fixtureAdapter": "x_api_v2",
@@ -36,7 +43,14 @@
       "adapter": "fxtwitter",
       "source_urls": ["{fxtwitterBase}/2/profile/finkd/statuses"],
       "fallbacks": [
-        {"adapter": "nitter_rss", "source_urls": []}
+        {
+          "adapter": "nitter_rss",
+          "source_urls": [
+            "https://nitter.meowing.monster/{handle}/rss",
+            "https://nitter.kareem.one/{handle}/rss",
+            "https://nitter.jaydenha.uk/{handle}/rss"
+          ]
+        }
       ],
       "fixture": "scripts/fixtures/x_api_v2_finkd.json",
       "fixtureAdapter": "x_api_v2",

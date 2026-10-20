@@ -160,10 +160,11 @@
       "handle": "zuck",
       "name": "Mark Zuckerberg",
       "title": "Mark Zuckerberg",
-      "avatar": "media/instagram-zuck-avatar-ab0a29c6239be534.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=clW0TJ8kvhkQ7kNvwEnjC3_&_nc_oc=AdqmuHeAe3RwPN7JFyxg_QtZART6SvFH-j4dWuan3Yux7HpMJQqEixrSA-rkUcVitrz_iMhS3z1zHX7tq05__1xd&_nc_zt=24&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=FBwNP4eiYlU3RmVmfoV4Ug&_nc_ss=70689&oh=00_AQOAXlcTqUNopWaN1Sr0WaBLAEPrgtS98_Koqj4pQyi6_w&oe=6ADD95B2",
       "bio": "I build stuff",
       "url": "https://www.instagram.com/zuck/",
-      "configured": true
+      "configured": true,
+      "avatarExpires": "2026-10-25T05:37:54Z"
     },
     {
       "id": "threads:zuck",
@@ -171,9 +172,10 @@
       "handle": "zuck",
       "name": "Mark Zuckerberg",
       "title": "Mark Zuckerberg",
-      "avatar": "media/threads-zuck-avatar-2b597afda7f52653.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHWj1vzojC8t1LjpwM-ANc3i27m_g5H10arxsvgL2spHzEHXcFeHz3P1ruksWkib25oZOwMWWfSeLAtjsa6h_Dr&_nc_ohc=gegyXGDTXZwQ7kNvwH6KvsM&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPwCeIOKeB1gMucZM8jOTKwJOBTzP40Bw3z3KnRBZkgMQ&oe=6ADD892B&_nc_sid=10d13b",
       "url": "https://www.threads.com/@zuck",
-      "configured": true
+      "configured": true,
+      "avatarExpires": "2026-10-25T04:44:27Z"
     }
   ],
   "posts": [
@@ -549,7 +551,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "media/threads-zuck-avatar-2b597afda7f52653.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHWj1vzojC8t1LjpwM-ANc3i27m_g5H10arxsvgL2spHzEHXcFeHz3P1ruksWkib25oZOwMWWfSeLAtjsa6h_Dr&_nc_ohc=gegyXGDTXZwQ7kNvwH6KvsM&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPwCeIOKeB1gMucZM8jOTKwJOBTzP40Bw3z3KnRBZkgMQ&oe=6ADD892B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "It's been just over a year since we started Meta Superintelligence Labs. Muse Spark was our first family of models, and now Muse Wonder is a much larger and more advanced class of models that brings us to the frontier.\nWe're releasing two models today. Muse Wonder for fast frontier performance and Muse Wonder Full for the full version of the model.",
       "links": [],
@@ -559,16 +561,19 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t16/f2/m84/AQNdJDHTIzzEwEm2PIjsadzjW1lwnHlvhFof0tf0jvzczIF8OYWYVm8Resjw7ztm_wUKjM1RRs5UCeXGQVVfsVYMFHfSYiO6pe7hf-o.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=iohxM3JycycQ7kNvwH0eWsA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5OTE3MDU3OTgxMDMyMjQsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6NjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3de3d6a2708c059f&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC83M0U0RTdERjE3QUI0RDJCQjQ2NkQ5OTFEN0Q3MDk5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZBRDZBMjMyQTZEMTQ3QzU4QzFGNEY2OTNBQTVFMTYxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwwv6Pjtf1PxUCKAJDMywXQFDx--dsi0QYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNc-h1Na0OsrfI5qkkNAcp5168_fqYIgkRDGCwUV5xjAQ&oe=6AD9B115",
-          "poster": "media/threads-zuck-poster-a1f938d797349bb5.jpg",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.71878-15/843458448_2045298256099953_8644614754157170636_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=NDAwNjQzNDI2MTAyMDMwNzc1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=TXqzgWEKNY0Q7kNvwHDyHHN&_nc_oc=Adodib1mrHfCk1NdG-0qTUVX8gTk0Va_YhTnYS-0kG_AmbXfSixi3yxfZe6FcaBPBVQu3asyB4uSTl8u9C-dCtvF&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&_nc_ss=7a20f&oh=00_AQO5julgtQUultnkmY0HpB9xOobfoOvj8IlDZJBn_sZNNg&oe=6ADD781B",
           "width": null,
           "height": null,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-22T06:45:41Z",
+          "posterExpires": "2026-10-25T03:31:39Z"
         }
       ],
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T04:44:27Z"
     },
     {
       "id": "DeZtp-TkQHh",
@@ -578,7 +583,7 @@
       "kind": "post",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "media/threads-zuck-avatar-2b597afda7f52653.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHWj1vzojC8t1LjpwM-ANc3i27m_g5H10arxsvgL2spHzEHXcFeHz3P1ruksWkib25oZOwMWWfSeLAtjsa6h_Dr&_nc_ohc=gegyXGDTXZwQ7kNvwH6KvsM&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPwCeIOKeB1gMucZM8jOTKwJOBTzP40Bw3z3KnRBZkgMQ&oe=6ADD892B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "Introducing Muse Wonder, our new family of frontier models with state of the art performance for personal and professional agentic work.",
       "links": [],
@@ -587,19 +592,21 @@
       "media": [
         {
           "type": "photo",
-          "url": "media/threads-zuck-3d5fb779901b5120.webp",
-          "poster": "media/threads-zuck-3d5fb779901b5120.webp",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844965867_17991705567103224_8296143909108287920_n.webp?_nc_cat=109&ig_cache_key=NDAwNjQzNDE0MDAxNDU3NjA5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OcRC0F9Oss0Q7kNvwEtG2SI&_nc_oc=Adrf0Urs5WVZgI2O5GSfmfhuwcUjZ4X_EEWYYRtc5vmCmV3i0epmAceIuDP8fRmYMaBKCGQKFbXX1cnk-3zZjbP-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&_nc_ss=7a20f&oh=00_AQOVsrRn0hVExu9VaYLAN-gl23SNorBcB10IvUxBpYlBew&oe=6ADD90F0",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844965867_17991705567103224_8296143909108287920_n.webp?_nc_cat=109&ig_cache_key=NDAwNjQzNDE0MDAxNDU3NjA5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OcRC0F9Oss0Q7kNvwEtG2SI&_nc_oc=Adrf0Urs5WVZgI2O5GSfmfhuwcUjZ4X_EEWYYRtc5vmCmV3i0epmAceIuDP8fRmYMaBKCGQKFbXX1cnk-3zZjbP-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&_nc_ss=7a20f&oh=00_AQOVsrRn0hVExu9VaYLAN-gl23SNorBcB10IvUxBpYlBew&oe=6ADD90F0",
           "width": null,
           "height": null,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T05:17:36Z"
         }
       ],
       "images": [
-        "media/threads-zuck-3d5fb779901b5120.webp"
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844965867_17991705567103224_8296143909108287920_n.webp?_nc_cat=109&ig_cache_key=NDAwNjQzNDE0MDAxNDU3NjA5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OcRC0F9Oss0Q7kNvwEtG2SI&_nc_oc=Adrf0Urs5WVZgI2O5GSfmfhuwcUjZ4X_EEWYYRtc5vmCmV3i0epmAceIuDP8fRmYMaBKCGQKFbXX1cnk-3zZjbP-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&_nc_ss=7a20f&oh=00_AQOVsrRn0hVExu9VaYLAN-gl23SNorBcB10IvUxBpYlBew&oe=6ADD90F0"
       ],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T04:44:27Z"
     },
     {
       "id": "DeZtp7KER52",
@@ -609,7 +616,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "media/threads-zuck-avatar-2b597afda7f52653.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHWj1vzojC8t1LjpwM-ANc3i27m_g5H10arxsvgL2spHzEHXcFeHz3P1ruksWkib25oZOwMWWfSeLAtjsa6h_Dr&_nc_ohc=gegyXGDTXZwQ7kNvwH6KvsM&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPwCeIOKeB1gMucZM8jOTKwJOBTzP40Bw3z3KnRBZkgMQ&oe=6ADD892B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "You can use Muse Wonder to power your Muse by subscribing today. We'll work to bring this level of intelligence to everyone over time.",
       "links": [],
@@ -619,7 +626,8 @@
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T04:44:27Z"
     },
     {
       "id": "DeZtp8hkWfQ",
@@ -629,7 +637,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "media/threads-zuck-avatar-2b597afda7f52653.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHWj1vzojC8t1LjpwM-ANc3i27m_g5H10arxsvgL2spHzEHXcFeHz3P1ruksWkib25oZOwMWWfSeLAtjsa6h_Dr&_nc_ohc=gegyXGDTXZwQ7kNvwH6KvsM&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPwCeIOKeB1gMucZM8jOTKwJOBTzP40Bw3z3KnRBZkgMQ&oe=6ADD892B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "Muse Wonder is also available through Muse Code, the Meta Model API, and rolling into other products soon. More in the blog: https://research.meta.ai/blog/muse-wonder",
       "links": [],
@@ -639,7 +647,8 @@
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T04:44:27Z"
     },
     {
       "id": "2109689311088287773",
@@ -715,7 +724,7 @@
       "kind": "post",
       "author": "Mark Zuckerberg",
       "handle": "zuck",
-      "avatar": "media/instagram-zuck-avatar-ab0a29c6239be534.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=clW0TJ8kvhkQ7kNvwEnjC3_&_nc_oc=AdqmuHeAe3RwPN7JFyxg_QtZART6SvFH-j4dWuan3Yux7HpMJQqEixrSA-rkUcVitrz_iMhS3z1zHX7tq05__1xd&_nc_zt=24&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=FBwNP4eiYlU3RmVmfoV4Ug&_nc_ss=70689&oh=00_AQOAXlcTqUNopWaN1Sr0WaBLAEPrgtS98_Koqj4pQyi6_w&oe=6ADD95B2",
       "verifiedType": null,
       "text": "Muse ordered me 🍉 how thoughtful!",
       "links": [],
@@ -724,19 +733,21 @@
       "media": [
         {
           "type": "photo",
-          "url": "media/instagram-zuck-4da417055c864bf6.jpg",
-          "poster": "media/instagram-zuck-4da417055c864bf6.jpg",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/848412125_18640414195058217_1825090142541781919_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAwNjM3NzYwNjE4MTE1OTk2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XqDVSSmRQ6kQ7kNvwF78kiz&_nc_oc=AdrvWVU0gMhp1sbTkRNXbZZ3xRV-CLytChi-PJ4ozZuLLXVD3jAvtUnHKYowc_51arfYcuVquFcikbHMRVo0pPyi&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQMXgBTC6GgsMlTMzQu70cBtpIRtb-pQZWz_bgorYP7JKA&oe=6ADDAAC5",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/848412125_18640414195058217_1825090142541781919_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAwNjM3NzYwNjE4MTE1OTk2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XqDVSSmRQ6kQ7kNvwF78kiz&_nc_oc=AdrvWVU0gMhp1sbTkRNXbZZ3xRV-CLytChi-PJ4ozZuLLXVD3jAvtUnHKYowc_51arfYcuVquFcikbHMRVo0pPyi&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQMXgBTC6GgsMlTMzQu70cBtpIRtb-pQZWz_bgorYP7JKA&oe=6ADDAAC5",
           "width": 3072,
           "height": 4096,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T07:07:49Z"
         }
       ],
       "images": [
-        "media/instagram-zuck-4da417055c864bf6.jpg"
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/848412125_18640414195058217_1825090142541781919_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAwNjM3NzYwNjE4MTE1OTk2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XqDVSSmRQ6kQ7kNvwF78kiz&_nc_oc=AdrvWVU0gMhp1sbTkRNXbZZ3xRV-CLytChi-PJ4ozZuLLXVD3jAvtUnHKYowc_51arfYcuVquFcikbHMRVo0pPyi&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQMXgBTC6GgsMlTMzQu70cBtpIRtb-pQZWz_bgorYP7JKA&oe=6ADDAAC5"
       ],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T05:37:54Z"
     },
     {
       "id": "DeZgeQhm6RW",
@@ -746,7 +757,7 @@
       "kind": "post",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "media/threads-zuck-avatar-2b597afda7f52653.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHWj1vzojC8t1LjpwM-ANc3i27m_g5H10arxsvgL2spHzEHXcFeHz3P1ruksWkib25oZOwMWWfSeLAtjsa6h_Dr&_nc_ohc=gegyXGDTXZwQ7kNvwH6KvsM&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPwCeIOKeB1gMucZM8jOTKwJOBTzP40Bw3z3KnRBZkgMQ&oe=6ADD892B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "Muse ordered me 🍉 how thoughtful!",
       "links": [],
@@ -755,19 +766,21 @@
       "media": [
         {
           "type": "photo",
-          "url": "media/threads-zuck-3dde637ad0c88de2.webp",
-          "poster": "media/threads-zuck-3dde637ad0c88de2.webp",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CmgthCChTzwQ7kNvwGFTyyE&_nc_oc=AdrLMoVdsSwLz3a1plqhBspeYvRiA1TwHUxv_J4nKQl5LFoGKH60cChwlCtjYPLInu4f9Oo6Mj4tko1XIiju42O0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&_nc_ss=7a20f&oh=00_AQMau72R3ra_fbjyDH0QlfI15OZgciYmyxv0sduexVXcew&oe=6ADD8FE8",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CmgthCChTzwQ7kNvwGFTyyE&_nc_oc=AdrLMoVdsSwLz3a1plqhBspeYvRiA1TwHUxv_J4nKQl5LFoGKH60cChwlCtjYPLInu4f9Oo6Mj4tko1XIiju42O0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&_nc_ss=7a20f&oh=00_AQMau72R3ra_fbjyDH0QlfI15OZgciYmyxv0sduexVXcew&oe=6ADD8FE8",
           "width": null,
           "height": null,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T05:13:12Z"
         }
       ],
       "images": [
-        "media/threads-zuck-3dde637ad0c88de2.webp"
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CmgthCChTzwQ7kNvwGFTyyE&_nc_oc=AdrLMoVdsSwLz3a1plqhBspeYvRiA1TwHUxv_J4nKQl5LFoGKH60cChwlCtjYPLInu4f9Oo6Mj4tko1XIiju42O0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&_nc_ss=7a20f&oh=00_AQMau72R3ra_fbjyDH0QlfI15OZgciYmyxv0sduexVXcew&oe=6ADD8FE8"
       ],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T04:44:27Z"
     },
     {
       "id": "4005212483082711768",
@@ -777,7 +790,7 @@
       "kind": "post",
       "author": "Mark Zuckerberg",
       "handle": "zuck",
-      "avatar": "media/instagram-zuck-avatar-ab0a29c6239be534.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=clW0TJ8kvhkQ7kNvwEnjC3_&_nc_oc=AdqmuHeAe3RwPN7JFyxg_QtZART6SvFH-j4dWuan3Yux7HpMJQqEixrSA-rkUcVitrz_iMhS3z1zHX7tq05__1xd&_nc_zt=24&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=FBwNP4eiYlU3RmVmfoV4Ug&_nc_ss=70689&oh=00_AQOAXlcTqUNopWaN1Sr0WaBLAEPrgtS98_Koqj4pQyi6_w&oe=6ADD95B2",
       "verifiedType": null,
       "text": "A decade of smoking meats",
       "links": [],
@@ -786,35 +799,39 @@
       "media": [
         {
           "type": "photo",
-          "url": "media/instagram-zuck-0537ed2fcdc22e89.jpg",
-          "poster": "media/instagram-zuck-0537ed2fcdc22e89.jpg",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843520210_18639858697058217_4287223720748899273_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwNTIxMTc3NjczNTk3OTYwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=a2S8iM7aMz4Q7kNvwFjmbqq&_nc_oc=AdpDfg8wavxQchBJqcde_zG0v47e1xB5PEco8p_3qFOviLmyuoEJctfyCuXWjaS2xAeSLUor_kzYAgrCnaWtHrrM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQO9H8E6WhInkGW3Wif5hj0NwOcdML5rwTiZ5REQT1S59w&oe=6ADD9FE8",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843520210_18639858697058217_4287223720748899273_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwNTIxMTc3NjczNTk3OTYwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=a2S8iM7aMz4Q7kNvwFjmbqq&_nc_oc=AdpDfg8wavxQchBJqcde_zG0v47e1xB5PEco8p_3qFOviLmyuoEJctfyCuXWjaS2xAeSLUor_kzYAgrCnaWtHrrM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQO9H8E6WhInkGW3Wif5hj0NwOcdML5rwTiZ5REQT1S59w&oe=6ADD9FE8",
           "width": 720,
           "height": 900,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T06:21:28Z"
         },
         {
           "type": "photo",
-          "url": "media/instagram-zuck-6a83585845eec88e.jpg",
-          "poster": "media/instagram-zuck-6a83585845eec88e.jpg",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwHH6Mpv&_nc_oc=AdpawZvC8E1hTYQGJ4GyuSkwU-KbN3Ox7kRYHzpSUJIzRnf-PnPHwmDLVocOgkZLCPkz7Qhg4J3sp0Mb-oTqNJoI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPmyK-RbAVPK_QVAEUiRK1fXXpYG6D8BGr4ihtExp1WOA&oe=6ADD9A0D",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwHH6Mpv&_nc_oc=AdpawZvC8E1hTYQGJ4GyuSkwU-KbN3Ox7kRYHzpSUJIzRnf-PnPHwmDLVocOgkZLCPkz7Qhg4J3sp0Mb-oTqNJoI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPmyK-RbAVPK_QVAEUiRK1fXXpYG6D8BGr4ihtExp1WOA&oe=6ADD9A0D",
           "width": 1080,
           "height": 1350,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T05:56:29Z"
         },
         {
           "type": "photo",
-          "url": "media/instagram-zuck-107ef4437499a9e4.jpg",
-          "poster": "media/instagram-zuck-107ef4437499a9e4.jpg",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843592035_18639858325058217_9212608715768706666_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=NDAwNTIxMTc4OTgxMzgyNzQ0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=EF4d03e9iVIQ7kNvwHMnx1u&_nc_oc=Adqo35Knu9_y2sETJ7RpCwHKHXfA7WG_dIgbRybuu0PxosARf9O2LNgIkJ9F8_T-oWNnjVCYWCK9vL_AvgmzigPM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQOfO8druStf1wNC3g8iETOPkXte2PpxOsJ6720KjVODNw&oe=6ADDAB1A",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843592035_18639858325058217_9212608715768706666_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=NDAwNTIxMTc4OTgxMzgyNzQ0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=EF4d03e9iVIQ7kNvwHMnx1u&_nc_oc=Adqo35Knu9_y2sETJ7RpCwHKHXfA7WG_dIgbRybuu0PxosARf9O2LNgIkJ9F8_T-oWNnjVCYWCK9vL_AvgmzigPM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQOfO8druStf1wNC3g8iETOPkXte2PpxOsJ6720KjVODNw&oe=6ADDAB1A",
           "width": 720,
           "height": 900,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T07:09:14Z"
         },
         {
           "type": "photo",
-          "url": "media/instagram-zuck-107b7dcec8fea8f6.jpg",
-          "poster": "media/instagram-zuck-107b7dcec8fea8f6.jpg",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwE74lN8&_nc_oc=AdrdTA4EWTXSWn_m5a4S7IvhCOUjz3-A6HKVieVjXJ_z_1fnAkM_Jt2sMNu8XOnzTvmRXkwTZyPFLCt6hEpVACmE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNNkLc_S6aRvrvoK3fh42sW2RzAD47YHjzr2EIivvZ5AA&oe=6ADD80DF",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwE74lN8&_nc_oc=AdrdTA4EWTXSWn_m5a4S7IvhCOUjz3-A6HKVieVjXJ_z_1fnAkM_Jt2sMNu8XOnzTvmRXkwTZyPFLCt6hEpVACmE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNNkLc_S6aRvrvoK3fh42sW2RzAD47YHjzr2EIivvZ5AA&oe=6ADD80DF",
           "width": 3126,
           "height": 3907,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T04:09:03Z"
         },
         {
           "type": "photo",
@@ -822,7 +839,8 @@
           "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844758203_18639858562058217_370462872661722884_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=NDAwNTIxMTgwODg2NDcxOTM1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VDqcZrfpDOYQ7kNvwGSewyA&_nc_oc=AdpfBPnApV4vUBgg7GPMxl_pIsslykWe2IJfJrwKzAYcg1pvoLHrnRrbkemgHhkqIXFXkQgsoV848Yn1iBaaqTUq&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNSO5vr5EvYJEaECKckH5Ck0vvwQZwyUOB6wRUjMZkF-A&oe=6ADDAB97",
           "width": 720,
           "height": 900,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T07:11:19Z"
         },
         {
           "type": "photo",
@@ -830,7 +848,8 @@
           "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwHmHzx-&_nc_oc=AdqIGd4pBjPp6JvKqYx0I3A2ngbTZiWjcoxl4IwqIJ6zpe5KiVORGOx575ED2PfjW14mhOY1qKm4JjINbSO6Q7Gm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQOeR696m7W5JYznMFyVf05cVRaA_PQ0FBRh6-XNlGM9Zg&oe=6ADD9846",
           "width": 3000,
           "height": 3750,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T05:48:54Z"
         },
         {
           "type": "photo",
@@ -838,21 +857,23 @@
           "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843876222_18639858463058217_703232905721472827_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=NDAwNTIxMTgxODE0Mjg0ODIzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=x5co41aFdyIQ7kNvwGyBtGw&_nc_oc=Adoin-G9nz1JQU7MMBZ48dD9J-uZk8_t6fnWS7yJHyJL3Nda8d7_Ta10log_7Guo2DKPLc1AYGuOWEFoz1x-wNni&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNNpPWbWWy7kYyyWms251n7B8IttCqQflW89CttIYWRmw&oe=6ADD7570",
           "width": 720,
           "height": 900,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T03:20:16Z"
         }
       ],
       "images": [
-        "media/instagram-zuck-0537ed2fcdc22e89.jpg",
-        "media/instagram-zuck-6a83585845eec88e.jpg",
-        "media/instagram-zuck-107ef4437499a9e4.jpg",
-        "media/instagram-zuck-107b7dcec8fea8f6.jpg",
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843520210_18639858697058217_4287223720748899273_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwNTIxMTc3NjczNTk3OTYwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=a2S8iM7aMz4Q7kNvwFjmbqq&_nc_oc=AdpDfg8wavxQchBJqcde_zG0v47e1xB5PEco8p_3qFOviLmyuoEJctfyCuXWjaS2xAeSLUor_kzYAgrCnaWtHrrM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQO9H8E6WhInkGW3Wif5hj0NwOcdML5rwTiZ5REQT1S59w&oe=6ADD9FE8",
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwHH6Mpv&_nc_oc=AdpawZvC8E1hTYQGJ4GyuSkwU-KbN3Ox7kRYHzpSUJIzRnf-PnPHwmDLVocOgkZLCPkz7Qhg4J3sp0Mb-oTqNJoI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPmyK-RbAVPK_QVAEUiRK1fXXpYG6D8BGr4ihtExp1WOA&oe=6ADD9A0D",
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843592035_18639858325058217_9212608715768706666_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=NDAwNTIxMTc4OTgxMzgyNzQ0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=EF4d03e9iVIQ7kNvwHMnx1u&_nc_oc=Adqo35Knu9_y2sETJ7RpCwHKHXfA7WG_dIgbRybuu0PxosARf9O2LNgIkJ9F8_T-oWNnjVCYWCK9vL_AvgmzigPM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQOfO8druStf1wNC3g8iETOPkXte2PpxOsJ6720KjVODNw&oe=6ADDAB1A",
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwE74lN8&_nc_oc=AdrdTA4EWTXSWn_m5a4S7IvhCOUjz3-A6HKVieVjXJ_z_1fnAkM_Jt2sMNu8XOnzTvmRXkwTZyPFLCt6hEpVACmE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNNkLc_S6aRvrvoK3fh42sW2RzAD47YHjzr2EIivvZ5AA&oe=6ADD80DF",
         "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844758203_18639858562058217_370462872661722884_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=NDAwNTIxMTgwODg2NDcxOTM1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=VDqcZrfpDOYQ7kNvwGSewyA&_nc_oc=AdpfBPnApV4vUBgg7GPMxl_pIsslykWe2IJfJrwKzAYcg1pvoLHrnRrbkemgHhkqIXFXkQgsoV848Yn1iBaaqTUq&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNSO5vr5EvYJEaECKckH5Ck0vvwQZwyUOB6wRUjMZkF-A&oe=6ADDAB97",
         "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwHmHzx-&_nc_oc=AdqIGd4pBjPp6JvKqYx0I3A2ngbTZiWjcoxl4IwqIJ6zpe5KiVORGOx575ED2PfjW14mhOY1qKm4JjINbSO6Q7Gm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQOeR696m7W5JYznMFyVf05cVRaA_PQ0FBRh6-XNlGM9Zg&oe=6ADD9846",
         "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/843876222_18639858463058217_703232905721472827_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=NDAwNTIxMTgxODE0Mjg0ODIzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=x5co41aFdyIQ7kNvwGyBtGw&_nc_oc=Adoin-G9nz1JQU7MMBZ48dD9J-uZk8_t6fnWS7yJHyJL3Nda8d7_Ta10log_7Guo2DKPLc1AYGuOWEFoz1x-wNni&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNNpPWbWWy7kYyyWms251n7B8IttCqQflW89CttIYWRmw&oe=6ADD7570"
       ],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T05:37:54Z"
     },
     {
       "id": "Dd1MriSm3-u",
@@ -862,7 +883,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "media/threads-zuck-avatar-2b597afda7f52653.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHWj1vzojC8t1LjpwM-ANc3i27m_g5H10arxsvgL2spHzEHXcFeHz3P1ruksWkib25oZOwMWWfSeLAtjsa6h_Dr&_nc_ohc=gegyXGDTXZwQ7kNvwH6KvsM&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPwCeIOKeB1gMucZM8jOTKwJOBTzP40Bw3z3KnRBZkgMQ&oe=6ADD892B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "CJ joins us from MongoDB, where he was CEO and President. Before that he led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO.",
       "links": [],
@@ -872,7 +893,8 @@
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T04:44:27Z"
     },
     {
       "id": "Dd1MqfcG0aH",
@@ -882,7 +904,7 @@
       "kind": "post",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "media/threads-zuck-avatar-2b597afda7f52653.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHWj1vzojC8t1LjpwM-ANc3i27m_g5H10arxsvgL2spHzEHXcFeHz3P1ruksWkib25oZOwMWWfSeLAtjsa6h_Dr&_nc_ohc=gegyXGDTXZwQ7kNvwH6KvsM&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPwCeIOKeB1gMucZM8jOTKwJOBTzP40Bw3z3KnRBZkgMQ&oe=6ADD892B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "We believe superintelligence will create significant new opportunities for all people and businesses. Meta already serves billions of people at scale and helps hundreds of millions of businesses reach customers. Today we are starting the next major pillar of our business, Meta Enterprise Platform, to help businesses use AI to grow and transform in new ways as well.",
       "links": [],
@@ -892,7 +914,8 @@
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T04:44:27Z"
     },
     {
       "id": "Dd1Mqfum3QF",
@@ -902,7 +925,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "media/threads-zuck-avatar-2b597afda7f52653.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHWj1vzojC8t1LjpwM-ANc3i27m_g5H10arxsvgL2spHzEHXcFeHz3P1ruksWkib25oZOwMWWfSeLAtjsa6h_Dr&_nc_ohc=gegyXGDTXZwQ7kNvwH6KvsM&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPwCeIOKeB1gMucZM8jOTKwJOBTzP40Bw3z3KnRBZkgMQ&oe=6ADD892B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "Meta Enterprise Platform will use our strengths that few other companies have: advanced models, leading agents, large-scale infrastructure, and years of working closely with many businesses. Initially, we will focus on bringing our full technology stack, including the Muse agent, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers to help them grow.",
       "links": [],
@@ -912,7 +935,8 @@
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T04:44:27Z"
     },
     {
       "id": "3994109985701938108",
@@ -922,7 +946,7 @@
       "kind": "post",
       "author": "Mark Zuckerberg",
       "handle": "zuck",
-      "avatar": "media/instagram-zuck-avatar-ab0a29c6239be534.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=clW0TJ8kvhkQ7kNvwEnjC3_&_nc_oc=AdqmuHeAe3RwPN7JFyxg_QtZART6SvFH-j4dWuan3Yux7HpMJQqEixrSA-rkUcVitrz_iMhS3z1zHX7tq05__1xd&_nc_zt=24&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=FBwNP4eiYlU3RmVmfoV4Ug&_nc_ss=70689&oh=00_AQOAXlcTqUNopWaN1Sr0WaBLAEPrgtS98_Koqj4pQyi6_w&oe=6ADD95B2",
       "verifiedType": null,
       "text": "Agrippa said it's time to get back to work 😎",
       "links": [],
@@ -931,35 +955,39 @@
       "media": [
         {
           "type": "photo",
-          "url": "media/instagram-zuck-72fb488669339fd7.jpg",
-          "poster": "media/instagram-zuck-72fb488669339fd7.jpg",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwG4BZVH&_nc_oc=AdqbrLc-MFkLiJUxrVhTWoTdon4_vL9qWFLP8rjUrZpd70F3d7kD5cX3xbJcLM3n4o2kDG8knGmk0V3PzoTxMaFI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNVXXmhkEZTBxEnFlgvGPArdAxrsPjX01CM7IT73wWlcw&oe=6ADDA7EE",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwG4BZVH&_nc_oc=AdqbrLc-MFkLiJUxrVhTWoTdon4_vL9qWFLP8rjUrZpd70F3d7kD5cX3xbJcLM3n4o2kDG8knGmk0V3PzoTxMaFI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNVXXmhkEZTBxEnFlgvGPArdAxrsPjX01CM7IT73wWlcw&oe=6ADDA7EE",
           "width": 2160,
           "height": 2700,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T06:55:42Z"
         },
         {
           "type": "photo",
-          "url": "media/instagram-zuck-91f3f8bb8a99a693.jpg",
-          "poster": "media/instagram-zuck-91f3f8bb8a99a693.jpg",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwHgaw3b&_nc_oc=Adpwu3v1dOHaa8ELieZeOP6jU9Yv-9OrYv7kx-VxtZLOxQHwQb3KgmhRasAXXXVrXcZYMuh-Mv6LIJivarGHIwF8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPKxojSkrZU5SDalTGpMI3uF9XYaMx5MfcN3plHFlrj2w&oe=6ADD78D5",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwHgaw3b&_nc_oc=Adpwu3v1dOHaa8ELieZeOP6jU9Yv-9OrYv7kx-VxtZLOxQHwQb3KgmhRasAXXXVrXcZYMuh-Mv6LIJivarGHIwF8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPKxojSkrZU5SDalTGpMI3uF9XYaMx5MfcN3plHFlrj2w&oe=6ADD78D5",
           "width": 1638,
           "height": 2047,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T03:34:45Z"
         },
         {
           "type": "photo",
-          "url": "media/instagram-zuck-b24e3e7500eb3ecb.jpg",
-          "poster": "media/instagram-zuck-b24e3e7500eb3ecb.jpg",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwFnK3En&_nc_oc=AdrcexfM5sgPiixJrdOV3xNtwtTWUGqVNJ5LqLIKGkEtOLg1KEwPaJ4Q1GKSHWxKdXsb76DezGs9jmBZcFLjqDHH&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQM9b85qkbVHyxongHUiK0IzufAQweSAM0DDrFgeH5na6Q&oe=6ADD8DA5",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwFnK3En&_nc_oc=AdrcexfM5sgPiixJrdOV3xNtwtTWUGqVNJ5LqLIKGkEtOLg1KEwPaJ4Q1GKSHWxKdXsb76DezGs9jmBZcFLjqDHH&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQM9b85qkbVHyxongHUiK0IzufAQweSAM0DDrFgeH5na6Q&oe=6ADD8DA5",
           "width": 2160,
           "height": 2700,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T05:03:33Z"
         },
         {
           "type": "photo",
-          "url": "media/instagram-zuck-ba5f32123ecb3671.jpg",
-          "poster": "media/instagram-zuck-ba5f32123ecb3671.jpg",
+          "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwEtTRlm&_nc_oc=AdqqzdB0w4hOCWgIwp1FppkwA-mu1SLkK3xWuBKawnfqsVrnghDhkPu2FjRoVw5R98whR4OEt6qec-1eJjtHytOa&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNh5_qGbj9L4TucIWOEFhUhOoDpLD832SQoOAX-Y8bDwA&oe=6ADD7A73",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwEtTRlm&_nc_oc=AdqqzdB0w4hOCWgIwp1FppkwA-mu1SLkK3xWuBKawnfqsVrnghDhkPu2FjRoVw5R98whR4OEt6qec-1eJjtHytOa&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNh5_qGbj9L4TucIWOEFhUhOoDpLD832SQoOAX-Y8bDwA&oe=6ADD7A73",
           "width": 2160,
           "height": 2700,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T03:41:39Z"
         },
         {
           "type": "photo",
@@ -967,7 +995,8 @@
           "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwGzSF06&_nc_oc=AdrKiVTp023itiAGDGPkCA8YU4gxDhgNm77rvp77K-W3OifOFyXxRgXozawrzSNVoadA6qGex9L5PCgu-zzSwQMt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPQbiLvE3rHrme5ZFEodnVxBOdDHVYSq2mTQN98uE4Qbg&oe=6ADD8B83",
           "width": 3277,
           "height": 4096,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T04:54:27Z"
         },
         {
           "type": "photo",
@@ -975,7 +1004,8 @@
           "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/817719323_18634670524058217_8416255416118125907_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzE1MjQzOTcyNTI4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=bLnHh8FH60cQ7kNvwGS-maa&_nc_oc=AdpY3E4KwkcIe-B2-BhE8Ysq12O_0XcLb35MKgO-3FxGkImFimeSjxnqvvLIhMHxWv4pELGtZZ6HFNtWIUQorMkN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPaV5wrMkmVp3oW3YZe8ZjbiLQRdsn2ZOFXOUJuryPH3g&oe=6ADD85E9",
           "width": 720,
           "height": 900,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T04:30:33Z"
         },
         {
           "type": "photo",
@@ -983,7 +1013,8 @@
           "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwGpe3Rv&_nc_oc=AdoblwIUv0ZJUK4AeF0Ox9agHc7KrMoKYDmPEK5lZj4w79o7C119Ppkv68YzyIxzs3IQDJrL9wNptJ8ikAF_72an&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNaTu3lsTAyeDYRBDpFS0pnTS02Zprkp2yGUT-WgWQu-w&oe=6ADD767E",
           "width": 2160,
           "height": 2700,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T03:24:46Z"
         },
         {
           "type": "photo",
@@ -991,7 +1022,8 @@
           "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/821686111_18634670527058217_4300371356444530186_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzIwMjE2MjUyNTUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qjWAcORiwYIQ7kNvwEgNdy-&_nc_oc=Adrfr1SXbwSVdiyemtqqBOOvWcVglXvjNae3A6nAeHVivX4SuZhCLIsUJ7Y9Urub7ENxkB9yyia3cUp0kYjNS5im&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQOBc_hgv3arhDdLM--t5hofo1Y4L4gClJ5EAYM0wzAh6Q&oe=6ADD9DA8",
           "width": 2160,
           "height": 2700,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T06:11:52Z"
         },
         {
           "type": "photo",
@@ -999,14 +1031,15 @@
           "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/825016870_18634670608058217_5311826346574857907_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE2OTkzMDU0NTU0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=9ucH5cUktt0Q7kNvwHfQnTj&_nc_oc=Adri4kfOvJrRVHZ3QaIYHuJ_a6mQjmHdUzc8UP8ev-sS3pdWqid9yx2-Zna3XmDneZEX85EcmRUPY_cgT5EWFn3G&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPx85ReQm5AzSUR2O2PRPfy-9JF_RoyMoWvShqY3dJrNg&oe=6ADD867C",
           "width": 720,
           "height": 900,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-25T04:33:00Z"
         }
       ],
       "images": [
-        "media/instagram-zuck-72fb488669339fd7.jpg",
-        "media/instagram-zuck-91f3f8bb8a99a693.jpg",
-        "media/instagram-zuck-b24e3e7500eb3ecb.jpg",
-        "media/instagram-zuck-ba5f32123ecb3671.jpg",
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwG4BZVH&_nc_oc=AdqbrLc-MFkLiJUxrVhTWoTdon4_vL9qWFLP8rjUrZpd70F3d7kD5cX3xbJcLM3n4o2kDG8knGmk0V3PzoTxMaFI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNVXXmhkEZTBxEnFlgvGPArdAxrsPjX01CM7IT73wWlcw&oe=6ADDA7EE",
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwHgaw3b&_nc_oc=Adpwu3v1dOHaa8ELieZeOP6jU9Yv-9OrYv7kx-VxtZLOxQHwQb3KgmhRasAXXXVrXcZYMuh-Mv6LIJivarGHIwF8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPKxojSkrZU5SDalTGpMI3uF9XYaMx5MfcN3plHFlrj2w&oe=6ADD78D5",
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwFnK3En&_nc_oc=AdrcexfM5sgPiixJrdOV3xNtwtTWUGqVNJ5LqLIKGkEtOLg1KEwPaJ4Q1GKSHWxKdXsb76DezGs9jmBZcFLjqDHH&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQM9b85qkbVHyxongHUiK0IzufAQweSAM0DDrFgeH5na6Q&oe=6ADD8DA5",
+        "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwEtTRlm&_nc_oc=AdqqzdB0w4hOCWgIwp1FppkwA-mu1SLkK3xWuBKawnfqsVrnghDhkPu2FjRoVw5R98whR4OEt6qec-1eJjtHytOa&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNh5_qGbj9L4TucIWOEFhUhOoDpLD832SQoOAX-Y8bDwA&oe=6ADD7A73",
         "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwGzSF06&_nc_oc=AdrKiVTp023itiAGDGPkCA8YU4gxDhgNm77rvp77K-W3OifOFyXxRgXozawrzSNVoadA6qGex9L5PCgu-zzSwQMt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPQbiLvE3rHrme5ZFEodnVxBOdDHVYSq2mTQN98uE4Qbg&oe=6ADD8B83",
         "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/817719323_18634670524058217_8416255416118125907_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzE1MjQzOTcyNTI4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=bLnHh8FH60cQ7kNvwGS-maa&_nc_oc=AdpY3E4KwkcIe-B2-BhE8Ysq12O_0XcLb35MKgO-3FxGkImFimeSjxnqvvLIhMHxWv4pELGtZZ6HFNtWIUQorMkN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPaV5wrMkmVp3oW3YZe8ZjbiLQRdsn2ZOFXOUJuryPH3g&oe=6ADD85E9",
         "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwGpe3Rv&_nc_oc=AdoblwIUv0ZJUK4AeF0Ox9agHc7KrMoKYDmPEK5lZj4w79o7C119Ppkv68YzyIxzs3IQDJrL9wNptJ8ikAF_72an&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQNaTu3lsTAyeDYRBDpFS0pnTS02Zprkp2yGUT-WgWQu-w&oe=6ADD767E",
@@ -1015,7 +1048,8 @@
       ],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T05:37:54Z"
     },
     {
       "id": "3992882495729058201",
@@ -1025,7 +1059,7 @@
       "kind": "post",
       "author": "Mark Zuckerberg",
       "handle": "zuck",
-      "avatar": "media/instagram-zuck-avatar-ab0a29c6239be534.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=clW0TJ8kvhkQ7kNvwEnjC3_&_nc_oc=AdqmuHeAe3RwPN7JFyxg_QtZART6SvFH-j4dWuan3Yux7HpMJQqEixrSA-rkUcVitrz_iMhS3z1zHX7tq05__1xd&_nc_zt=24&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=FBwNP4eiYlU3RmVmfoV4Ug&_nc_ss=70689&oh=00_AQOAXlcTqUNopWaN1Sr0WaBLAEPrgtS98_Koqj4pQyi6_w&oe=6ADD95B2",
       "verifiedType": null,
       "text": "Lots of news at Meta Connect today: voice chat for Muse, tons of new glasses, the first-ever VR glasses, and a fun little Muse Charm.",
       "links": [],
@@ -1035,16 +1069,19 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNRj92RaUryKnHp4Az_vszCdJo0pbsyLYvn_x8OVYt0dN6mFsEz6yyEpu8ymlSOPxHNoQgL1ocFfkyAALAuvSwwKpRAp6rKLSCluSg.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=OcEAqajExf8Q7kNvwHr5Eyj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTEwMjM5ODgzODk5OTQwOSwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6be6441cf7236a0a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNzQ0MzM2MDUwOUEwNTkyNjZGOUU0MTM2NUJBRERBMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M2NDI3NzQwQ0FCRDEyMTcyOTQzOTJBOUJCMkVCRDk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbipZizh6j1AxUCKAJDMywXQF6Kn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQPvqBTMR-FldiqIP2iwHhbUFBsWawaCE5MVeMtWvTL7FQ&oe=6AD99282",
-          "poster": "media/instagram-zuck-poster-e1acb0f3757bf980.jpg",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/817679248_18634097056058217_1242456129074364035_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk5Mjg4MjQ5NTcyOTA1ODIwMTE4NjM0MDk3MDUzMDU4MjE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjkwMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=4hNEmbXXCVYQ7kNvwHIxcbp&_nc_oc=Ado7c2oQLHkMmSQCL7Jmkg0ee1WyVt6P2fy7eJHqWRM6cnbe9uZOOFW24wl_QWRQ0WLEbCfZX-of7HQMk86aYRh2&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQOBU0E5ARmKpZ1mi0QK2pZx9e66HHKiwbuL0h9-u9ltdw&oe=6ADD9E96",
           "width": null,
           "height": null,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-22T04:35:14Z",
+          "posterExpires": "2026-10-25T06:15:50Z"
         }
       ],
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T05:37:54Z"
     },
     {
       "id": "3991939912671956657",
@@ -1054,7 +1091,7 @@
       "kind": "post",
       "author": "Mark Zuckerberg",
       "handle": "zuck",
-      "avatar": "media/instagram-zuck-avatar-ab0a29c6239be534.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=clW0TJ8kvhkQ7kNvwEnjC3_&_nc_oc=AdqmuHeAe3RwPN7JFyxg_QtZART6SvFH-j4dWuan3Yux7HpMJQqEixrSA-rkUcVitrz_iMhS3z1zHX7tq05__1xd&_nc_zt=24&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=FBwNP4eiYlU3RmVmfoV4Ug&_nc_ss=70689&oh=00_AQOAXlcTqUNopWaN1Sr0WaBLAEPrgtS98_Koqj4pQyi6_w&oe=6ADD95B2",
       "verifiedType": null,
       "text": "Meta Connect tomorrow. See you there 😎",
       "links": [],
@@ -1064,16 +1101,19 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQP35V3c4d9tQ2z08AZ0pBX4a6I3qkZkBJQQ0Qah9tUZkMKYHGD8qKwC7hQlhp97s9Tad8_THAQRQKX88RLoXg3n_W3bNnZrEf7fsJs.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=lAihmop9ntgQ7kNvwGUMohR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjIzMTM2NTU4NzcyNTQ5MSwiYXNzZXRfYWdlX2RheXMiOjI4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8339ec8f0a937a63&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMTQ4MzkwNzhBNDU0MDdEODc3OTU2QkNBREFCOTlCQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzJFQTVDNjI4QjlBNzRCMDFCQzFGNDI0MDFENkYxNTlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbmssOTydr2BxUCKAJDMywXQCEhysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNqgg6X3G9pGGuloHI9i3ofmaVjhoQDPraMgguSnXfgEA&oe=6AD9AF22",
-          "poster": "media/instagram-zuck-poster-2ead775935bf2f14.jpg",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/811170493_18633669466058217_1272129350810393762_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk5MTkzOTkxMjY3MTk1NjY1NzE4NjMzNjY5NDYzMDU4MjE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=yyq5ABnqjz8Q7kNvwG5Anxh&_nc_oc=Ado4Mx4ZUMv_O65hzOuslRwd2T7hzOREN_4M4L3QJckU1oNDj6gdq81A4Z0DD2_cz4oCI4Ffxxk0wuwZZaEd-Xi5&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQPyVpeHr8BslRMR6so4U-CeYrzhGM0YQEyvGmKQacxG2g&oe=6ADD794F",
           "width": null,
           "height": null,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-22T06:37:22Z",
+          "posterExpires": "2026-10-25T03:36:47Z"
         }
       ],
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T05:37:54Z"
     },
     {
       "id": "3990511034267788051",
@@ -1083,7 +1123,7 @@
       "kind": "post",
       "author": "Mark Zuckerberg",
       "handle": "zuck",
-      "avatar": "media/instagram-zuck-avatar-ab0a29c6239be534.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=clW0TJ8kvhkQ7kNvwEnjC3_&_nc_oc=AdqmuHeAe3RwPN7JFyxg_QtZART6SvFH-j4dWuan3Yux7HpMJQqEixrSA-rkUcVitrz_iMhS3z1zHX7tq05__1xd&_nc_zt=24&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=FBwNP4eiYlU3RmVmfoV4Ug&_nc_ss=70689&oh=00_AQOAXlcTqUNopWaN1Sr0WaBLAEPrgtS98_Koqj4pQyi6_w&oe=6ADD95B2",
       "verifiedType": null,
       "text": "Muse has been out for a little over a week and we're just getting started. Link in bio to download 💪",
       "links": [],
@@ -1093,16 +1133,19 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOm04MHChaM63q-oFTgZpTUUBiETe2HCn9RVCPB25VHYh9LWhjjNsIfSKFkNkoxCaFGNOcT3hyhPfUH8Zoy6W9M-XCrO8Mi7xoKCHY.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=y1amfR6t-l8Q7kNvwEeT964&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTcwNTUzMDYyMzg3MzgwNiwiYXNzZXRfYWdlX2RheXMiOjMwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7527fea3f7cf8149&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQjQ5MzA5NUU1MkE3NjJFRkUzQjFCRjAxRkEyRjY4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkwNDM0MEZFMjY0NDFEQTNCRURBMUEzNjcxNDM5Mjk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaczOqv-cqHBhUCKAJDMywXQFTZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNm0T1fSSTJm7BQZRQJncX0-s6oKU-FEbYWTHbFSDGkGQ&oe=6AD998F6",
-          "poster": "media/instagram-zuck-poster-855f1841a0a3efcc.jpg",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/811170468_18633043450058217_796617669100998277_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk5MDUxMTAzNDI2Nzc4ODA1MTE4NjMzMDQzNDQ0MDU4MjE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTQuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=z2hxe3oGxAcQ7kNvwFZ4CFV&_nc_oc=AdrW1ruQ-XVz1DsawN9d2uiHFfzu70t8spaFGN_vp8b_UUFHxXp147rDsJC6Rp9vodkd7rpb1lnnLGj7QJ_bmgXQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQOvrohzEgHaTVqGqgTMVUA9MNiQL5D8yBWje2uz-CpvCA&oe=6ADD9697",
           "width": null,
           "height": null,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-22T05:02:46Z",
+          "posterExpires": "2026-10-25T05:41:43Z"
         }
       ],
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T05:37:54Z"
     },
     {
       "id": "3981852019878410010",
@@ -1112,7 +1155,7 @@
       "kind": "post",
       "author": "Mark Zuckerberg",
       "handle": "zuck",
-      "avatar": "media/instagram-zuck-avatar-ab0a29c6239be534.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=clW0TJ8kvhkQ7kNvwEnjC3_&_nc_oc=AdqmuHeAe3RwPN7JFyxg_QtZART6SvFH-j4dWuan3Yux7HpMJQqEixrSA-rkUcVitrz_iMhS3z1zHX7tq05__1xd&_nc_zt=24&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=FBwNP4eiYlU3RmVmfoV4Ug&_nc_ss=70689&oh=00_AQOAXlcTqUNopWaN1Sr0WaBLAEPrgtS98_Koqj4pQyi6_w&oe=6ADD95B2",
       "verifiedType": null,
       "text": "Meet @Muse, the personal agent that helps you get things done.",
       "links": [],
@@ -1122,16 +1165,19 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPlYEFkfC_dpYWuAtSApbwAQx2N5tPEIb4_Qz9rBmFi-G-9nV-YKQnZEoNX6aVWd0OGNkz6NPiMyUoFhUxqZ_vYSm8hKIVGmcnCGBw.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=VFsFSUGIhSEQ7kNvwEFhfeL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM4OTg0MTE2NTkyNjE2OSwiYXNzZXRfYWdlX2RheXMiOjQyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d0b56ca4f1e7a874&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNjQyNjNCNTlGNTVDNUU1MzJGRjlCRTA4RkI5RUU4M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y1NDdBRENCQkNEMjUyQjAzRTVDRjk4RDNEOTYzNEIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACay_OnPs4P4BBUCKAJDMywXQFm3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNKS_u0WB6aAMekR1bceRnpg5OG8Gy2gi0KOXwMdJ8mAA&oe=6AD9B63C",
-          "poster": "media/instagram-zuck-poster-c2b9f7b43a60cf3a.jpg",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/787888645_18629038708058217_7602872519504197567_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk4MTg1MjAxOTg3ODQxMDAxMDE4NjI5MDM4NzA1MDU4MjE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=UijBO0kTuUAQ7kNvwE1fP8h&_nc_oc=Adqr1_595JhTiVuTmQlXHEl3GRmTcNJ395gjv6uwfowTqO218MzgApMViub0CWpwY_UnQuZzn5UD478CkCD_0Cqv&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQMwfR7Ky3i-0uHVGX075fHZYSwxtkvlJm3Od3fsYh_c_Q&oe=6ADD8DD9",
           "width": null,
           "height": null,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-22T07:07:40Z",
+          "posterExpires": "2026-10-25T05:04:25Z"
         }
       ],
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T05:37:54Z"
     },
     {
       "id": "3960562888535755170",
@@ -1141,7 +1187,7 @@
       "kind": "post",
       "author": "Mark Zuckerberg",
       "handle": "zuck",
-      "avatar": "media/instagram-zuck-avatar-ab0a29c6239be534.jpg",
+      "avatar": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=clW0TJ8kvhkQ7kNvwEnjC3_&_nc_oc=AdqmuHeAe3RwPN7JFyxg_QtZART6SvFH-j4dWuan3Yux7HpMJQqEixrSA-rkUcVitrz_iMhS3z1zHX7tq05__1xd&_nc_zt=24&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=FBwNP4eiYlU3RmVmfoV4Ug&_nc_ss=70689&oh=00_AQOAXlcTqUNopWaN1Sr0WaBLAEPrgtS98_Koqj4pQyi6_w&oe=6ADD95B2",
       "verifiedType": null,
       "text": "I believe everyone should have access to superintelligence, and I wrote a long piece about Meta's philosophy and values for building a positive future for everyone. Link in bio.",
       "links": [],
@@ -1151,16 +1197,19 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQM7W8dG7i5pYZF0vuUzRe9gRitaY7V42S8SIRwZ2YIe-HQLsQ6fa5JCUDSfFBn-tgQpJ52alW0xnFfFrwG2SkP01CT9ZTtfrjVOrT4.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=bBCygZ--HakQ7kNvwGXGVsi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzY5MDI0MjgxNzgwODg0NSwiYXNzZXRfYWdlX2RheXMiOjcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ea7d619afb656c19&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80NTRGMUEyRTA1M0RFMkZCMDNEMjBCQzVFN0Y4ODQ5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFDNEQyQkRCRDlDQkQxMjA3M0E2M0I4Qjg5REU3OTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa59LEs5CODRUCKAJDMywXQFTbtkWhysEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNi2ccH5mQbb2nEh1MAaL8jt88aQ1DgJnSRuJ5_QuMi8g&oe=6AD9AAD5",
-          "poster": "media/instagram-zuck-poster-8328e115b7ccca73.jpg",
+          "poster": "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/769777729_18618792775058217_8303477721445574459_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MDU2Mjg4ODUzNTc1NTE3MDE4NjE4NzkyNzY5MDU4MjE3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNTIuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=rsiRymYnjAYQ7kNvwEGBkTE&_nc_oc=AdoJZhXF6TWAdC_F-NAtJnoo3B3NGnZzC8WmAIEavc8IiPowcVLxaAs3Ge6egInAk-V53ri1XD_acaKHIt7xBlTc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&oh=00_AQMKFk2w3F9uhwGWtSQqXUA4M6XUH3jYK5Z5xdIBNuwm1Q&oe=6ADD863D",
           "width": null,
           "height": null,
-          "alt": ""
+          "alt": "",
+          "expires": "2026-10-22T06:19:01Z",
+          "posterExpires": "2026-10-25T04:31:57Z"
         }
       ],
       "images": [],
       "repostedBy": null,
       "replyingTo": null,
-      "quoted": null
+      "quoted": null,
+      "avatarExpires": "2026-10-25T05:37:54Z"
     }
   ]
 }
