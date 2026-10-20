@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:33:30Z",
+  "updated": "2026-10-20T20:04:12Z",
   "preview": true,
   "feeds": [
     {
@@ -8,7 +8,7 @@
       "handle": "elonmusk",
       "name": "Elon Musk",
       "title": "Elon Musk",
-      "avatar": "media/x-elonmusk-avatar-68e5ecd6cdd8643b.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
       "bio": "http://Terafab.AI",
       "url": "https://x.com/elonmusk",
       "joined": "2009-06-02",
@@ -24,7 +24,7 @@
       "handle": "RihardJarc",
       "name": "Rihard Jarc",
       "title": "Rihard Jarc",
-      "avatar": "media/x-rihardjarc-avatar-e09978c683f8b40d.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/1251462631363403776/r4lpY-WV_400x400.jpg",
       "url": "https://x.com/RihardJarc",
       "verifiedType": "blue",
       "configured": false
@@ -35,7 +35,7 @@
       "handle": "SawyerMerritt",
       "name": "Sawyer Merritt",
       "title": "Sawyer Merritt",
-      "avatar": "media/x-sawyermerritt-avatar-aaad04c5e352f556.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/1837744842715082752/xH9vYixL_400x400.jpg",
       "url": "https://x.com/SawyerMerritt",
       "verifiedType": "blue",
       "configured": false
@@ -46,7 +46,7 @@
       "handle": "ScottPresler",
       "name": "ThePersistence",
       "title": "ThePersistence",
-      "avatar": "media/x-scottpresler-avatar-7f9a94305f41ccff.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/1321124227215491072/pIC0lG5M_400x400.jpg",
       "url": "https://x.com/ScottPresler",
       "verifiedType": "blue",
       "configured": false
@@ -57,7 +57,7 @@
       "handle": "BrianRoemmele",
       "name": "Brian Roemmele",
       "title": "Brian Roemmele",
-      "avatar": "media/x-brianroemmele-avatar-2559fe6340219d0e.png",
+      "avatar": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_400x400.png",
       "url": "https://x.com/BrianRoemmele",
       "verifiedType": "blue",
       "configured": false
@@ -68,7 +68,7 @@
       "handle": "EndWokeness",
       "name": "End Wokeness",
       "title": "End Wokeness",
-      "avatar": "media/x-endwokeness-avatar-07f1f6da4aca57c1.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_400x400.jpg",
       "url": "https://x.com/EndWokeness",
       "verifiedType": "blue",
       "configured": false
@@ -79,7 +79,7 @@
       "handle": "aaronburnett",
       "name": "Aaron Burnett",
       "title": "Aaron Burnett",
-      "avatar": "media/x-aaronburnett-avatar-d5e43e216ab1087a.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2049987217477513216/GJx9_LdR_400x400.jpg",
       "url": "https://x.com/aaronburnett",
       "verifiedType": "blue",
       "configured": false
@@ -90,7 +90,7 @@
       "handle": "KatieMiller",
       "name": "Katie Miller",
       "title": "Katie Miller",
-      "avatar": "media/x-katiemiller-avatar-4bb573c08777340b.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2069236878105079808/w6zY6sZF_400x400.jpg",
       "url": "https://x.com/KatieMiller",
       "verifiedType": "blue",
       "configured": false
@@ -101,7 +101,7 @@
       "handle": "GadSaad",
       "name": "Gad Saad",
       "title": "Gad Saad",
-      "avatar": "media/x-gadsaad-avatar-30b1b9cd32a36e52.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/979192426660327424/4B9g75QR_400x400.jpg",
       "url": "https://x.com/GadSaad",
       "verifiedType": "blue",
       "configured": false
@@ -112,7 +112,7 @@
       "handle": "realBrandonGill",
       "name": "Brandon Gill",
       "title": "Brandon Gill",
-      "avatar": "media/x-realbrandongill-avatar-480591625009b554.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2017690903096262656/l45MPM6a_400x400.jpg",
       "url": "https://x.com/realBrandonGill",
       "verifiedType": "blue",
       "configured": false
@@ -123,7 +123,7 @@
       "handle": "finkd",
       "name": "Mark Zuckerberg",
       "title": "Mark Zuckerberg",
-      "avatar": "media/x-finkd-avatar-c6ca681d507cc0c5.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg",
       "url": "https://x.com/finkd",
       "joined": "2009-02-01",
       "verifiedType": "blue",
@@ -138,7 +138,7 @@
       "handle": "Wahndo_",
       "name": "wahndo",
       "title": "wahndo",
-      "avatar": "media/x-wahndo_-avatar-b104f29f485e1905.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/1740434155891007488/L_ela7nE_400x400.jpg",
       "url": "https://x.com/Wahndo_",
       "verifiedType": "blue",
       "configured": false
@@ -149,7 +149,7 @@
       "handle": "etnshow",
       "name": "etn.",
       "title": "etn.",
-      "avatar": "media/x-etnshow-avatar-554dd4d0715c1797.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2080306993810522112/vfPcOVGd_400x400.jpg",
       "url": "https://x.com/etnshow",
       "verifiedType": "business",
       "configured": false
@@ -185,7 +185,7 @@
       "kind": "quote",
       "author": "Elon Musk",
       "handle": "elonmusk",
-      "avatar": "media/x-elonmusk-avatar-68e5ecd6cdd8643b.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
       "verifiedType": "blue",
       "text": "“Lack of electricity” is an oversimplification. Everything is hard about bringing massive compute online at extremely high speed.\n\nIf there was twice as much time, this would be relatively easy, but there is not.",
       "links": [],
@@ -203,7 +203,7 @@
         "kind": "post",
         "author": "Rihard Jarc",
         "handle": "RihardJarc",
-        "avatar": "media/x-rihardjarc-avatar-e09978c683f8b40d.jpg",
+        "avatar": "https://pbs.twimg.com/profile_images/1251462631363403776/r4lpY-WV_400x400.jpg",
         "verifiedType": "blue",
         "text": "Former $GOOGL employee on why data center capacity and electricity are the real bottlenecks, not GPU production itself, and how unreliable some of the neoclouds are ($AMZN, $GOOGL, $MSFT, $NVDA):\n\n1. According to the expert, open-source models are closing the gap with frontier models faster than expected, with customers increasingly replacing Anthropic and OpenAI models in multi-agent architectures with open-source alternatives starting from Q2 of this year. The shift started with simple tasks like tool calling and MCP, but has moved up the stack to low-level orchestration.\n\n2. The expert identifies capacity as the biggest constraint at the moment, with certain companies' traffic growing 5x while GPU availability, particularly in the U.S. where latency requirements are tightest, simply cannot keep up. Sourcing capacity overseas in Asia or Australia is technically possible but adds latency that most customers will not accept.\n\n3. Hyperscalers offer reliability but are expensive, require multi-year commitments of three or more years, and have limited availability of the latest hardware, with customers already chasing B300s. AI-native companies tend to gravitate toward neoclouds due to hyperscaler pricing and contract rigidity, but neoclouds come with their own reliability issues, with GPUs dropping off unexpectedly and requiring engineering resources to manage fleet stability around the clock.\n\n4. The third tier consists of smaller independent operators who have invested in GPU racks, seeing the opportunity to lease out capacity and recoup costs within a year or two, with the remainder being pure profit. The expert describes these as essentially unusable in practice, with operators who do nothing more than find land, install racks, connect electricity, and set up cooling, with no real cloud management, maintenance, or operational expertise behind them.\n\n5. The expert expects overall GPU availability to increase meaningfully over the next year or two, with $NVDA continuing to ramp production. The real bottleneck is not GPUs themselves but data center capacity and electricity in the U.S. On the supply side, the expert also sees players $SPCX beginning to lease out spare capacity to the market, with more likely to follow.\n\n6. The expert notes that U.S.-based neoclouds typically require 20-30% prepayment upfront, with the remainder paid monthly or quarterly over the contract term, and rebates negotiated at the end for any reliability incidents like traffic loss. APAC-based providers operate differently, with no prepayment required at all.\n\nfound on @AlphaSenseInc",
         "links": [],
@@ -240,7 +240,7 @@
       "kind": "post",
       "author": "Elon Musk",
       "handle": "elonmusk",
-      "avatar": "media/x-elonmusk-avatar-68e5ecd6cdd8643b.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
       "verifiedType": "blue",
       "text": "Johann Sebastian Bach is the Shakespeare of music. Best there ever was.",
       "links": [],
@@ -268,7 +268,7 @@
       "kind": "repost",
       "author": "Sawyer Merritt",
       "handle": "SawyerMerritt",
-      "avatar": "media/x-sawyermerritt-avatar-aaad04c5e352f556.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/1837744842715082752/xH9vYixL_400x400.jpg",
       "verifiedType": "blue",
       "text": "Elon Musk in new interview with Walter Isaacson on the wealth he's created:\n\n\"A fundamental misunderstanding of economics arises because of conflating resource allocation and consumption; I've created. My so-called wealth is simply a percentage ownership in SpaceX and Tesla. And this is going to be taxed quite heavily, and there's not some magical way to avoid taxes. If there were I would know about it. At the end of the day, this will get whittled down, and a few generations from now, if money still matters, which I don't think it will, my descendants would have a tiny fraction of what I have.\"",
       "links": [],
@@ -301,7 +301,7 @@
       "kind": "quote",
       "author": "Elon Musk",
       "handle": "elonmusk",
-      "avatar": "media/x-elonmusk-avatar-68e5ecd6cdd8643b.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
       "verifiedType": "blue",
       "text": "The fate of Texas and America is at stake. Vote for @KenPaxtonTX today.",
       "links": [],
@@ -319,7 +319,7 @@
         "kind": "post",
         "author": "ThePersistence",
         "handle": "ScottPresler",
-        "avatar": "media/x-scottpresler-avatar-7f9a94305f41ccff.jpg",
+        "avatar": "https://pbs.twimg.com/profile_images/1321124227215491072/pIC0lG5M_400x400.jpg",
         "verifiedType": "blue",
         "text": "Today is a great day to vote early in person for @KenPaxtonTX in Texas.",
         "links": [],
@@ -356,7 +356,7 @@
       "kind": "repost",
       "author": "Brian Roemmele",
       "handle": "BrianRoemmele",
-      "avatar": "media/x-brianroemmele-avatar-2559fe6340219d0e.png",
+      "avatar": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_400x400.png",
       "verifiedType": "blue",
       "text": "The Grok Bot wave. Massive growth in just a few days.\n\nWhy?\n\nIt is the easiest most accessible agent platform thus built, and it keeps getting better,\n\nI am not guessing, I have been using agent systems before we had LLMs and today I can use any bot, but I find @Grok @Bot to be the best on all my test points.\n\nIt has not retreated from anything I threw at it. But that’s only half of it. The suggestions are great and unlike any other platform.\n\nThe chart is a wave and I say catch it…",
       "links": [],
@@ -389,7 +389,7 @@
       "kind": "quote",
       "author": "Elon Musk",
       "handle": "elonmusk",
-      "avatar": "media/x-elonmusk-avatar-68e5ecd6cdd8643b.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
       "verifiedType": "blue",
       "text": "Objectively, the “Great Replacement” has already occurred",
       "links": [],
@@ -407,7 +407,7 @@
         "kind": "post",
         "author": "End Wokeness",
         "handle": "EndWokeness",
-        "avatar": "media/x-endwokeness-avatar-07f1f6da4aca57c1.jpg",
+        "avatar": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_400x400.jpg",
         "verifiedType": "blue",
         "text": "🇧🇪 Brussels\n1955: 95% native Belgian background\n2025: 21% native Belgian background\n\n🇬🇧 London\n1955: 97% native British background\n2025: 36% native British background\n\n🇳🇱 Amsterdam\n1955: 98% native Dutch background\n2025: 40% native Dutch background\n\n🇩🇪 Berlin\n1955: 98% native German background\n2025: 57% native German background\n\n🇦🇹 Vienna\n1955: 95% native Austrian background\n2025: 51% native Austrian background\n\n🇸🇪 Stockholm\n1955: 97% native Swedish background\n2025: 65% native Swedish background",
         "links": [],
@@ -444,7 +444,7 @@
       "kind": "post",
       "author": "Mark Zuckerberg",
       "handle": "finkd",
-      "avatar": "media/x-finkd-avatar-c6ca681d507cc0c5.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg",
       "verifiedType": "blue",
       "text": "Muse Spark Open -- weights releasing today -- runs great on new Mac Studios thanks to work with @johnternus and Apple.",
       "links": [],
@@ -453,15 +453,15 @@
       "media": [
         {
           "type": "photo",
-          "url": "media/x-finkd-01d65eaaba6b2896.jpg",
-          "poster": "media/x-finkd-01d65eaaba6b2896.jpg",
+          "url": "https://pbs.twimg.com/media/HUr9XldXIAAPeX3.jpg",
+          "poster": "https://pbs.twimg.com/media/HUr9XldXIAAPeX3.jpg",
           "width": 4096,
           "height": 2599,
           "alt": ""
         }
       ],
       "images": [
-        "media/x-finkd-01d65eaaba6b2896.jpg"
+        "https://pbs.twimg.com/media/HUr9XldXIAAPeX3.jpg"
       ],
       "repostedBy": null,
       "replyingTo": null,
@@ -483,7 +483,7 @@
       "kind": "reply",
       "author": "Mark Zuckerberg",
       "handle": "finkd",
-      "avatar": "media/x-finkd-avatar-c6ca681d507cc0c5.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg",
       "verifiedType": "blue",
       "text": "@Wahndo_ that's just my face",
       "links": [],
@@ -515,7 +515,7 @@
       "kind": "reply",
       "author": "Mark Zuckerberg",
       "handle": "finkd",
-      "avatar": "media/x-finkd-avatar-c6ca681d507cc0c5.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg",
       "verifiedType": "blue",
       "text": "@etnshow @collision @patrickc I'm confident we can reach the frontier here too",
       "links": [],
@@ -557,7 +557,7 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t16/f2/m84/AQNdJDHTIzzEwEm2PIjsadzjW1lwnHlvhFof0tf0jvzczIF8OYWYVm8Resjw7ztm_wUKjM1RRs5UCeXGQVVfsVYMFHfSYiO6pe7hf-o.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=iohxM3JycycQ7kNvwH0eWsA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5OTE3MDU3OTgxMDMyMjQsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6NjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3de3d6a2708c059f&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC83M0U0RTdERjE3QUI0RDJCQjQ2NkQ5OTFEN0Q3MDk5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZBRDZBMjMyQTZEMTQ3QzU4QzFGNEY2OTNBQTVFMTYxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwwv6Pjtf1PxUCKAJDMywXQFDx--dsi0QYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=chO5pE3rlW8C5KtRwfxzWw&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNc-h1Na0OsrfI5qkkNAcp5168_fqYIgkRDGCwUV5xjAQ&oe=6AD9B115",
-          "poster": "media/threads-zuck-a1f938d797349bb5.jpg",
+          "poster": "media/threads-zuck-poster-a1f938d797349bb5.jpg",
           "width": null,
           "height": null,
           "alt": ""
@@ -647,7 +647,7 @@
       "kind": "reply",
       "author": "Mark Zuckerberg",
       "handle": "finkd",
-      "avatar": "media/x-finkd-avatar-c6ca681d507cc0c5.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg",
       "verifiedType": "blue",
       "text": "Muse Wonder is a major leap towards delivering personal superintelligence for everyone. Congrats to everyone on our team for achieving this milestone. I'm looking forward to seeing how you all use it.",
       "links": [],
@@ -679,7 +679,7 @@
       "kind": "reply",
       "author": "Mark Zuckerberg",
       "handle": "finkd",
-      "avatar": "media/x-finkd-avatar-c6ca681d507cc0c5.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg",
       "verifiedType": "blue",
       "text": "Muse Wonder is also available through Muse Code, the Meta Model API, and rolling into other products soon. More in the blog:",
       "links": [],
@@ -1031,7 +1031,7 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNRj92RaUryKnHp4Az_vszCdJo0pbsyLYvn_x8OVYt0dN6mFsEz6yyEpu8ymlSOPxHNoQgL1ocFfkyAALAuvSwwKpRAp6rKLSCluSg.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=OcEAqajExf8Q7kNvwHr5Eyj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTEwMjM5ODgzODk5OTQwOSwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6be6441cf7236a0a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNzQ0MzM2MDUwOUEwNTkyNjZGOUU0MTM2NUJBRERBMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M2NDI3NzQwQ0FCRDEyMTcyOTQzOTJBOUJCMkVCRDk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbipZizh6j1AxUCKAJDMywXQF6Kn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQPvqBTMR-FldiqIP2iwHhbUFBsWawaCE5MVeMtWvTL7FQ&oe=6AD99282",
-          "poster": "media/instagram-zuck-e1acb0f3757bf980.jpg",
+          "poster": "media/instagram-zuck-poster-e1acb0f3757bf980.jpg",
           "width": null,
           "height": null,
           "alt": ""
@@ -1060,7 +1060,7 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQP35V3c4d9tQ2z08AZ0pBX4a6I3qkZkBJQQ0Qah9tUZkMKYHGD8qKwC7hQlhp97s9Tad8_THAQRQKX88RLoXg3n_W3bNnZrEf7fsJs.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=lAihmop9ntgQ7kNvwGUMohR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjIzMTM2NTU4NzcyNTQ5MSwiYXNzZXRfYWdlX2RheXMiOjI4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8339ec8f0a937a63&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMTQ4MzkwNzhBNDU0MDdEODc3OTU2QkNBREFCOTlCQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzJFQTVDNjI4QjlBNzRCMDFCQzFGNDI0MDFENkYxNTlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbmssOTydr2BxUCKAJDMywXQCEhysCDEm8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNqgg6X3G9pGGuloHI9i3ofmaVjhoQDPraMgguSnXfgEA&oe=6AD9AF22",
-          "poster": "media/instagram-zuck-2ead775935bf2f14.jpg",
+          "poster": "media/instagram-zuck-poster-2ead775935bf2f14.jpg",
           "width": null,
           "height": null,
           "alt": ""
@@ -1089,7 +1089,7 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOm04MHChaM63q-oFTgZpTUUBiETe2HCn9RVCPB25VHYh9LWhjjNsIfSKFkNkoxCaFGNOcT3hyhPfUH8Zoy6W9M-XCrO8Mi7xoKCHY.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=y1amfR6t-l8Q7kNvwEeT964&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTcwNTUzMDYyMzg3MzgwNiwiYXNzZXRfYWdlX2RheXMiOjMwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7527fea3f7cf8149&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQjQ5MzA5NUU1MkE3NjJFRkUzQjFCRjAxRkEyRjY4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkwNDM0MEZFMjY0NDFEQTNCRURBMUEzNjcxNDM5Mjk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaczOqv-cqHBhUCKAJDMywXQFTZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNm0T1fSSTJm7BQZRQJncX0-s6oKU-FEbYWTHbFSDGkGQ&oe=6AD998F6",
-          "poster": "media/instagram-zuck-855f1841a0a3efcc.jpg",
+          "poster": "media/instagram-zuck-poster-855f1841a0a3efcc.jpg",
           "width": null,
           "height": null,
           "alt": ""
@@ -1118,7 +1118,7 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPlYEFkfC_dpYWuAtSApbwAQx2N5tPEIb4_Qz9rBmFi-G-9nV-YKQnZEoNX6aVWd0OGNkz6NPiMyUoFhUxqZ_vYSm8hKIVGmcnCGBw.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=VFsFSUGIhSEQ7kNvwEFhfeL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM4OTg0MTE2NTkyNjE2OSwiYXNzZXRfYWdlX2RheXMiOjQyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d0b56ca4f1e7a874&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNjQyNjNCNTlGNTVDNUU1MzJGRjlCRTA4RkI5RUU4M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y1NDdBRENCQkNEMjUyQjAzRTVDRjk4RDNEOTYzNEIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACay_OnPs4P4BBUCKAJDMywXQFm3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNKS_u0WB6aAMekR1bceRnpg5OG8Gy2gi0KOXwMdJ8mAA&oe=6AD9B63C",
-          "poster": "media/instagram-zuck-c2b9f7b43a60cf3a.jpg",
+          "poster": "media/instagram-zuck-poster-c2b9f7b43a60cf3a.jpg",
           "width": null,
           "height": null,
           "alt": ""
@@ -1147,7 +1147,7 @@
         {
           "type": "video",
           "url": "https://scontent-arn2-1.cdninstagram.com/o1/v/t2/f2/m86/AQM7W8dG7i5pYZF0vuUzRe9gRitaY7V42S8SIRwZ2YIe-HQLsQ6fa5JCUDSfFBn-tgQpJ52alW0xnFfFrwG2SkP01CT9ZTtfrjVOrT4.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_ohc=bBCygZ--HakQ7kNvwGXGVsi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzY5MDI0MjgxNzgwODg0NSwiYXNzZXRfYWdlX2RheXMiOjcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ea7d619afb656c19&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80NTRGMUEyRTA1M0RFMkZCMDNEMjBCQzVFN0Y4ODQ5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFDNEQyQkRCRDlDQkQxMjA3M0E2M0I4Qjg5REU3OTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa59LEs5CODRUCKAJDMywXQFTbtkWhysEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sbVmztIc9NWwozRahcKgug&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNi2ccH5mQbb2nEh1MAaL8jt88aQ1DgJnSRuJ5_QuMi8g&oe=6AD9AAD5",
-          "poster": "media/instagram-zuck-8328e115b7ccca73.jpg",
+          "poster": "media/instagram-zuck-poster-8328e115b7ccca73.jpg",
           "width": null,
           "height": null,
           "alt": ""
