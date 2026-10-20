@@ -126,6 +126,19 @@
         "name": "Mark Zuckerberg",
         "url": "https://www.threads.com/@zuck"
       }
+    },
+    {
+      "id": "youtube:CanadianPrepper",
+      "platform": "youtube",
+      "handle": "CanadianPrepper",
+      "channelId": "UCfgtuaUadGgOA-91geQ8Qog",
+      "adapter": "youtube_rss",
+      "source_urls": ["https://www.youtube.com/feeds/videos.xml?channel_id={channelId}"],
+      "limit": 8,
+      "profile": {
+        "name": "Canadian Prepper",
+        "url": "https://www.youtube.com/@CanadianPrepper"
+      }
     }
   ]
 }
