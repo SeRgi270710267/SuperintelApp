@@ -32,7 +32,7 @@
         "reposts": 16,
         "quotes": 6,
         "likes": 1837,
-        "views": 239999,
+        "views": 240003,
         "bookmarks": 60
       }
     },
@@ -1060,6 +1060,50 @@
       }
     },
     {
+      "id": "2112267614156447792",
+      "statusId": "2112267614156447792",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Mari",
+      "handle": "MariHamill",
+      "avatar": "https://pbs.twimg.com/profile_images/1000657428159975424/ZQEfwHEq_200x200.jpg",
+      "verifiedType": null,
+      "text": "@finkd I think that’s yours!",
+      "links": [],
+      "date": "2026-10-19T19:40:17Z",
+      "url": "https://x.com/MariHamill/status/2112267614156447792",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVBIMxTWAAAVSHe.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVBIMxTWAAAVSHe.jpg?name=orig",
+          "width": 564,
+          "height": 564,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVBIMxTWAAAVSHe.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2109689309825794187"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 0,
+        "views": 3,
+        "bookmarks": 0
+      }
+    },
+    {
       "id": "2110305252830564787",
       "statusId": "2110305252830564787",
       "platform": "x",
@@ -1089,6 +1133,50 @@
         "quotes": 0,
         "likes": 0,
         "views": 2,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112266924466078024",
+      "statusId": "2112266924466078024",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Mari",
+      "handle": "MariHamill",
+      "avatar": "https://pbs.twimg.com/profile_images/1000657428159975424/ZQEfwHEq_200x200.jpg",
+      "verifiedType": null,
+      "text": "@finkd",
+      "links": [],
+      "date": "2026-10-19T19:37:33Z",
+      "url": "https://x.com/MariHamill/status/2112266924466078024",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVBHkfSXcAAMTTX.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVBHkfSXcAAMTTX.jpg?name=orig",
+          "width": 564,
+          "height": 564,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVBHkfSXcAAMTTX.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2109689309825794187"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 0,
+        "views": 1,
         "bookmarks": 0
       }
     }

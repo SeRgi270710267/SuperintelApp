@@ -31,9 +31,9 @@
         "replies": 6,
         "reposts": 10,
         "quotes": 1,
-        "likes": 100,
-        "views": 16690,
-        "bookmarks": 100
+        "likes": 108,
+        "views": 17517,
+        "bookmarks": 103
       }
     },
     {
@@ -76,7 +76,7 @@
         "reposts": 6,
         "quotes": 0,
         "likes": 47,
-        "views": 358,
+        "views": 363,
         "bookmarks": 4
       }
     },
@@ -109,7 +109,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 18,
-        "views": 1170,
+        "views": 1268,
         "bookmarks": 0
       }
     },
@@ -142,7 +142,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 13,
-        "views": 1296,
+        "views": 1366,
         "bookmarks": 0
       }
     },
@@ -175,7 +175,7 @@
         "reposts": 3,
         "quotes": 1,
         "likes": 12,
-        "views": 696,
+        "views": 877,
         "bookmarks": 0
       }
     },
@@ -208,7 +208,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 8,
-        "views": 660,
+        "views": 708,
         "bookmarks": 0
       }
     },
@@ -241,7 +241,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 7,
-        "views": 779,
+        "views": 818,
         "bookmarks": 0
       }
     },
@@ -274,7 +274,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 7,
-        "views": 649,
+        "views": 687,
         "bookmarks": 0
       }
     },
@@ -304,10 +304,10 @@
       "quoted": null,
       "stats": {
         "replies": 2,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "likes": 7,
-        "views": 424,
+        "views": 501,
         "bookmarks": 0
       }
     },
@@ -340,7 +340,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 7,
-        "views": 403,
+        "views": 417,
         "bookmarks": 0
       }
     },
@@ -373,7 +373,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 6,
-        "views": 793,
+        "views": 928,
         "bookmarks": 0
       }
     },
@@ -417,7 +417,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 6,
-        "views": 808,
+        "views": 858,
         "bookmarks": 0
       }
     },
@@ -450,7 +450,40 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 6,
-        "views": 92,
+        "views": 95,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112576226191986779",
+      "statusId": "2112576226191986779",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "GPU Heater",
+      "handle": "GPUHeater",
+      "avatar": "https://pbs.twimg.com/profile_images/1991534836624818176/QXYpf2EN_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@SawyerMerritt “a few generations from now, if money still matters, which I don't think it will, my descendants would have a tiny fraction of what I have.\"\n\nBro, based on the number of kids you have it’s only going to take one generation.",
+      "links": [],
+      "date": "2026-10-20T16:06:36Z",
+      "url": "https://x.com/GPUHeater/status/2112576226191986779",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "SawyerMerritt",
+        "handle": "SawyerMerritt",
+        "avatar": "",
+        "id": "2112551927649018058"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 5,
+        "views": 407,
         "bookmarks": 0
       }
     },
@@ -483,7 +516,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 5,
-        "views": 582,
+        "views": 609,
         "bookmarks": 0
       }
     },
@@ -516,40 +549,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 5,
-        "views": 722,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112576226191986779",
-      "statusId": "2112576226191986779",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "GPU Heater",
-      "handle": "GPUHeater",
-      "avatar": "https://pbs.twimg.com/profile_images/1991534836624818176/QXYpf2EN_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@SawyerMerritt “a few generations from now, if money still matters, which I don't think it will, my descendants would have a tiny fraction of what I have.\"\n\nBro, based on the number of kids you have it’s only going to take one generation.",
-      "links": [],
-      "date": "2026-10-20T16:06:36Z",
-      "url": "https://x.com/GPUHeater/status/2112576226191986779",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "SawyerMerritt",
-        "handle": "SawyerMerritt",
-        "avatar": "",
-        "id": "2112551927649018058"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 4,
-        "views": 322,
+        "views": 800,
         "bookmarks": 0
       }
     },
@@ -582,7 +582,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 4,
-        "views": 699,
+        "views": 717,
         "bookmarks": 0
       }
     },
@@ -615,7 +615,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 249,
+        "views": 266,
         "bookmarks": 0
       }
     },
@@ -648,7 +648,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 215,
+        "views": 218,
         "bookmarks": 1
       }
     },
@@ -681,7 +681,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 102,
+        "views": 104,
         "bookmarks": 0
       }
     },
@@ -723,8 +723,8 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 159,
-        "bookmarks": 1
+        "views": 208,
+        "bookmarks": 2
       }
     },
     {
@@ -756,7 +756,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 17,
+        "views": 20,
         "bookmarks": 0
       }
     },
@@ -789,7 +789,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 217,
+        "views": 228,
         "bookmarks": 0
       }
     },
@@ -822,7 +822,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 27,
+        "views": 34,
         "bookmarks": 0
       }
     },
@@ -855,7 +855,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 3,
-        "views": 15,
+        "views": 17,
         "bookmarks": 1
       }
     },
@@ -888,7 +888,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 17,
+        "views": 20,
         "bookmarks": 0
       }
     },
@@ -921,7 +921,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 61,
+        "views": 64,
         "bookmarks": 0
       }
     },
@@ -954,7 +954,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 162,
+        "views": 164,
         "bookmarks": 0
       }
     },
@@ -987,7 +987,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 20,
+        "views": 23,
         "bookmarks": 0
       }
     },
@@ -1020,7 +1020,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 18,
+        "views": 21,
         "bookmarks": 0
       }
     },
@@ -1053,7 +1053,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 16,
+        "views": 18,
         "bookmarks": 0
       }
     },
@@ -1086,7 +1086,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 14,
+        "views": 17,
         "bookmarks": 0
       }
     },
@@ -1119,7 +1119,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 25,
+        "views": 29,
         "bookmarks": 0
       }
     },
@@ -1152,7 +1152,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 52,
+        "views": 62,
         "bookmarks": 0
       }
     },
@@ -1185,7 +1185,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 114,
+        "views": 143,
         "bookmarks": 0
       }
     }

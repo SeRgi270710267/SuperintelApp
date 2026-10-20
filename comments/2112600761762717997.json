@@ -37,12 +37,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 11,
-        "reposts": 13,
+        "replies": 15,
+        "reposts": 19,
         "quotes": 1,
-        "likes": 315,
-        "views": 15964,
-        "bookmarks": 51
+        "likes": 378,
+        "views": 18738,
+        "bookmarks": 60
       }
     },
     {
@@ -79,12 +79,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 15,
-        "reposts": 26,
+        "replies": 19,
+        "reposts": 30,
         "quotes": 3,
-        "likes": 252,
-        "views": 13104,
-        "bookmarks": 75
+        "likes": 302,
+        "views": 16379,
+        "bookmarks": 93
       }
     },
     {
@@ -126,53 +126,9 @@
         "replies": 13,
         "reposts": 11,
         "quotes": 1,
-        "likes": 235,
-        "views": 10635,
+        "likes": 260,
+        "views": 11581,
         "bookmarks": 3
-      }
-    },
-    {
-      "id": "2112603561460740290",
-      "statusId": "2112603561460740290",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Dirty Soldier Face",
-      "handle": "ESixus",
-      "avatar": "https://pbs.twimg.com/profile_images/2112359318217531392/0XYlZu8a_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk",
-      "links": [],
-      "date": "2026-10-20T17:55:13Z",
-      "url": "https://x.com/ESixus/status/2112603561460740290",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVF5vaUXcAAAArT.jpg?name=orig",
-          "poster": "https://pbs.twimg.com/media/HVF5vaUXcAAAArT.jpg?name=orig",
-          "width": 1697,
-          "height": 1152,
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://pbs.twimg.com/media/HVF5vaUXcAAAArT.jpg?name=orig"
-      ],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112600761762717997"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 7,
-        "reposts": 0,
-        "quotes": 1,
-        "likes": 206,
-        "views": 7806,
-        "bookmarks": 5
       }
     },
     {
@@ -211,12 +167,56 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 8,
-        "reposts": 10,
+        "replies": 9,
+        "reposts": 12,
         "quotes": 0,
-        "likes": 198,
-        "views": 10764,
-        "bookmarks": 11
+        "likes": 235,
+        "views": 12377,
+        "bookmarks": 13
+      }
+    },
+    {
+      "id": "2112603561460740290",
+      "statusId": "2112603561460740290",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Dirty Soldier Face",
+      "handle": "ESixus",
+      "avatar": "https://pbs.twimg.com/profile_images/2112359318217531392/0XYlZu8a_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk",
+      "links": [],
+      "date": "2026-10-20T17:55:13Z",
+      "url": "https://x.com/ESixus/status/2112603561460740290",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVF5vaUXcAAAArT.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVF5vaUXcAAAArT.jpg?name=orig",
+          "width": 1697,
+          "height": 1152,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVF5vaUXcAAAArT.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112600761762717997"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 9,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 234,
+        "views": 8836,
+        "bookmarks": 5
       }
     },
     {
@@ -244,12 +244,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 14,
+        "replies": 19,
         "reposts": 3,
         "quotes": 2,
-        "likes": 117,
-        "views": 5637,
-        "bookmarks": 3
+        "likes": 168,
+        "views": 7253,
+        "bookmarks": 4
       }
     },
     {
@@ -288,12 +288,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 39,
+        "replies": 43,
         "reposts": 0,
         "quotes": 1,
-        "likes": 111,
-        "views": 9545,
-        "bookmarks": 12
+        "likes": 130,
+        "views": 11291,
+        "bookmarks": 14
       }
     },
     {
@@ -330,12 +330,89 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 5,
-        "reposts": 12,
+        "replies": 6,
+        "reposts": 13,
+        "quotes": 1,
+        "likes": 115,
+        "views": 6887,
+        "bookmarks": 21
+      }
+    },
+    {
+      "id": "2112626157871141079",
+      "statusId": "2112626157871141079",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Eva Vlaardingerbroek",
+      "handle": "EvaVlaar",
+      "avatar": "https://pbs.twimg.com/profile_images/2076271674702405632/DfLkN7BC_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk No doubt about it.",
+      "links": [],
+      "date": "2026-10-20T19:25:01Z",
+      "url": "https://x.com/EvaVlaar/status/2112626157871141079",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112600761762717997"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 6,
+        "reposts": 2,
         "quotes": 0,
-        "likes": 94,
-        "views": 5625,
-        "bookmarks": 18
+        "likes": 108,
+        "views": 5906,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2112612704271962216",
+      "statusId": "2112612704271962216",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Cagatay Arslan",
+      "handle": "FilmlerHayatlar",
+      "avatar": "https://pbs.twimg.com/profile_images/2007006721772822528/UR4z9QCo_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk Mozart dies and goes to Heaven.\nGod welcomes him and says: \"You are going to be the conductor of my celestial orchestra.\"\nMozart says: \"Thank you, God, that is a great honor. But what about Johann Sebastian Bach?\"\nGod responds: \"I am Bach.\"",
+      "links": [],
+      "date": "2026-10-20T18:31:33Z",
+      "url": "https://x.com/FilmlerHayatlar/status/2112612704271962216",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGCDdUWkAAF91e.png?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVGCDdUWkAAF91e.png?name=orig",
+          "width": 500,
+          "height": 462,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVGCDdUWkAAF91e.png?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112600761762717997"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 5,
+        "reposts": 4,
+        "quotes": 0,
+        "likes": 102,
+        "views": 3847,
+        "bookmarks": 4
       }
     },
     {
@@ -374,11 +451,11 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 4,
+        "replies": 5,
         "reposts": 3,
         "quotes": 0,
-        "likes": 87,
-        "views": 3659,
+        "likes": 98,
+        "views": 4024,
         "bookmarks": 2
       }
     },
@@ -410,42 +487,9 @@
         "replies": 1,
         "reposts": 1,
         "quotes": 0,
-        "likes": 78,
-        "views": 1856,
-        "bookmarks": 1
-      }
-    },
-    {
-      "id": "2112626157871141079",
-      "statusId": "2112626157871141079",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Eva Vlaardingerbroek",
-      "handle": "EvaVlaar",
-      "avatar": "https://pbs.twimg.com/profile_images/2076271674702405632/DfLkN7BC_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk No doubt about it.",
-      "links": [],
-      "date": "2026-10-20T19:25:01Z",
-      "url": "https://x.com/EvaVlaar/status/2112626157871141079",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112600761762717997"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 5,
-        "reposts": 1,
-        "quotes": 0,
-        "likes": 72,
-        "views": 4617,
-        "bookmarks": 0
+        "likes": 96,
+        "views": 2138,
+        "bookmarks": 2
       }
     },
     {
@@ -484,11 +528,11 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 10,
+        "replies": 11,
         "reposts": 0,
         "quotes": 0,
-        "likes": 71,
-        "views": 1998,
+        "likes": 85,
+        "views": 2526,
         "bookmarks": 0
       }
     },
@@ -521,7 +565,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 65,
-        "views": 3734,
+        "views": 4102,
         "bookmarks": 0
       }
     },
@@ -553,25 +597,69 @@
         "replies": 5,
         "reposts": 2,
         "quotes": 0,
-        "likes": 56,
-        "views": 3818,
+        "likes": 57,
+        "views": 4018,
         "bookmarks": 1
       }
     },
     {
-      "id": "2112605983902175721",
-      "statusId": "2112605983902175721",
+      "id": "2112612289471713359",
+      "statusId": "2112612289471713359",
       "platform": "x",
       "feedId": "",
       "kind": "reply",
-      "author": "ExistenceExists",
-      "handle": "IamSvented",
-      "avatar": "https://pbs.twimg.com/profile_images/1749461970351276032/dP8nGzlb_200x200.jpg",
+      "author": "Christian",
+      "handle": "chrisberkvens",
+      "avatar": "https://pbs.twimg.com/profile_images/1829472580761186304/agcuBlGY_200x200.jpg",
       "verifiedType": "blue",
-      "text": "@elonmusk [WA Mozart has entered the chat]",
+      "text": "@elonmusk Greatness alike.",
       "links": [],
-      "date": "2026-10-20T18:04:51Z",
-      "url": "https://x.com/IamSvented/status/2112605983902175721",
+      "date": "2026-10-20T18:29:54Z",
+      "url": "https://x.com/chrisberkvens/status/2112612289471713359",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGBrSFWoAAvYF8.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVGBrSFWoAAvYF8.jpg?name=orig",
+          "width": 1536,
+          "height": 1024,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVGBrSFWoAAvYF8.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112600761762717997"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 55,
+        "views": 4019,
+        "bookmarks": 9
+      }
+    },
+    {
+      "id": "2112635817026093297",
+      "statusId": "2112635817026093297",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "William Makis MD",
+      "handle": "MakisMedicine",
+      "avatar": "https://pbs.twimg.com/profile_images/2048794564388106241/jJlArEKq_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk I would have to agree.\n\n(10 years of Royal Conservatory of Music training in classical guitar and Canadian Music Competition Champion who played Bach)",
+      "links": [],
+      "date": "2026-10-20T20:03:24Z",
+      "url": "https://x.com/MakisMedicine/status/2112635817026093297",
       "media": [],
       "images": [],
       "repostedBy": null,
@@ -583,12 +671,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 1,
-        "reposts": 0,
+        "replies": 4,
+        "reposts": 1,
         "quotes": 0,
-        "likes": 47,
-        "views": 2093,
-        "bookmarks": 0
+        "likes": 55,
+        "views": 3869,
+        "bookmarks": 1
       }
     },
     {
@@ -636,12 +724,78 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 4,
+        "replies": 3,
         "reposts": 0,
         "quotes": 0,
-        "likes": 46,
-        "views": 2571,
+        "likes": 52,
+        "views": 3035,
         "bookmarks": 1
+      }
+    },
+    {
+      "id": "2112605983902175721",
+      "statusId": "2112605983902175721",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "ExistenceExists",
+      "handle": "IamSvented",
+      "avatar": "https://pbs.twimg.com/profile_images/1749461970351276032/dP8nGzlb_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk [WA Mozart has entered the chat]",
+      "links": [],
+      "date": "2026-10-20T18:04:51Z",
+      "url": "https://x.com/IamSvented/status/2112605983902175721",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112600761762717997"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 51,
+        "views": 2248,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112601432771772832",
+      "statusId": "2112601432771772832",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "The Boardgamer",
+      "handle": "PaulinKokomo",
+      "avatar": "https://pbs.twimg.com/profile_images/2100195629276291072/JlMYpC3Z_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk And he did it all for the glory of God.",
+      "links": [],
+      "date": "2026-10-20T17:46:46Z",
+      "url": "https://x.com/PaulinKokomo/status/2112601432771772832",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112600761762717997"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 2,
+        "quotes": 0,
+        "likes": 48,
+        "views": 2356,
+        "bookmarks": 0
       }
     },
     {
@@ -672,113 +826,25 @@
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
-        "likes": 44,
-        "views": 1477,
+        "likes": 45,
+        "views": 1606,
         "bookmarks": 0
       }
     },
     {
-      "id": "2112612704271962216",
-      "statusId": "2112612704271962216",
+      "id": "2112606953041969206",
+      "statusId": "2112606953041969206",
       "platform": "x",
       "feedId": "",
       "kind": "reply",
-      "author": "Cagatay Arslan",
-      "handle": "FilmlerHayatlar",
-      "avatar": "https://pbs.twimg.com/profile_images/2007006721772822528/UR4z9QCo_200x200.jpg",
+      "author": "HitmanGFX",
+      "handle": "HitmanGFX44",
+      "avatar": "https://pbs.twimg.com/profile_images/2077538127908917248/rvgFhuBu_200x200.jpg",
       "verifiedType": "blue",
-      "text": "@elonmusk Mozart dies and goes to Heaven.\nGod welcomes him and says: \"You are going to be the conductor of my celestial orchestra.\"\nMozart says: \"Thank you, God, that is a great honor. But what about Johann Sebastian Bach?\"\nGod responds: \"I am Bach.\"",
+      "text": "@elonmusk Mozart.\n\nI respect Bach, but I felt like he copied himself too much throughout his repotoire. The only Bach I listen to regularly are the Brandenburg Concertos.\n\nIn contrast...Imagine if Mozart had made it to even middle age.",
       "links": [],
-      "date": "2026-10-20T18:31:33Z",
-      "url": "https://x.com/FilmlerHayatlar/status/2112612704271962216",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVGCDdUWkAAF91e.png?name=orig",
-          "poster": "https://pbs.twimg.com/media/HVGCDdUWkAAF91e.png?name=orig",
-          "width": 500,
-          "height": 462,
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://pbs.twimg.com/media/HVGCDdUWkAAF91e.png?name=orig"
-      ],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112600761762717997"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 4,
-        "reposts": 3,
-        "quotes": 0,
-        "likes": 43,
-        "views": 1877,
-        "bookmarks": 1
-      }
-    },
-    {
-      "id": "2112612289471713359",
-      "statusId": "2112612289471713359",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Christian",
-      "handle": "chrisberkvens",
-      "avatar": "https://pbs.twimg.com/profile_images/1829472580761186304/agcuBlGY_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk Greatness alike.",
-      "links": [],
-      "date": "2026-10-20T18:29:54Z",
-      "url": "https://x.com/chrisberkvens/status/2112612289471713359",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVGBrSFWoAAvYF8.jpg?name=orig",
-          "poster": "https://pbs.twimg.com/media/HVGBrSFWoAAvYF8.jpg?name=orig",
-          "width": 1536,
-          "height": 1024,
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://pbs.twimg.com/media/HVGBrSFWoAAvYF8.jpg?name=orig"
-      ],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112600761762717997"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "likes": 43,
-        "views": 3259,
-        "bookmarks": 8
-      }
-    },
-    {
-      "id": "2112601432771772832",
-      "statusId": "2112601432771772832",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "The Boardgamer",
-      "handle": "PaulinKokomo",
-      "avatar": "https://pbs.twimg.com/profile_images/2100195629276291072/JlMYpC3Z_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk And he did it all for the glory of God.",
-      "links": [],
-      "date": "2026-10-20T17:46:46Z",
-      "url": "https://x.com/PaulinKokomo/status/2112601432771772832",
+      "date": "2026-10-20T18:08:42Z",
+      "url": "https://x.com/HitmanGFX44/status/2112606953041969206",
       "media": [],
       "images": [],
       "repostedBy": null,
@@ -790,12 +856,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 2,
-        "reposts": 1,
+        "replies": 3,
+        "reposts": 0,
         "quotes": 0,
-        "likes": 39,
-        "views": 2144,
-        "bookmarks": 0
+        "likes": 44,
+        "views": 2758,
+        "bookmarks": 1
       }
     },
     {
@@ -827,7 +893,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 38,
-        "views": 6614,
+        "views": 6770,
         "bookmarks": 4
       }
     },
@@ -860,24 +926,68 @@
         "reposts": 5,
         "quotes": 0,
         "likes": 37,
-        "views": 2189,
+        "views": 2245,
         "bookmarks": 0
       }
     },
     {
-      "id": "2112606953041969206",
-      "statusId": "2112606953041969206",
+      "id": "2112603687591809397",
+      "statusId": "2112603687591809397",
       "platform": "x",
       "feedId": "",
       "kind": "reply",
-      "author": "HitmanGFX",
-      "handle": "HitmanGFX44",
-      "avatar": "https://pbs.twimg.com/profile_images/2077538127908917248/rvgFhuBu_200x200.jpg",
+      "author": "Raph. H.",
+      "handle": "Rapahelz",
+      "avatar": "https://pbs.twimg.com/profile_images/1043115922049970176/01Uh9m0Q_200x200.jpg",
       "verifiedType": "blue",
-      "text": "@elonmusk Mozart.\n\nI respect Bach, but I felt like he copied himself too much throughout his repotoire. The only Bach I listen to regularly are the Brandenburg Concertos.\n\nIn contrast...Imagine if Mozart had made it to even middle age.",
+      "text": "@elonmusk Bach is the Best!",
       "links": [],
-      "date": "2026-10-20T18:08:42Z",
-      "url": "https://x.com/HitmanGFX44/status/2112606953041969206",
+      "date": "2026-10-20T17:55:44Z",
+      "url": "https://x.com/Rapahelz/status/2112603687591809397",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVF52usW0AAu-Iy.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVF52usW0AAu-Iy.jpg?name=orig",
+          "width": 1408,
+          "height": 768,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVF52usW0AAu-Iy.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112600761762717997"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 3,
+        "reposts": 4,
+        "quotes": 1,
+        "likes": 37,
+        "views": 4058,
+        "bookmarks": 13
+      }
+    },
+    {
+      "id": "2112604181110383099",
+      "statusId": "2112604181110383099",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Chip Drink",
+      "handle": "thejonacosta",
+      "avatar": "https://pbs.twimg.com/profile_images/506817638555594753/ooCibkoQ_200x200.jpeg",
+      "verifiedType": "blue",
+      "text": "@elonmusk Crazy. Musk is the Epstein of vaporware. Best there ever was.",
+      "links": [],
+      "date": "2026-10-20T17:57:41Z",
+      "url": "https://x.com/thejonacosta/status/2112604181110383099",
       "media": [],
       "images": [],
       "repostedBy": null,
@@ -889,12 +999,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 1,
+        "replies": 3,
         "reposts": 0,
         "quotes": 0,
         "likes": 36,
-        "views": 2290,
-        "bookmarks": 1
+        "views": 1521,
+        "bookmarks": 0
       }
     },
     {
@@ -935,85 +1045,8 @@
         "reposts": 4,
         "quotes": 0,
         "likes": 36,
-        "views": 2715,
+        "views": 2834,
         "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112604181110383099",
-      "statusId": "2112604181110383099",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Chip Drink",
-      "handle": "thejonacosta",
-      "avatar": "https://pbs.twimg.com/profile_images/506817638555594753/ooCibkoQ_200x200.jpeg",
-      "verifiedType": "blue",
-      "text": "@elonmusk Crazy. Musk is the Epstein of vaporware. Best there ever was.",
-      "links": [],
-      "date": "2026-10-20T17:57:41Z",
-      "url": "https://x.com/thejonacosta/status/2112604181110383099",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112600761762717997"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 34,
-        "views": 1401,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112603687591809397",
-      "statusId": "2112603687591809397",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Raph. H.",
-      "handle": "Rapahelz",
-      "avatar": "https://pbs.twimg.com/profile_images/1043115922049970176/01Uh9m0Q_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk Bach is the Best!",
-      "links": [],
-      "date": "2026-10-20T17:55:44Z",
-      "url": "https://x.com/Rapahelz/status/2112603687591809397",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVF52usW0AAu-Iy.jpg?name=orig",
-          "poster": "https://pbs.twimg.com/media/HVF52usW0AAu-Iy.jpg?name=orig",
-          "width": 1408,
-          "height": 768,
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://pbs.twimg.com/media/HVF52usW0AAu-Iy.jpg?name=orig"
-      ],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112600761762717997"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 2,
-        "reposts": 3,
-        "quotes": 1,
-        "likes": 32,
-        "views": 3616,
-        "bookmarks": 13
       }
     },
     {
@@ -1045,40 +1078,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 31,
-        "views": 2454,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112635817026093297",
-      "statusId": "2112635817026093297",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "William Makis MD",
-      "handle": "MakisMedicine",
-      "avatar": "https://pbs.twimg.com/profile_images/2048794564388106241/jJlArEKq_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk I would have to agree.\n\n(10 years of Royal Conservatory of Music training in classical guitar and Canadian Music Competition Champion who played Bach)",
-      "links": [],
-      "date": "2026-10-20T20:03:24Z",
-      "url": "https://x.com/MakisMedicine/status/2112635817026093297",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112600761762717997"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 30,
-        "views": 2064,
+        "views": 2489,
         "bookmarks": 0
       }
     },
@@ -1108,11 +1108,44 @@
       "quoted": null,
       "stats": {
         "replies": 0,
-        "reposts": 3,
+        "reposts": 4,
+        "quotes": 0,
+        "likes": 31,
+        "views": 2999,
+        "bookmarks": 4
+      }
+    },
+    {
+      "id": "2112601613487710519",
+      "statusId": "2112601613487710519",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Brivael Le Pogam",
+      "handle": "brivael",
+      "avatar": "https://pbs.twimg.com/profile_images/2057241969403834368/PFPm3cxd_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk He is super great yes!",
+      "links": [],
+      "date": "2026-10-20T17:47:29Z",
+      "url": "https://x.com/brivael/status/2112601613487710519",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112600761762717997"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
         "quotes": 0,
         "likes": 29,
-        "views": 2670,
-        "bookmarks": 4
+        "views": 2301,
+        "bookmarks": 0
       }
     },
     {
@@ -1143,8 +1176,8 @@
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
-        "likes": 26,
-        "views": 2140,
+        "likes": 27,
+        "views": 2275,
         "bookmarks": 1
       }
     },
@@ -1185,26 +1218,35 @@
         "replies": 3,
         "reposts": 8,
         "quotes": 0,
-        "likes": 25,
-        "views": 1297,
+        "likes": 26,
+        "views": 1486,
         "bookmarks": 3
       }
     },
     {
-      "id": "2112601613487710519",
-      "statusId": "2112601613487710519",
+      "id": "2112617382053376090",
+      "statusId": "2112617382053376090",
       "platform": "x",
       "feedId": "",
       "kind": "reply",
-      "author": "Brivael Le Pogam",
-      "handle": "brivael",
-      "avatar": "https://pbs.twimg.com/profile_images/2057241969403834368/PFPm3cxd_200x200.jpg",
+      "author": "Alyx",
+      "handle": "Qubit36",
+      "avatar": "https://pbs.twimg.com/profile_images/2104267245559980032/nuBpkcZN_200x200.jpg",
       "verifiedType": "blue",
-      "text": "@elonmusk He is super great yes!",
+      "text": "@elonmusk This ❤️",
       "links": [],
-      "date": "2026-10-20T17:47:29Z",
-      "url": "https://x.com/brivael/status/2112601613487710519",
-      "media": [],
+      "date": "2026-10-20T18:50:09Z",
+      "url": "https://x.com/Qubit36/status/2112617382053376090",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2094361038103736320/vid/avc1/480x360/fA6tZPkht_dv7A8C.mp4?tag=29",
+          "poster": "https://pbs.twimg.com/amplify_video_thumb/2094361038103736320/img/E02CFeOpjvt2M5UF.jpg",
+          "width": 480,
+          "height": 360,
+          "alt": ""
+        }
+      ],
       "images": [],
       "repostedBy": null,
       "replyingTo": {
@@ -1216,11 +1258,11 @@
       "quoted": null,
       "stats": {
         "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 23,
-        "views": 2090,
-        "bookmarks": 0
+        "reposts": 2,
+        "quotes": 1,
+        "likes": 25,
+        "views": 1989,
+        "bookmarks": 8
       }
     },
     {
@@ -1251,41 +1293,8 @@
         "replies": 2,
         "reposts": 1,
         "quotes": 0,
-        "likes": 22,
-        "views": 1086,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112600924179025929",
-      "statusId": "2112600924179025929",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Lincoln",
-      "handle": "WaitWhat",
-      "avatar": "https://pbs.twimg.com/profile_images/2051906498067136512/8FFfyTaD_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk The Brandenburg concerto is pure beauty.",
-      "links": [],
-      "date": "2026-10-20T17:44:45Z",
-      "url": "https://x.com/WaitWhat/status/2112600924179025929",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112600761762717997"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 2,
-        "reposts": 1,
-        "quotes": 0,
-        "likes": 21,
-        "views": 1220,
+        "likes": 24,
+        "views": 1164,
         "bookmarks": 0
       }
     },
@@ -1328,8 +1337,8 @@
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
-        "likes": 21,
-        "views": 831,
+        "likes": 23,
+        "views": 904,
         "bookmarks": 2
       }
     }

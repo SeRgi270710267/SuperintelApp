@@ -37,11 +37,11 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 2,
+        "replies": 3,
         "reposts": 3,
         "quotes": 1,
-        "likes": 31,
-        "views": 2199,
+        "likes": 37,
+        "views": 2622,
         "bookmarks": 5
       }
     },
@@ -82,10 +82,10 @@
       "quoted": null,
       "stats": {
         "replies": 1,
-        "reposts": 11,
+        "reposts": 12,
         "quotes": 1,
-        "likes": 22,
-        "views": 1311,
+        "likes": 24,
+        "views": 1599,
         "bookmarks": 8
       }
     },
@@ -118,7 +118,7 @@
         "reposts": 3,
         "quotes": 0,
         "likes": 20,
-        "views": 681,
+        "views": 816,
         "bookmarks": 1
       }
     },
@@ -151,7 +151,7 @@
         "reposts": 4,
         "quotes": 0,
         "likes": 16,
-        "views": 419,
+        "views": 453,
         "bookmarks": 0
       }
     },
@@ -184,282 +184,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 13,
-        "views": 314,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112604194033258977",
-      "statusId": "2112604194033258977",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Valspar11",
-      "handle": "Valspar111",
-      "avatar": "https://pbs.twimg.com/profile_images/1859326598073262082/fm2W4Irc_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk Is that lack of time due to competition from other countries?",
-      "links": [],
-      "date": "2026-10-20T17:57:44Z",
-      "url": "https://x.com/Valspar111/status/2112604194033258977",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 11,
-        "views": 808,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112603994162122965",
-      "statusId": "2112603994162122965",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Optimus 🎃",
-      "handle": "TeslaAIBot",
-      "avatar": "https://pbs.twimg.com/profile_images/2106025978057134081/lg9_pKC3_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk True",
-      "links": [],
-      "date": "2026-10-20T17:56:57Z",
-      "url": "https://x.com/TeslaAIBot/status/2112603994162122965",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 11,
-        "views": 860,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112604379123777912",
-      "statusId": "2112604379123777912",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Alec Mickelson",
-      "handle": "TheAlecMick",
-      "avatar": "https://pbs.twimg.com/profile_images/2111146063239229440/VEMArPno_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk The one thing Elon can't build a factory for: more time.",
-      "links": [],
-      "date": "2026-10-20T17:58:28Z",
-      "url": "https://x.com/TheAlecMick/status/2112604379123777912",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 2,
-        "reposts": 1,
-        "quotes": 0,
-        "likes": 10,
-        "views": 490,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112612404685053987",
-      "statusId": "2112612404685053987",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Julianne Macy",
-      "handle": "Julie1854",
-      "avatar": "https://pbs.twimg.com/profile_images/2099861281712836608/ChUjzgr8_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk But when average Joe thinks electricity is just an endless supply that comes from the little plastic mount on the wall.",
-      "links": [],
-      "date": "2026-10-20T18:30:22Z",
-      "url": "https://x.com/Julie1854/status/2112612404685053987",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 1,
-        "likes": 9,
-        "views": 438,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112604070804333050",
-      "statusId": "2112604070804333050",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Martians 🪐",
-      "handle": "MartiansOfMars",
-      "avatar": "https://pbs.twimg.com/profile_images/2098787215765827584/uotousIl_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk We need Mars @elonmusk",
-      "links": [],
-      "date": "2026-10-20T17:57:15Z",
-      "url": "https://x.com/MartiansOfMars/status/2112604070804333050",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVF6L6WW4AAwIKP.jpg?name=orig",
-          "poster": "https://pbs.twimg.com/media/HVF6L6WW4AAwIKP.jpg?name=orig",
-          "width": 1366,
-          "height": 2048,
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://pbs.twimg.com/media/HVF6L6WW4AAwIKP.jpg?name=orig"
-      ],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 2,
-        "reposts": 2,
-        "quotes": 1,
-        "likes": 9,
-        "views": 109,
-        "bookmarks": 1
-      }
-    },
-    {
-      "id": "2112604110063026196",
-      "statusId": "2112604110063026196",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Martinus",
-      "handle": "punish_soul",
-      "avatar": "https://pbs.twimg.com/profile_images/2060722580151996418/21og44WR_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk You still need to come up with ways to solve clean energy.",
-      "links": [],
-      "date": "2026-10-20T17:57:24Z",
-      "url": "https://x.com/punish_soul/status/2112604110063026196",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "likes": 9,
-        "views": 802,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112614553578025351",
-      "statusId": "2112614553578025351",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "BitcoinSuperIntelligenceGuy",
-      "handle": "BitcoinAIGuy",
-      "avatar": "https://pbs.twimg.com/profile_images/1925209130609876993/fh-Efd18_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk Few",
-      "links": [],
-      "date": "2026-10-20T18:38:54Z",
-      "url": "https://x.com/BitcoinAIGuy/status/2112614553578025351",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 9,
-        "views": 499,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112604211384824081",
-      "statusId": "2112604211384824081",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Manny Montoya",
-      "handle": "MannyM_2003",
-      "avatar": "https://pbs.twimg.com/profile_images/2107966590826270721/uFUZUpkl_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk if i had twice as much time my credit card would just charge interest on it",
-      "links": [],
-      "date": "2026-10-20T17:57:48Z",
-      "url": "https://x.com/MannyM_2003/status/2112604211384824081",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 9,
-        "views": 667,
+        "views": 345,
         "bookmarks": 0
       }
     },
@@ -502,8 +227,327 @@
         "replies": 0,
         "reposts": 1,
         "quotes": 0,
+        "likes": 12,
+        "views": 124,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112604194033258977",
+      "statusId": "2112604194033258977",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Valspar11",
+      "handle": "Valspar111",
+      "avatar": "https://pbs.twimg.com/profile_images/1859326598073262082/fm2W4Irc_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk Is that lack of time due to competition from other countries?",
+      "links": [],
+      "date": "2026-10-20T17:57:44Z",
+      "url": "https://x.com/Valspar111/status/2112604194033258977",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 11,
+        "views": 868,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112603994162122965",
+      "statusId": "2112603994162122965",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Optimus 🎃",
+      "handle": "TeslaAIBot",
+      "avatar": "https://pbs.twimg.com/profile_images/2106025978057134081/lg9_pKC3_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk True",
+      "links": [],
+      "date": "2026-10-20T17:56:57Z",
+      "url": "https://x.com/TeslaAIBot/status/2112603994162122965",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 11,
+        "views": 944,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112612404685053987",
+      "statusId": "2112612404685053987",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Julianne Macy",
+      "handle": "Julie1854",
+      "avatar": "https://pbs.twimg.com/profile_images/2099861281712836608/ChUjzgr8_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk But when average Joe thinks electricity is just an endless supply that comes from the little plastic mount on the wall.",
+      "links": [],
+      "date": "2026-10-20T18:30:22Z",
+      "url": "https://x.com/Julie1854/status/2112612404685053987",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 1,
+        "likes": 10,
+        "views": 776,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112604070804333050",
+      "statusId": "2112604070804333050",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Martians 🪐",
+      "handle": "MartiansOfMars",
+      "avatar": "https://pbs.twimg.com/profile_images/2098787215765827584/uotousIl_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk We need Mars @elonmusk",
+      "links": [],
+      "date": "2026-10-20T17:57:15Z",
+      "url": "https://x.com/MartiansOfMars/status/2112604070804333050",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVF6L6WW4AAwIKP.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVF6L6WW4AAwIKP.jpg?name=orig",
+          "width": 1366,
+          "height": 2048,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVF6L6WW4AAwIKP.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 2,
+        "quotes": 1,
+        "likes": 10,
+        "views": 124,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2112604110063026196",
+      "statusId": "2112604110063026196",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Martinus",
+      "handle": "punish_soul",
+      "avatar": "https://pbs.twimg.com/profile_images/2060722580151996418/21og44WR_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk You still need to come up with ways to solve clean energy.",
+      "links": [],
+      "date": "2026-10-20T17:57:24Z",
+      "url": "https://x.com/punish_soul/status/2112604110063026196",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 10,
+        "views": 892,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112604379123777912",
+      "statusId": "2112604379123777912",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Alec Mickelson",
+      "handle": "TheAlecMick",
+      "avatar": "https://pbs.twimg.com/profile_images/2111146063239229440/VEMArPno_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk The one thing Elon can't build a factory for: more time.",
+      "links": [],
+      "date": "2026-10-20T17:58:28Z",
+      "url": "https://x.com/TheAlecMick/status/2112604379123777912",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 10,
+        "views": 587,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112609192804594061",
+      "statusId": "2112609192804594061",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Harry Bōlz: The Shrug",
+      "handle": "HarryBolzShrug",
+      "avatar": "https://pbs.twimg.com/profile_images/2110799295641235457/zVeYNZf1_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk If electricity was human kek",
+      "links": [],
+      "date": "2026-10-20T18:17:36Z",
+      "url": "https://x.com/HarryBolzShrug/status/2112609192804594061",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVF-3QuXQAARpUW.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVF-3QuXQAARpUW.jpg?name=orig",
+          "width": 1269,
+          "height": 1240,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVF-3QuXQAARpUW.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
         "likes": 9,
-        "views": 106,
+        "views": 847,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112614553578025351",
+      "statusId": "2112614553578025351",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "BitcoinSuperIntelligenceGuy",
+      "handle": "BitcoinAIGuy",
+      "avatar": "https://pbs.twimg.com/profile_images/1925209130609876993/fh-Efd18_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk Few",
+      "links": [],
+      "date": "2026-10-20T18:38:54Z",
+      "url": "https://x.com/BitcoinAIGuy/status/2112614553578025351",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 9,
+        "views": 539,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112604211384824081",
+      "statusId": "2112604211384824081",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Manny Montoya",
+      "handle": "MannyM_2003",
+      "avatar": "https://pbs.twimg.com/profile_images/2107966590826270721/uFUZUpkl_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk if i had twice as much time my credit card would just charge interest on it",
+      "links": [],
+      "date": "2026-10-20T17:57:48Z",
+      "url": "https://x.com/MannyM_2003/status/2112604211384824081",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 9,
+        "views": 754,
         "bookmarks": 0
       }
     },
@@ -536,7 +580,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 8,
-        "views": 242,
+        "views": 383,
         "bookmarks": 1
       }
     },
@@ -569,7 +613,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 8,
-        "views": 420,
+        "views": 462,
         "bookmarks": 0
       }
     },
@@ -613,8 +657,41 @@
         "reposts": 7,
         "quotes": 0,
         "likes": 8,
-        "views": 64,
+        "views": 73,
         "bookmarks": 5
+      }
+    },
+    {
+      "id": "2112611856367882275",
+      "statusId": "2112611856367882275",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Angela",
+      "handle": "AmiNBayern",
+      "avatar": "https://pbs.twimg.com/profile_images/2517571152/71imgxsar2bs5duufdhb_200x200.jpeg",
+      "verifiedType": "blue",
+      "text": "@elonmusk A great portion of the U.S. population does not want to live near a data center, so there's that. And yes, U.S. data centers are ugly and noisy. Most Americans want family, village, farm and forest. And peace. Think about that before you build.",
+      "links": [],
+      "date": "2026-10-20T18:28:11Z",
+      "url": "https://x.com/AmiNBayern/status/2112611856367882275",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 2,
+        "quotes": 1,
+        "likes": 8,
+        "views": 694,
+        "bookmarks": 0
       }
     },
     {
@@ -646,7 +723,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 8,
-        "views": 646,
+        "views": 688,
         "bookmarks": 0
       }
     },
@@ -679,51 +756,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 7,
-        "views": 673,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112609192804594061",
-      "statusId": "2112609192804594061",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Harry Bōlz: The Shrug",
-      "handle": "HarryBolzShrug",
-      "avatar": "https://pbs.twimg.com/profile_images/2110799295641235457/zVeYNZf1_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk If electricity was human kek",
-      "links": [],
-      "date": "2026-10-20T18:17:36Z",
-      "url": "https://x.com/HarryBolzShrug/status/2112609192804594061",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVF-3QuXQAARpUW.jpg?name=orig",
-          "poster": "https://pbs.twimg.com/media/HVF-3QuXQAARpUW.jpg?name=orig",
-          "width": 1269,
-          "height": 1240,
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://pbs.twimg.com/media/HVF-3QuXQAARpUW.jpg?name=orig"
-      ],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "likes": 7,
-        "views": 699,
+        "views": 865,
         "bookmarks": 0
       }
     },
@@ -767,7 +800,7 @@
         "reposts": 1,
         "quotes": 1,
         "likes": 7,
-        "views": 132,
+        "views": 156,
         "bookmarks": 0
       }
     },
@@ -800,7 +833,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 7,
-        "views": 107,
+        "views": 145,
         "bookmarks": 0
       }
     },
@@ -833,7 +866,40 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 7,
-        "views": 704,
+        "views": 872,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112626661950972379",
+      "statusId": "2112626661950972379",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Greg Tomaselli",
+      "handle": "GregTomaselli",
+      "avatar": "https://pbs.twimg.com/profile_images/1971767968485847040/ZN6fSd55_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @zerohedge I wish we had those massive solar panel factories online pumping our solar already!",
+      "links": [],
+      "date": "2026-10-20T19:27:01Z",
+      "url": "https://x.com/GregTomaselli/status/2112626661950972379",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 6,
+        "views": 558,
         "bookmarks": 0
       }
     },
@@ -877,24 +943,24 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 6,
-        "views": 141,
+        "views": 151,
         "bookmarks": 0
       }
     },
     {
-      "id": "2112611856367882275",
-      "statusId": "2112611856367882275",
+      "id": "2112612799117680665",
+      "statusId": "2112612799117680665",
       "platform": "x",
       "feedId": "",
       "kind": "reply",
-      "author": "Angela",
-      "handle": "AmiNBayern",
-      "avatar": "https://pbs.twimg.com/profile_images/2517571152/71imgxsar2bs5duufdhb_200x200.jpeg",
+      "author": "David Flagg",
+      "handle": "DavidFlagg20",
+      "avatar": "https://pbs.twimg.com/profile_images/2030657634211430401/dwGvVxnb_200x200.jpg",
       "verifiedType": "blue",
-      "text": "@elonmusk A great portion of the U.S. population does not want to live near a data center, so there's that. And yes, U.S. data centers are ugly and noisy. Most Americans want family, village, farm and forest. And peace. Think about that before you build.",
+      "text": "@elonmusk The biggest problem is with those large power transformers. No clue on how to fix that one in time. But we're going to have to, somehow.",
       "links": [],
-      "date": "2026-10-20T18:28:11Z",
-      "url": "https://x.com/AmiNBayern/status/2112611856367882275",
+      "date": "2026-10-20T18:31:56Z",
+      "url": "https://x.com/DavidFlagg20/status/2112612799117680665",
       "media": [],
       "images": [],
       "repostedBy": null,
@@ -906,11 +972,44 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 1,
-        "reposts": 2,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 1,
+        "likes": 6,
+        "views": 563,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112620404254630216",
+      "statusId": "2112620404254630216",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Jason Turco",
+      "handle": "JasonTurco",
+      "avatar": "https://pbs.twimg.com/profile_images/2110004010820198400/lnefuDyW_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk We need more skilled trades . We’re hurting in the field for competent workers . As much as wr need the infrastructure upgrades we need the manpower",
+      "links": [],
+      "date": "2026-10-20T19:02:09Z",
+      "url": "https://x.com/JasonTurco/status/2112620404254630216",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 1,
         "quotes": 0,
         "likes": 6,
-        "views": 472,
+        "views": 573,
         "bookmarks": 0
       }
     },
@@ -943,7 +1042,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 6,
-        "views": 41,
+        "views": 57,
         "bookmarks": 0
       }
     },
@@ -976,7 +1075,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 6,
-        "views": 640,
+        "views": 759,
         "bookmarks": 0
       }
     },
@@ -1009,7 +1108,40 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 6,
-        "views": 545,
+        "views": 596,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112622250272968991",
+      "statusId": "2112622250272968991",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Leon",
+      "handle": "LeonSolab",
+      "avatar": "https://pbs.twimg.com/profile_images/2104177623073226752/-1vtJ3EN_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk It's not one bottleneck. It's 100 bottlenecks at once.\n\nPower, permits, turbines, transformers, cooling, networking — and they all have to be ready on the same day.\n\nWith twice the time, it's engineering.\nWith half the time, it's war.",
+      "links": [],
+      "date": "2026-10-20T19:09:29Z",
+      "url": "https://x.com/LeonSolab/status/2112622250272968991",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112603906723487744"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 6,
+        "views": 212,
         "bookmarks": 0
       }
     },
@@ -1042,7 +1174,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 6,
-        "views": 413,
+        "views": 472,
         "bookmarks": 0
       }
     },
@@ -1075,159 +1207,7 @@
         "reposts": 2,
         "quotes": 0,
         "likes": 5,
-        "views": 588,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112621666673344795",
-      "statusId": "2112621666673344795",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Javi🤫",
-      "handle": "J495DB",
-      "avatar": "https://pbs.twimg.com/profile_images/2107072911001460736/HkFX4xib_200x200.jpg",
-      "verifiedType": null,
-      "text": "@elonmusk Do you think the world in the future will be based on Humanoid Intelligence?",
-      "links": [],
-      "date": "2026-10-20T19:07:10Z",
-      "url": "https://x.com/J495DB/status/2112621666673344795",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 5,
-        "views": 17,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112621128573177951",
-      "statusId": "2112621128573177951",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "JOEBOI",
-      "handle": "IbikunleJo6385",
-      "avatar": "https://pbs.twimg.com/profile_images/2079993585743659008/QdUOsUxq_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk All this buh please he should consider X gifting back please, I'm already planning on quitting Twitter all because of the expenses🤧💔",
-      "links": [],
-      "date": "2026-10-20T19:05:02Z",
-      "url": "https://x.com/IbikunleJo6385/status/2112621128573177951",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 5,
-        "views": 18,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112604169492127766",
-      "statusId": "2112604169492127766",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "ً",
-      "handle": "finallybye",
-      "avatar": "https://pbs.twimg.com/profile_images/2108336572663791616/P5nTaVDU_200x200.jpg",
-      "verifiedType": null,
-      "text": "@elonmusk",
-      "links": [],
-      "date": "2026-10-20T17:57:38Z",
-      "url": "https://x.com/finallybye/status/2112604169492127766",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVF6SuEXIAEA66P.jpg?name=orig",
-          "poster": "https://pbs.twimg.com/media/HVF6SuEXIAEA66P.jpg?name=orig",
-          "width": 1118,
-          "height": 1200,
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://pbs.twimg.com/media/HVF6SuEXIAEA66P.jpg?name=orig"
-      ],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 1,
-        "likes": 5,
-        "views": 63,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112604406143418510",
-      "statusId": "2112604406143418510",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "WF",
-      "handle": "WhaleFUD",
-      "avatar": "https://pbs.twimg.com/profile_images/2041809462818709504/tHJC4mmy_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk Suggestion for the next robot:",
-      "links": [],
-      "date": "2026-10-20T17:58:35Z",
-      "url": "https://x.com/WhaleFUD/status/2112604406143418510",
-      "media": [
-        {
-          "type": "animated_gif",
-          "url": "https://video.twimg.com/tweet_video/HVF6goOWIAAV2X1.mp4",
-          "poster": "https://pbs.twimg.com/tweet_video_thumb/HVF6goOWIAAV2X1.jpg",
-          "width": 500,
-          "height": 284,
-          "alt": ""
-        }
-      ],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112603906723487744"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 5,
-        "views": 1547,
+        "views": 671,
         "bookmarks": 0
       }
     }

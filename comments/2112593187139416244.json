@@ -39,11 +39,11 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 33,
+        "replies": 35,
         "reposts": 6,
         "quotes": 0,
-        "likes": 428,
-        "views": 9523,
+        "likes": 490,
+        "views": 11026,
         "bookmarks": 1
       }
     },
@@ -75,8 +75,8 @@
         "replies": 4,
         "reposts": 1,
         "quotes": 0,
-        "likes": 332,
-        "views": 7736,
+        "likes": 374,
+        "views": 9013,
         "bookmarks": 3
       }
     },
@@ -106,11 +106,55 @@
       "quoted": null,
       "stats": {
         "replies": 2,
-        "reposts": 22,
+        "reposts": 29,
         "quotes": 0,
-        "likes": 211,
-        "views": 5573,
-        "bookmarks": 5
+        "likes": 286,
+        "views": 6834,
+        "bookmarks": 7
+      }
+    },
+    {
+      "id": "2112614984236572714",
+      "statusId": "2112614984236572714",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Joshua Fontanilla",
+      "handle": "joshfontanilla",
+      "avatar": "https://pbs.twimg.com/profile_images/2022029873871831040/VGyiyZdp_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk",
+      "links": [],
+      "date": "2026-10-20T18:40:37Z",
+      "url": "https://x.com/joshfontanilla/status/2112614984236572714",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGEIWnWwAAhLsm.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVGEIWnWwAAhLsm.jpg?name=orig",
+          "width": 950,
+          "height": 1261,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVGEIWnWwAAhLsm.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593187139416244"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 3,
+        "reposts": 5,
+        "quotes": 0,
+        "likes": 209,
+        "views": 4825,
+        "bookmarks": 3
       }
     },
     {
@@ -166,12 +210,54 @@
         "quoted": null
       },
       "stats": {
-        "replies": 11,
-        "reposts": 43,
+        "replies": 12,
+        "reposts": 52,
         "quotes": 0,
-        "likes": 177,
-        "views": 5199,
-        "bookmarks": 5
+        "likes": 205,
+        "views": 6053,
+        "bookmarks": 6
+      }
+    },
+    {
+      "id": "2112623495901503590",
+      "statusId": "2112623495901503590",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Martin Sellner",
+      "handle": "MartinSellner_",
+      "avatar": "https://pbs.twimg.com/profile_images/1854031937888759824/h85Xoahf_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk In the cities. But we will take them back.\nOld European tradition.",
+      "links": [],
+      "date": "2026-10-20T19:14:26Z",
+      "url": "https://x.com/MartinSellner_/status/2112623495901503590",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2112623442620977152/vid/avc1/1280x720/azsel7RDmZo6Vjpo.mp4?tag=29",
+          "poster": "https://pbs.twimg.com/amplify_video_thumb/2112623442620977152/img/MORSMATMkEIIpr-m.jpg",
+          "width": 1280,
+          "height": 720,
+          "alt": ""
+        }
+      ],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593187139416244"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 9,
+        "reposts": 21,
+        "quotes": 0,
+        "likes": 194,
+        "views": 5434,
+        "bookmarks": 13
       }
     },
     {
@@ -202,8 +288,8 @@
         "replies": 4,
         "reposts": 8,
         "quotes": 0,
-        "likes": 175,
-        "views": 4960,
+        "likes": 193,
+        "views": 5393,
         "bookmarks": 1
       }
     },
@@ -246,9 +332,9 @@
         "replies": 2,
         "reposts": 3,
         "quotes": 0,
-        "likes": 161,
-        "views": 7376,
-        "bookmarks": 4
+        "likes": 177,
+        "views": 8635,
+        "bookmarks": 5
       }
     },
     {
@@ -277,11 +363,11 @@
       "quoted": null,
       "stats": {
         "replies": 5,
-        "reposts": 7,
+        "reposts": 11,
         "quotes": 0,
-        "likes": 141,
-        "views": 5466,
-        "bookmarks": 1
+        "likes": 165,
+        "views": 6766,
+        "bookmarks": 3
       }
     },
     {
@@ -310,10 +396,10 @@
       "quoted": null,
       "stats": {
         "replies": 30,
-        "reposts": 5,
+        "reposts": 6,
         "quotes": 1,
-        "likes": 141,
-        "views": 8082,
+        "likes": 161,
+        "views": 8878,
         "bookmarks": 2
       }
     },
@@ -356,9 +442,9 @@
         "replies": 2,
         "reposts": 3,
         "quotes": 0,
-        "likes": 134,
-        "views": 986,
-        "bookmarks": 1
+        "likes": 155,
+        "views": 1153,
+        "bookmarks": 2
       }
     },
     {
@@ -397,38 +483,29 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 1,
-        "reposts": 15,
+        "replies": 2,
+        "reposts": 16,
         "quotes": 0,
-        "likes": 122,
-        "views": 4409,
-        "bookmarks": 9
+        "likes": 154,
+        "views": 5721,
+        "bookmarks": 12
       }
     },
     {
-      "id": "2112623495901503590",
-      "statusId": "2112623495901503590",
+      "id": "2112601199509684724",
+      "statusId": "2112601199509684724",
       "platform": "x",
       "feedId": "",
       "kind": "reply",
-      "author": "Martin Sellner",
-      "handle": "MartinSellner_",
-      "avatar": "https://pbs.twimg.com/profile_images/1854031937888759824/h85Xoahf_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk In the cities. But we will take them back.\nOld European tradition.",
+      "author": "John Birch Society",
+      "handle": "The_JBS",
+      "avatar": "https://pbs.twimg.com/profile_images/1841961369249173504/fyahz7eJ_200x200.jpg",
+      "verifiedType": "organization",
+      "text": "@elonmusk And it is still happening. It must be stopped!",
       "links": [],
-      "date": "2026-10-20T19:14:26Z",
-      "url": "https://x.com/MartinSellner_/status/2112623495901503590",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2112623442620977152/vid/avc1/1280x720/azsel7RDmZo6Vjpo.mp4?tag=29",
-          "poster": "https://pbs.twimg.com/amplify_video_thumb/2112623442620977152/img/MORSMATMkEIIpr-m.jpg",
-          "width": 1280,
-          "height": 720,
-          "alt": ""
-        }
-      ],
+      "date": "2026-10-20T17:45:50Z",
+      "url": "https://x.com/The_JBS/status/2112601199509684724",
+      "media": [],
       "images": [],
       "repostedBy": null,
       "replyingTo": {
@@ -439,55 +516,11 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 6,
-        "reposts": 13,
+        "replies": 1,
+        "reposts": 2,
         "quotes": 0,
-        "likes": 121,
-        "views": 3252,
-        "bookmarks": 4
-      }
-    },
-    {
-      "id": "2112614984236572714",
-      "statusId": "2112614984236572714",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Joshua Fontanilla",
-      "handle": "joshfontanilla",
-      "avatar": "https://pbs.twimg.com/profile_images/2022029873871831040/VGyiyZdp_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk",
-      "links": [],
-      "date": "2026-10-20T18:40:37Z",
-      "url": "https://x.com/joshfontanilla/status/2112614984236572714",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVGEIWnWwAAhLsm.jpg?name=orig",
-          "poster": "https://pbs.twimg.com/media/HVGEIWnWwAAhLsm.jpg?name=orig",
-          "width": 950,
-          "height": 1261,
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://pbs.twimg.com/media/HVGEIWnWwAAhLsm.jpg?name=orig"
-      ],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593187139416244"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 2,
-        "reposts": 3,
-        "quotes": 0,
-        "likes": 116,
-        "views": 2711,
+        "likes": 104,
+        "views": 1721,
         "bookmarks": 1
       }
     },
@@ -528,44 +561,11 @@
       "quoted": null,
       "stats": {
         "replies": 7,
-        "reposts": 11,
+        "reposts": 12,
         "quotes": 2,
-        "likes": 93,
-        "views": 3968,
+        "likes": 102,
+        "views": 4393,
         "bookmarks": 5
-      }
-    },
-    {
-      "id": "2112601199509684724",
-      "statusId": "2112601199509684724",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "John Birch Society",
-      "handle": "The_JBS",
-      "avatar": "https://pbs.twimg.com/profile_images/1841961369249173504/fyahz7eJ_200x200.jpg",
-      "verifiedType": "organization",
-      "text": "@elonmusk And it is still happening. It must be stopped!",
-      "links": [],
-      "date": "2026-10-20T17:45:50Z",
-      "url": "https://x.com/The_JBS/status/2112601199509684724",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593187139416244"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 1,
-        "reposts": 2,
-        "quotes": 0,
-        "likes": 90,
-        "views": 1447,
-        "bookmarks": 1
       }
     },
     {
@@ -596,8 +596,8 @@
         "replies": 9,
         "reposts": 0,
         "quotes": 0,
-        "likes": 70,
-        "views": 2696,
+        "likes": 90,
+        "views": 3998,
         "bookmarks": 0
       }
     },
@@ -638,11 +638,53 @@
       "quoted": null,
       "stats": {
         "replies": 6,
-        "reposts": 6,
+        "reposts": 9,
         "quotes": 0,
-        "likes": 57,
-        "views": 1480,
-        "bookmarks": 2
+        "likes": 73,
+        "views": 1829,
+        "bookmarks": 4
+      }
+    },
+    {
+      "id": "2112600186921041971",
+      "statusId": "2112600186921041971",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "The Nationalist GB",
+      "handle": "TheNatGB",
+      "avatar": "https://pbs.twimg.com/profile_images/2096182302208663552/NUTN79Cq_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk London’s Great Replacement.",
+      "links": [],
+      "date": "2026-10-20T17:41:49Z",
+      "url": "https://x.com/TheNatGB/status/2112600186921041971",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2109533805782446080/vid/avc1/736x720/wH_yDhMHt-_YNyDM.mp4?tag=29",
+          "poster": "https://pbs.twimg.com/amplify_video_thumb/2109533805782446080/img/-JAIU_hch8m9-ek-.jpg",
+          "width": 736,
+          "height": 720,
+          "alt": ""
+        }
+      ],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593187139416244"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 6,
+        "quotes": 1,
+        "likes": 66,
+        "views": 2772,
+        "bookmarks": 9
       }
     },
     {
@@ -701,51 +743,9 @@
         "replies": 7,
         "reposts": 6,
         "quotes": 0,
-        "likes": 57,
-        "views": 1725,
-        "bookmarks": 1
-      }
-    },
-    {
-      "id": "2112600186921041971",
-      "statusId": "2112600186921041971",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "The Nationalist GB",
-      "handle": "TheNatGB",
-      "avatar": "https://pbs.twimg.com/profile_images/2096182302208663552/NUTN79Cq_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk London’s Great Replacement.",
-      "links": [],
-      "date": "2026-10-20T17:41:49Z",
-      "url": "https://x.com/TheNatGB/status/2112600186921041971",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2109533805782446080/vid/avc1/736x720/wH_yDhMHt-_YNyDM.mp4?tag=29",
-          "poster": "https://pbs.twimg.com/amplify_video_thumb/2109533805782446080/img/-JAIU_hch8m9-ek-.jpg",
-          "width": 736,
-          "height": 720,
-          "alt": ""
-        }
-      ],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593187139416244"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 1,
-        "reposts": 5,
-        "quotes": 1,
-        "likes": 55,
-        "views": 2112,
-        "bookmarks": 8
+        "likes": 61,
+        "views": 1941,
+        "bookmarks": 2
       }
     },
     {
@@ -776,8 +776,8 @@
         "replies": 8,
         "reposts": 3,
         "quotes": 0,
-        "likes": 54,
-        "views": 3494,
+        "likes": 56,
+        "views": 3777,
         "bookmarks": 1
       }
     },
@@ -809,8 +809,41 @@
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
-        "likes": 48,
-        "views": 1748,
+        "likes": 55,
+        "views": 2050,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112604393921277968",
+      "statusId": "2112604393921277968",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Drew Pavlou 🇦🇺🇺🇸🇺🇦🇹🇼",
+      "handle": "DrewPavlou",
+      "avatar": "https://pbs.twimg.com/profile_images/2046104884102180864/yFRLqHdk_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @cfdownes_ The West isn’t finished yet\n\nPeople are waking up",
+      "links": [],
+      "date": "2026-10-20T17:58:32Z",
+      "url": "https://x.com/DrewPavlou/status/2112604393921277968",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593187139416244"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 53,
+        "views": 2429,
         "bookmarks": 0
       }
     },
@@ -851,44 +884,11 @@
       "quoted": null,
       "stats": {
         "replies": 4,
-        "reposts": 7,
+        "reposts": 8,
         "quotes": 0,
-        "likes": 44,
-        "views": 1426,
+        "likes": 52,
+        "views": 1791,
         "bookmarks": 6
-      }
-    },
-    {
-      "id": "2112604393921277968",
-      "statusId": "2112604393921277968",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Drew Pavlou 🇦🇺🇺🇸🇺🇦🇹🇼",
-      "handle": "DrewPavlou",
-      "avatar": "https://pbs.twimg.com/profile_images/2046104884102180864/yFRLqHdk_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk @cfdownes_ The West isn’t finished yet\n\nPeople are waking up",
-      "links": [],
-      "date": "2026-10-20T17:58:32Z",
-      "url": "https://x.com/DrewPavlou/status/2112604393921277968",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593187139416244"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 44,
-        "views": 1773,
-        "bookmarks": 0
       }
     },
     {
@@ -928,10 +928,10 @@
       "quoted": null,
       "stats": {
         "replies": 0,
-        "reposts": 2,
+        "reposts": 3,
         "quotes": 0,
-        "likes": 29,
-        "views": 748,
+        "likes": 37,
+        "views": 938,
         "bookmarks": 0
       }
     },
@@ -963,41 +963,8 @@
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
-        "likes": 23,
-        "views": 785,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112599356608291086",
-      "statusId": "2112599356608291086",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Henri Gaudier",
-      "handle": "HenriGaudier",
-      "avatar": "https://pbs.twimg.com/profile_images/1524950607655747598/YahrCenX_200x200.png",
-      "verifiedType": "blue",
-      "text": "@elonmusk The Muslim invasion of Europe has already taken place.\nNow comes the phase of destruction and the displacement of the native population.\nThe socialist ruling class and their hybrids just keep watching it on TV.",
-      "links": [],
-      "date": "2026-10-20T17:38:31Z",
-      "url": "https://x.com/HenriGaudier/status/2112599356608291086",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593187139416244"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "likes": 22,
-        "views": 1242,
+        "likes": 32,
+        "views": 1013,
         "bookmarks": 0
       }
     },
@@ -1029,8 +996,41 @@
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
-        "likes": 20,
-        "views": 272,
+        "likes": 28,
+        "views": 390,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112599356608291086",
+      "statusId": "2112599356608291086",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Henri Gaudier",
+      "handle": "HenriGaudier",
+      "avatar": "https://pbs.twimg.com/profile_images/1524950607655747598/YahrCenX_200x200.png",
+      "verifiedType": "blue",
+      "text": "@elonmusk The Muslim invasion of Europe has already taken place.\nNow comes the phase of destruction and the displacement of the native population.\nThe socialist ruling class and their hybrids just keep watching it on TV.",
+      "links": [],
+      "date": "2026-10-20T17:38:31Z",
+      "url": "https://x.com/HenriGaudier/status/2112599356608291086",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593187139416244"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "likes": 25,
+        "views": 1415,
         "bookmarks": 0
       }
     },
@@ -1073,9 +1073,42 @@
         "replies": 0,
         "reposts": 2,
         "quotes": 0,
-        "likes": 18,
-        "views": 753,
+        "likes": 21,
+        "views": 1030,
         "bookmarks": 1
+      }
+    },
+    {
+      "id": "2112627532545601656",
+      "statusId": "2112627532545601656",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Yakub",
+      "handle": "YakubTheAryan",
+      "avatar": "https://pbs.twimg.com/profile_images/2111205335792857088/8R5ZoHfU_200x200.jpg",
+      "verifiedType": null,
+      "text": "@elonmusk It's not a Great Replacement, it's White Genocide.",
+      "links": [],
+      "date": "2026-10-20T19:30:29Z",
+      "url": "https://x.com/YakubTheAryan/status/2112627532545601656",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593187139416244"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 19,
+        "views": 128,
+        "bookmarks": 0
       }
     },
     {
@@ -1107,7 +1140,7 @@
         "reposts": 2,
         "quotes": 0,
         "likes": 18,
-        "views": 1662,
+        "views": 1865,
         "bookmarks": 1
       }
     },
@@ -1140,8 +1173,52 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 16,
-        "views": 1981,
+        "views": 2065,
         "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112613980820881582",
+      "statusId": "2112613980820881582",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Danny Noonan",
+      "handle": "DannyNoonanGolf",
+      "avatar": "https://pbs.twimg.com/profile_images/2099300626895364096/PWOSV5Fy_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk",
+      "links": [],
+      "date": "2026-10-20T18:36:38Z",
+      "url": "https://x.com/DannyNoonanGolf/status/2112613980820881582",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGDN9masAAza7i.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVGDN9masAAza7i.jpg?name=orig",
+          "width": 1472,
+          "height": 1472,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HVGDN9masAAza7i.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593187139416244"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "likes": 16,
+        "views": 394,
+        "bookmarks": 1
       }
     },
     {
@@ -1189,121 +1266,11 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 1,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
-        "likes": 15,
-        "views": 297,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112600803957743930",
-      "statusId": "2112600803957743930",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Martians 🪐",
-      "handle": "MartiansOfMars",
-      "avatar": "https://pbs.twimg.com/profile_images/2098787215765827584/uotousIl_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk Mars\n1955: 100% native Martians\n2030: 101% native Martians with your return",
-      "links": [],
-      "date": "2026-10-20T17:44:16Z",
-      "url": "https://x.com/MartiansOfMars/status/2112600803957743930",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593187139416244"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 3,
-        "reposts": 6,
-        "quotes": 1,
-        "likes": 14,
-        "views": 1263,
-        "bookmarks": 3
-      }
-    },
-    {
-      "id": "2112594878907453442",
-      "statusId": "2112594878907453442",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Déborah",
-      "handle": "dvorahfr",
-      "avatar": "https://pbs.twimg.com/profile_images/1605451924144373760/K27zpEfc_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk In France, the media continues to label anyone who talks about the \"great replacement\" as far-right. It’s pathetic. An extremely violent episode is expected next Saturday, yet the media treats it as a minor phenomenon blown out of proportion by the far-right.",
-      "links": [],
-      "date": "2026-10-20T17:20:43Z",
-      "url": "https://x.com/dvorahfr/status/2112594878907453442",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593187139416244"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 1,
-        "reposts": 2,
-        "quotes": 0,
-        "likes": 13,
-        "views": 748,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112593388243685518",
-      "statusId": "2112593388243685518",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Steven Duckett",
-      "handle": "duckett13053",
-      "avatar": "https://pbs.twimg.com/profile_images/2069072169855066112/fslqIFQj_200x200.jpg",
-      "verifiedType": null,
-      "text": "@elonmusk",
-      "links": [],
-      "date": "2026-10-20T17:14:48Z",
-      "url": "https://x.com/duckett13053/status/2112593388243685518",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVFwfVAaEAEHkEz.jpg?name=orig",
-          "poster": "https://pbs.twimg.com/media/HVFwfVAaEAEHkEz.jpg?name=orig",
-          "width": 864,
-          "height": 1080,
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://pbs.twimg.com/media/HVFwfVAaEAEHkEz.jpg?name=orig"
-      ],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593187139416244"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "likes": 13,
-        "views": 824,
+        "likes": 16,
+        "views": 344,
         "bookmarks": 0
       }
     },
@@ -1335,9 +1302,42 @@
         "replies": 3,
         "reposts": 1,
         "quotes": 0,
-        "likes": 13,
-        "views": 956,
+        "likes": 15,
+        "views": 1131,
         "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112600803957743930",
+      "statusId": "2112600803957743930",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Martians 🪐",
+      "handle": "MartiansOfMars",
+      "avatar": "https://pbs.twimg.com/profile_images/2098787215765827584/uotousIl_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk Mars\n1955: 100% native Martians\n2030: 101% native Martians with your return",
+      "links": [],
+      "date": "2026-10-20T17:44:16Z",
+      "url": "https://x.com/MartiansOfMars/status/2112600803957743930",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593187139416244"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 3,
+        "reposts": 6,
+        "quotes": 1,
+        "likes": 15,
+        "views": 1429,
+        "bookmarks": 3
       }
     },
     {
@@ -1387,8 +1387,8 @@
         "replies": 1,
         "reposts": 1,
         "quotes": 0,
-        "likes": 13,
-        "views": 500,
+        "likes": 15,
+        "views": 524,
         "bookmarks": 0
       }
     }
