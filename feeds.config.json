@@ -1,0 +1,85 @@
+{
+  "rsshubBase": "http://localhost:1200",
+  "fxtwitterBase": "https://api.fxtwitter.com",
+  "output": "feeds.json",
+  "cap": 300,
+  "feeds": [
+    {
+      "id": "x:elonmusk",
+      "platform": "x",
+      "handle": "elonmusk",
+      "adapter": "fxtwitter",
+      "source_urls": ["{fxtwitterBase}/2/profile/elonmusk/statuses"],
+      "fallbacks": [
+        {"adapter": "nitter_rss", "source_urls": []}
+      ],
+      "fixture": "scripts/fixtures/x_api_v2_elon.json",
+      "fixtureAdapter": "x_api_v2",
+      "limit": 6,
+      "profile": {
+        "name": "Elon Musk",
+        "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
+        "verifiedType": "blue",
+        "followers": 241524071,
+        "following": 1419,
+        "postsCount": 110566,
+        "joined": "2009-06-02",
+        "bio": "http://Terafab.AI",
+        "website": "",
+        "url": "https://x.com/elonmusk"
+      }
+    },
+    {
+      "id": "x:finkd",
+      "platform": "x",
+      "handle": "finkd",
+      "adapter": "fxtwitter",
+      "source_urls": ["{fxtwitterBase}/2/profile/finkd/statuses"],
+      "fallbacks": [
+        {"adapter": "nitter_rss", "source_urls": []}
+      ],
+      "fixture": "scripts/fixtures/x_api_v2_finkd.json",
+      "fixtureAdapter": "x_api_v2",
+      "limit": 8,
+      "profile": {
+        "name": "Mark Zuckerberg",
+        "avatar": "https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg",
+        "verifiedType": "blue",
+        "followers": 2511399,
+        "following": 759,
+        "postsCount": 102,
+        "joined": "2009-02-01",
+        "bio": "",
+        "url": "https://x.com/finkd"
+      }
+    },
+    {
+      "id": "instagram:zuck",
+      "platform": "instagram",
+      "handle": "zuck",
+      "adapter": "rsshub_instagram",
+      "source_urls": ["{rsshubBase}/instagram/user/{handle}"],
+      "fixture": "scripts/fixtures/rsshub_instagram_zuck.xml",
+      "fixtureAdapter": "rsshub_instagram",
+      "limit": 8,
+      "profile": {
+        "name": "Mark Zuckerberg",
+        "url": "https://www.instagram.com/zuck/"
+      }
+    },
+    {
+      "id": "threads:zuck",
+      "platform": "threads",
+      "handle": "zuck",
+      "adapter": "rsshub_threads",
+      "source_urls": ["{rsshubBase}/threads/{handle}"],
+      "fixture": "scripts/fixtures/rsshub_threads_zuck.xml",
+      "fixtureAdapter": "rsshub_threads",
+      "limit": 8,
+      "profile": {
+        "name": "Mark Zuckerberg",
+        "url": "https://www.threads.com/@zuck"
+      }
+    }
+  ]
+}
