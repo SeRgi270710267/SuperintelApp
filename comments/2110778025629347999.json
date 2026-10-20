@@ -1,0 +1,1388 @@
+{
+  "postId": "2110778025629347999",
+  "platform": "x",
+  "source": "fxtwitter",
+  "replies": [
+    {
+      "id": "2110789142326165518",
+      "statusId": "2110789142326165518",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "John Ternus",
+      "handle": "johnternus",
+      "avatar": "https://pbs.twimg.com/profile_images/2094817326155939840/MVSN5mvP_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd Congrats to the team! Amazing to run a model of Muse Spark Open's caliber and scale this efficiently, right from your desk. Mac Studio keeps pushing the boundaries of on-device AI!",
+      "links": [],
+      "date": "2026-10-15T17:45:22Z",
+      "url": "https://x.com/johnternus/status/2110789142326165518",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 192,
+        "reposts": 349,
+        "quotes": 93,
+        "likes": 15054,
+        "views": 1256253,
+        "bookmarks": 644
+      }
+    },
+    {
+      "id": "2110816421731246496",
+      "statusId": "2110816421731246496",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Rob",
+      "handle": "RobinsonATrs",
+      "avatar": "https://pbs.twimg.com/profile_images/2096766806233112576/ws87DqlN_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Same vibe",
+      "links": [],
+      "date": "2026-10-15T19:33:46Z",
+      "url": "https://x.com/RobinsonATrs/status/2110816421731246496",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUsgWRFW8AADlcG.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUsgWRFW8AADlcG.jpg?name=orig",
+          "width": 1280,
+          "height": 694,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUsgWRFW8AADlcG.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "likes": 689,
+        "views": 79853,
+        "bookmarks": 21
+      }
+    },
+    {
+      "id": "2110778953640427812",
+      "statusId": "2110778953640427812",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Unsloth AI",
+      "handle": "UnslothAI",
+      "avatar": "https://pbs.twimg.com/profile_images/2036313340616777728/OLALWB2__200x200.jpg",
+      "verifiedType": "organization",
+      "text": "@finkd @johnternus Congrats Meta and thank you for more open-weight models! 🥰\n\nFor those who can run Muse Spark Open locally, we made Dynamic GGUFs: https://huggingface.co/unsloth/Muse-Spark-Open-816B-A42B-GGUF",
+      "links": [],
+      "date": "2026-10-15T17:04:53Z",
+      "url": "https://x.com/UnslothAI/status/2110778953640427812",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 3,
+        "reposts": 16,
+        "quotes": 2,
+        "likes": 274,
+        "views": 13215,
+        "bookmarks": 54
+      }
+    },
+    {
+      "id": "2110947628615618649",
+      "statusId": "2110947628615618649",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Yann LeCun",
+      "handle": "ylecun",
+      "avatar": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Awesome 👍👏👌",
+      "links": [],
+      "date": "2026-10-16T04:15:08Z",
+      "url": "https://x.com/ylecun/status/2110947628615618649",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 248,
+        "views": 29512,
+        "bookmarks": 5
+      }
+    },
+    {
+      "id": "2110779946838987106",
+      "statusId": "2110779946838987106",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "♔",
+      "handle": "nuroctane",
+      "avatar": "https://pbs.twimg.com/profile_images/2105065635742908416/9Lkz-qek_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus You and Ternus in cahoots? Next decade looks extremely promising. You guys will make magic.",
+      "links": [],
+      "date": "2026-10-15T17:08:50Z",
+      "url": "https://x.com/nuroctane/status/2110779946838987106",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 192,
+        "views": 31539,
+        "bookmarks": 3
+      }
+    },
+    {
+      "id": "2110789848919589348",
+      "statusId": "2110789848919589348",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Guillermo Rauch",
+      "handle": "rauchg",
+      "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Wow",
+      "links": [],
+      "date": "2026-10-15T17:48:11Z",
+      "url": "https://x.com/rauchg/status/2110789848919589348",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 192,
+        "views": 31304,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2110791194296848658",
+      "statusId": "2110791194296848658",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Greg Hunkins",
+      "handle": "greghunkins",
+      "avatar": "https://pbs.twimg.com/profile_images/2097355093980983296/P9SMqssV_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Muse v Dario",
+      "links": [],
+      "date": "2026-10-15T17:53:31Z",
+      "url": "https://x.com/greghunkins/status/2110791194296848658",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2110116151644590080/vid/avc1/1280x720/1dDAnOVxa_PQK2g4.mp4?tag=29",
+          "poster": "https://pbs.twimg.com/amplify_video_thumb/2110116151644590080/img/HCD3sLm1AVi2sUt9.jpg",
+          "width": 1280,
+          "height": 720,
+          "alt": ""
+        }
+      ],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 3,
+        "reposts": 5,
+        "quotes": 1,
+        "likes": 183,
+        "views": 59433,
+        "bookmarks": 13
+      }
+    },
+    {
+      "id": "2110788585188143133",
+      "statusId": "2110788585188143133",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "bone",
+      "handle": "boneGPT",
+      "avatar": "https://pbs.twimg.com/profile_images/2006021278281478144/veZLsQq9_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus fresh new weights thank you zuck\n\nalso incredible desk",
+      "links": [],
+      "date": "2026-10-15T17:43:09Z",
+      "url": "https://x.com/boneGPT/status/2110788585188143133",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 161,
+        "views": 28632,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2111305035959468370",
+      "statusId": "2111305035959468370",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "GG",
+      "handle": "_noonyoon",
+      "avatar": "https://pbs.twimg.com/profile_images/2064333998084784128/y-r1S9kq_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus I really need this USB cable to be plugged on the left port.\n\nSeriously this is not OKAY at all.",
+      "links": [],
+      "date": "2026-10-17T03:55:21Z",
+      "url": "https://x.com/_noonyoon/status/2111305035959468370",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUzcoFJaUAAQnQV.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUzcoFJaUAAQnQV.jpg?name=orig",
+          "width": 924,
+          "height": 546,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUzcoFJaUAAQnQV.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 151,
+        "views": 16024,
+        "bookmarks": 3
+      }
+    },
+    {
+      "id": "2110886669914169675",
+      "statusId": "2110886669914169675",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Alex Greenland",
+      "handle": "ajrgd",
+      "avatar": "https://pbs.twimg.com/profile_images/2070917431132835840/y33g_TX2_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus this looks so good and I want one",
+      "links": [],
+      "date": "2026-10-16T00:12:55Z",
+      "url": "https://x.com/ajrgd/status/2110886669914169675",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUtgPRDX0AALRxf.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUtgPRDX0AALRxf.jpg?name=orig",
+          "width": 640,
+          "height": 650,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUtgPRDX0AALRxf.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 142,
+        "views": 25720,
+        "bookmarks": 10
+      }
+    },
+    {
+      "id": "2111101836841419037",
+      "statusId": "2111101836841419037",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Greg Van Horn",
+      "handle": "GregVanHorn",
+      "avatar": "https://pbs.twimg.com/profile_images/2107631452519096320/nxzQi3t__200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Only thing missing from the desk",
+      "links": [],
+      "date": "2026-10-16T14:27:54Z",
+      "url": "https://x.com/GregVanHorn/status/2111101836841419037",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUwj7qvXUAAVCjS.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUwj7qvXUAAVCjS.jpg?name=orig",
+          "width": 447,
+          "height": 447,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUwj7qvXUAAVCjS.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "likes": 142,
+        "views": 25599,
+        "bookmarks": 9
+      }
+    },
+    {
+      "id": "2110805604436754867",
+      "statusId": "2110805604436754867",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Autism Capital 🧩",
+      "handle": "AutismCapital",
+      "avatar": "https://pbs.twimg.com/profile_images/2105747029062451200/RDc04ZTT_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus It's supposed to be fuzzy. This is not fuzzy. Send it back.",
+      "links": [],
+      "date": "2026-10-15T18:50:47Z",
+      "url": "https://x.com/AutismCapital/status/2110805604436754867",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUsWUxDagAAnslu.png?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUsWUxDagAAnslu.png?name=orig",
+          "width": 662,
+          "height": 672,
+          "alt": ""
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUsWfWdaEAA_745.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUsWfWdaEAA_745.jpg?name=orig",
+          "width": 1920,
+          "height": 1280,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUsWUxDagAAnslu.png?name=orig",
+        "https://pbs.twimg.com/media/HUsWfWdaEAA_745.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 6,
+        "reposts": 3,
+        "quotes": 0,
+        "likes": 129,
+        "views": 21385,
+        "bookmarks": 2
+      }
+    },
+    {
+      "id": "2110807802096832850",
+      "statusId": "2110807802096832850",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "0xSero",
+      "handle": "0xSero",
+      "avatar": "https://pbs.twimg.com/profile_images/2111226379521892352/3ICUbYY6_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @somewheresy @johnternus I’m trying to quantise it I applied for access\n\nI’ve published over 50 model quants with 1M downloads",
+      "links": [],
+      "date": "2026-10-15T18:59:31Z",
+      "url": "https://x.com/0xSero/status/2110807802096832850",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 103,
+        "views": 15057,
+        "bookmarks": 2
+      }
+    },
+    {
+      "id": "2110806744599507142",
+      "statusId": "2110806744599507142",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "fqure",
+      "handle": "fqure",
+      "avatar": "https://pbs.twimg.com/profile_images/1607108707673903104/QGZViTNJ_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Bird’s eye view, if this pace continues, we won’t need data centers in 10 years. #datacenter",
+      "links": [],
+      "date": "2026-10-15T18:55:19Z",
+      "url": "https://x.com/fqure/status/2110806744599507142",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUsXi_uWAAA-XhB.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUsXi_uWAAA-XhB.jpg?name=orig",
+          "width": 1206,
+          "height": 1889,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUsXi_uWAAA-XhB.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 3,
+        "quotes": 1,
+        "likes": 89,
+        "views": 34371,
+        "bookmarks": 19
+      }
+    },
+    {
+      "id": "2110789703414784094",
+      "statusId": "2110789703414784094",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Prince Canuma",
+      "handle": "Prince_Canuma",
+      "avatar": "https://pbs.twimg.com/profile_images/2018690435636510720/Aq3-a3Mv_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @armandjoulin @johnternus Congrats on the release and thank you for the open weights!\n\nYou will be able to run Muse Spark open on two Mac Studios with 256GB or one with 512GB\n\nUsing MLX-VLM and @Nativ_AI",
+      "links": [],
+      "date": "2026-10-15T17:47:36Z",
+      "url": "https://x.com/Prince_Canuma/status/2110789703414784094",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 79,
+        "views": 7988,
+        "bookmarks": 8
+      }
+    },
+    {
+      "id": "2110778177828368857",
+      "statusId": "2110778177828368857",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "NATE 🟣🟢🟡🟠🔴🟠🟠🟡🟣🟢🟡🟠🔴🟠🟠🟡🟣🟢🟡🟠🔴🟠",
+      "handle": "NATE9169",
+      "avatar": "https://pbs.twimg.com/profile_images/2110242230065934336/gOb0XQ2N_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus mark can u please send me one of these 🥺",
+      "links": [],
+      "date": "2026-10-15T17:01:48Z",
+      "url": "https://x.com/NATE9169/status/2110778177828368857",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUr9f1aaMAAgmrP.png?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUr9f1aaMAAgmrP.png?name=orig",
+          "width": 450,
+          "height": 407,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUr9f1aaMAAgmrP.png?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 64,
+        "views": 17222,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2110782658557157411",
+      "statusId": "2110782658557157411",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "NIK",
+      "handle": "ns123abc",
+      "avatar": "https://pbs.twimg.com/profile_images/2048822563821035520/7nxCFEnk_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @yorambac @johnternus the Zucc delivers on his promises",
+      "links": [],
+      "date": "2026-10-15T17:19:36Z",
+      "url": "https://x.com/ns123abc/status/2110782658557157411",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 63,
+        "views": 10531,
+        "bookmarks": 2
+      }
+    },
+    {
+      "id": "2110837296388067598",
+      "statusId": "2110837296388067598",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Bateman",
+      "handle": "PatrickBatemnn",
+      "avatar": "https://pbs.twimg.com/profile_images/2099507738753847296/-F0qF3bC_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus While Siri is cooking steak in the kitchen",
+      "links": [],
+      "date": "2026-10-15T20:56:43Z",
+      "url": "https://x.com/PatrickBatemnn/status/2110837296388067598",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2110837238846136320/vid/avc1/720x1024/OtgMS4TPYe7Vg6Yt.mp4?tag=29",
+          "poster": "https://pbs.twimg.com/amplify_video_thumb/2110837238846136320/img/4EiddrxVaPFVuBB6.jpg",
+          "width": 720,
+          "height": 1024,
+          "alt": ""
+        }
+      ],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 3,
+        "quotes": 0,
+        "likes": 56,
+        "views": 23941,
+        "bookmarks": 16
+      }
+    },
+    {
+      "id": "2110797796114661864",
+      "statusId": "2110797796114661864",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Ash Hart",
+      "handle": "ashxhart",
+      "avatar": "https://pbs.twimg.com/profile_images/2076633444411494400/InvR8zXt_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus I bet this would run even faster on https://tensorfold.dev 👀",
+      "links": [],
+      "date": "2026-10-15T18:19:45Z",
+      "url": "https://x.com/ashxhart/status/2110797796114661864",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 49,
+        "views": 1471,
+        "bookmarks": 4
+      }
+    },
+    {
+      "id": "2110795448369938785",
+      "statusId": "2110795448369938785",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "kitze 🛠️ tinkerer.club",
+      "handle": "thekitze",
+      "avatar": "https://pbs.twimg.com/profile_images/2086828789896519680/roL3Zqe2_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus mark in shipping mode",
+      "links": [],
+      "date": "2026-10-15T18:10:26Z",
+      "url": "https://x.com/thekitze/status/2110795448369938785",
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://video.twimg.com/tweet_video/HUsNRO1WUAE02xR.mp4",
+          "poster": "https://pbs.twimg.com/tweet_video_thumb/HUsNRO1WUAE02xR.jpg",
+          "width": 480,
+          "height": 252,
+          "alt": ""
+        }
+      ],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 48,
+        "views": 11425,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2110795637000450362",
+      "statusId": "2110795637000450362",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Christian Catalini",
+      "handle": "ccatalini",
+      "avatar": "https://pbs.twimg.com/profile_images/1625887550660558848/UAwu7wTP_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus",
+      "links": [],
+      "date": "2026-10-15T18:11:11Z",
+      "url": "https://x.com/ccatalini/status/2110795637000450362",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUsNcYLbAAA3aS2.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUsNcYLbAAA3aS2.jpg?name=orig",
+          "width": 2048,
+          "height": 1501,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUsNcYLbAAA3aS2.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 44,
+        "views": 9080,
+        "bookmarks": 4
+      }
+    },
+    {
+      "id": "2110785811201306981",
+      "statusId": "2110785811201306981",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Bren",
+      "handle": "BrenBuilds",
+      "avatar": "https://pbs.twimg.com/profile_images/1997459915841949696/ismZLDe2_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Thanks Mark, now my timeline is going to filled with mac studio zealots telling us how their investment paid off for the next week.",
+      "links": [],
+      "date": "2026-10-15T17:32:08Z",
+      "url": "https://x.com/BrenBuilds/status/2110785811201306981",
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://video.twimg.com/tweet_video/HUsEf-RWcAAqUAp.mp4",
+          "poster": "https://pbs.twimg.com/tweet_video_thumb/HUsEf-RWcAAqUAp.jpg",
+          "width": 306,
+          "height": 280,
+          "alt": ""
+        }
+      ],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 42,
+        "views": 13122,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2110800722333741536",
+      "statusId": "2110800722333741536",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Pedro Duarte",
+      "handle": "peduarte",
+      "avatar": "https://pbs.twimg.com/profile_images/2070154611910991872/uCYjutC3_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus hi mark, are you using raycast yet?",
+      "links": [],
+      "date": "2026-10-15T18:31:23Z",
+      "url": "https://x.com/peduarte/status/2110800722333741536",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 42,
+        "views": 15505,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2110778242412204211",
+      "statusId": "2110778242412204211",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "ALX (x/acc) 🎃🇺🇸",
+      "handle": "alx",
+      "avatar": "https://pbs.twimg.com/profile_images/2105508393213415424/ykMDJwKu_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus You don’t have a bottle of Sweet Baby Ray’s on your desk? Disappointing.",
+      "links": [],
+      "date": "2026-10-15T17:02:04Z",
+      "url": "https://x.com/alx/status/2110778242412204211",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 3,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 33,
+        "views": 6336,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2110886125816692784",
+      "statusId": "2110886125816692784",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Alex Greenland",
+      "handle": "ajrgd",
+      "avatar": "https://pbs.twimg.com/profile_images/2070917431132835840/y33g_TX2_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "This image and post is the one of the strongest public endorsements for the Mac I have seen in a while.\n\nIt speaks volumes. The stark simplicity of the Meta founder's desk, counterbalanced by the powerhouse paperweights of Mac Studios either side.\n\nA shining example of Mac productivity and aspiration.",
+      "links": [],
+      "date": "2026-10-16T00:10:45Z",
+      "url": "https://x.com/ajrgd/status/2110886125816692784",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUtfvTkXUAAqIPB.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUtfvTkXUAAqIPB.jpg?name=orig",
+          "width": 4096,
+          "height": 2599,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUtfvTkXUAAqIPB.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 1,
+        "likes": 27,
+        "views": 9209,
+        "bookmarks": 8
+      }
+    },
+    {
+      "id": "2110780715377807487",
+      "statusId": "2110780715377807487",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Roberto Nickson",
+      "handle": "rpnickson",
+      "avatar": "https://pbs.twimg.com/profile_images/1678273425981186048/D3Z6BNyq_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Well... all the more reason to pull the trigger on a pair of M5 Ultra Mac Studio.\n\nCongrats!",
+      "links": [],
+      "date": "2026-10-15T17:11:53Z",
+      "url": "https://x.com/rpnickson/status/2110780715377807487",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 25,
+        "views": 5210,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2110787677528395957",
+      "statusId": "2110787677528395957",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "BOB | DSF 🇺🇸",
+      "handle": "dailyspacefact",
+      "avatar": "https://pbs.twimg.com/profile_images/2101745334221459458/L5QXEWcv_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Those Mac studios are worth more than my house",
+      "links": [],
+      "date": "2026-10-15T17:39:33Z",
+      "url": "https://x.com/dailyspacefact/status/2110787677528395957",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 15,
+        "views": 5249,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2110780105450795125",
+      "statusId": "2110780105450795125",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Vishal Singh",
+      "handle": "vishalsingh2972",
+      "avatar": "https://pbs.twimg.com/profile_images/1647082070542528512/cw4eyk7v_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Built for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token context window\n→ Natively multimodal across text, image, video, audio\n\nDamn nice 🔥",
+      "links": [],
+      "date": "2026-10-15T17:09:28Z",
+      "url": "https://x.com/vishalsingh2972/status/2110780105450795125",
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://video.twimg.com/tweet_video/HUr_T4aa0AAuY_X.mp4",
+          "poster": "https://pbs.twimg.com/tweet_video_thumb/HUr_T4aa0AAuY_X.jpg",
+          "width": 270,
+          "height": 480,
+          "alt": ""
+        }
+      ],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 15,
+        "views": 3467,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2110866046244843891",
+      "statusId": "2110866046244843891",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Cosmo",
+      "handle": "cosmoluei",
+      "avatar": "https://pbs.twimg.com/profile_images/1905477556264181760/CbmHhbbq_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus What day is this? 2.4.2024",
+      "links": [],
+      "date": "2026-10-15T22:50:58Z",
+      "url": "https://x.com/cosmoluei/status/2110866046244843891",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUtNeo-bcAAKKoQ.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUtNeo-bcAAKKoQ.jpg?name=orig",
+          "width": 1320,
+          "height": 2868,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUtNeo-bcAAKKoQ.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 7,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 14,
+        "views": 19605,
+        "bookmarks": 2
+      }
+    },
+    {
+      "id": "2110819396557902068",
+      "statusId": "2110819396557902068",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Shobhit Dixit",
+      "handle": "shobhitdixitt",
+      "avatar": "https://pbs.twimg.com/profile_images/1490077923063123968/NfcQZBff_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Zuckerberg thanking Ternus on X because Apple doesn’t use Threads",
+      "links": [],
+      "date": "2026-10-15T19:45:35Z",
+      "url": "https://x.com/shobhitdixitt/status/2110819396557902068",
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://video.twimg.com/tweet_video/HUsjDStXAAA9tCl.mp4",
+          "poster": "https://pbs.twimg.com/tweet_video_thumb/HUsjDStXAAA9tCl.jpg",
+          "width": 392,
+          "height": 498,
+          "alt": ""
+        }
+      ],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 14,
+        "views": 1406,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2110787827256770937",
+      "statusId": "2110787827256770937",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Greg",
+      "handle": "gregkauwe",
+      "avatar": "https://pbs.twimg.com/profile_images/1440289370611732491/oLoUnys1_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus Any good? @finkd",
+      "links": [],
+      "date": "2026-10-15T17:40:09Z",
+      "url": "https://x.com/gregkauwe/status/2110787827256770937",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUsGV9ObAAAdQ0Z.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUsGV9ObAAAdQ0Z.jpg?name=orig",
+          "width": 1000,
+          "height": 1000,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUsGV9ObAAAdQ0Z.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 13,
+        "views": 9745,
+        "bookmarks": 6
+      }
+    },
+    {
+      "id": "2111396901035868443",
+      "statusId": "2111396901035868443",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Alps",
+      "handle": "alpaysh",
+      "avatar": "https://pbs.twimg.com/profile_images/2066494530690420736/TiqvoU1w_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus bro the muse u have is chopped wth",
+      "links": [],
+      "date": "2026-10-17T10:00:23Z",
+      "url": "https://x.com/alpaysh/status/2111396901035868443",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU0wLjAaAAA7gPN.png?name=orig",
+          "poster": "https://pbs.twimg.com/media/HU0wLjAaAAA7gPN.png?name=orig",
+          "width": 468,
+          "height": 472,
+          "alt": ""
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU0wQdUaYAASJIq.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HU0wQdUaYAASJIq.jpg?name=orig",
+          "width": 1200,
+          "height": 800,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HU0wLjAaAAA7gPN.png?name=orig",
+        "https://pbs.twimg.com/media/HU0wQdUaYAASJIq.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 13,
+        "views": 4140,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2110803726319616182",
+      "statusId": "2110803726319616182",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "David Petrou",
+      "handle": "dpetrou",
+      "avatar": "https://pbs.twimg.com/profile_images/2102129176799047680/8FXGts-S_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus my company's 3d logo is better than yours.",
+      "links": [],
+      "date": "2026-10-15T18:43:19Z",
+      "url": "https://x.com/dpetrou/status/2110803726319616182",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUsUysbXgAAf9qT.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUsUysbXgAAf9qT.jpg?name=orig",
+          "width": 4096,
+          "height": 3082,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUsUysbXgAAf9qT.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 12,
+        "views": 11022,
+        "bookmarks": 2
+      }
+    },
+    {
+      "id": "2110830605634310560",
+      "statusId": "2110830605634310560",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Rohan Paul",
+      "handle": "rohanpaul_ai",
+      "avatar": "https://pbs.twimg.com/profile_images/1816185267037859840/Fd18CH0v_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus massive release. literally.\n🙏🙏",
+      "links": [],
+      "date": "2026-10-15T20:30:08Z",
+      "url": "https://x.com/rohanpaul_ai/status/2110830605634310560",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUstLDNbkAA-7aF.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HUstLDNbkAA-7aF.jpg?name=orig",
+          "width": 2223,
+          "height": 2372,
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://pbs.twimg.com/media/HUstLDNbkAA-7aF.jpg?name=orig"
+      ],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 12,
+        "views": 3400,
+        "bookmarks": 3
+      }
+    },
+    {
+      "id": "2110785438797664704",
+      "statusId": "2110785438797664704",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Kyle",
+      "handle": "spacegluder",
+      "avatar": "https://pbs.twimg.com/profile_images/2090965858671882240/x2wjCALH_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@finkd @johnternus why does ur desk look ai generated",
+      "links": [],
+      "date": "2026-10-15T17:30:39Z",
+      "url": "https://x.com/spacegluder/status/2110785438797664704",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "finkd",
+        "handle": "finkd",
+        "avatar": "",
+        "id": "2110778025629347999"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 12,
+        "views": 3638,
+        "bookmarks": 0
+      }
+    }
+  ]
+}
