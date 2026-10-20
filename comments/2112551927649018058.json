@@ -29,10 +29,10 @@
       "quoted": null,
       "stats": {
         "replies": 6,
-        "reposts": 10,
+        "reposts": 11,
         "quotes": 1,
-        "likes": 108,
-        "views": 17517,
+        "likes": 109,
+        "views": 18214,
         "bookmarks": 103
       }
     },
@@ -76,7 +76,7 @@
         "reposts": 6,
         "quotes": 0,
         "likes": 47,
-        "views": 363,
+        "views": 365,
         "bookmarks": 4
       }
     },
@@ -109,7 +109,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 18,
-        "views": 1268,
+        "views": 1368,
         "bookmarks": 0
       }
     },
@@ -142,7 +142,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 13,
-        "views": 1366,
+        "views": 1421,
         "bookmarks": 0
       }
     },
@@ -175,7 +175,7 @@
         "reposts": 3,
         "quotes": 1,
         "likes": 12,
-        "views": 877,
+        "views": 1047,
         "bookmarks": 0
       }
     },
@@ -208,7 +208,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 8,
-        "views": 708,
+        "views": 743,
         "bookmarks": 0
       }
     },
@@ -241,7 +241,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 7,
-        "views": 818,
+        "views": 853,
         "bookmarks": 0
       }
     },
@@ -274,7 +274,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 7,
-        "views": 687,
+        "views": 718,
         "bookmarks": 0
       }
     },
@@ -307,7 +307,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 7,
-        "views": 501,
+        "views": 558,
         "bookmarks": 0
       }
     },
@@ -340,7 +340,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 7,
-        "views": 417,
+        "views": 426,
         "bookmarks": 0
       }
     },
@@ -373,7 +373,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 6,
-        "views": 928,
+        "views": 1059,
         "bookmarks": 0
       }
     },
@@ -417,7 +417,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 6,
-        "views": 858,
+        "views": 907,
         "bookmarks": 0
       }
     },
@@ -450,7 +450,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 6,
-        "views": 95,
+        "views": 96,
         "bookmarks": 0
       }
     },
@@ -483,7 +483,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 5,
-        "views": 407,
+        "views": 489,
         "bookmarks": 0
       }
     },
@@ -516,7 +516,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 5,
-        "views": 609,
+        "views": 663,
         "bookmarks": 0
       }
     },
@@ -549,139 +549,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 5,
-        "views": 800,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112556815338860957",
-      "statusId": "2112556815338860957",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Roger Dottin",
-      "handle": "RogerDottin",
-      "avatar": "https://pbs.twimg.com/profile_images/1792639876115877888/DFSmPAjN_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@SawyerMerritt Which raises the question; Where DOES all of that wealth end up, if not in the hands of the creators?\nAnswer: It gets stolen.",
-      "links": [],
-      "date": "2026-10-20T14:49:28Z",
-      "url": "https://x.com/RogerDottin/status/2112556815338860957",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "SawyerMerritt",
-        "handle": "SawyerMerritt",
-        "avatar": "",
-        "id": "2112551927649018058"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 4,
-        "views": 717,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112575156623143364",
-      "statusId": "2112575156623143364",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Panke",
-      "handle": "spcxGOD",
-      "avatar": "https://pbs.twimg.com/profile_images/2096657055306416128/5fAtJb5j_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@SawyerMerritt Same here. My so-called wealth is also just a percentage ownership in SpaceX. Slightly smaller percentage",
-      "links": [],
-      "date": "2026-10-20T16:02:21Z",
-      "url": "https://x.com/spcxGOD/status/2112575156623143364",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "SawyerMerritt",
-        "handle": "SawyerMerritt",
-        "avatar": "",
-        "id": "2112551927649018058"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 3,
-        "views": 266,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112552108532891667",
-      "statusId": "2112552108532891667",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Principal⭐️",
-      "handle": "OkadikeOnyeisi",
-      "avatar": "https://pbs.twimg.com/profile_images/2004871481134624768/8bp1QLGn_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@SawyerMerritt Musk’s point is that wealth built through innovation and ownership is different from cash sitting in a bank. His legacy may ultimately be measured less by the fortune he leaves behind and more by the technologies and industries he transforms.",
-      "links": [],
-      "date": "2026-10-20T14:30:46Z",
-      "url": "https://x.com/OkadikeOnyeisi/status/2112552108532891667",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "SawyerMerritt",
-        "handle": "SawyerMerritt",
-        "avatar": "",
-        "id": "2112551927649018058"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 3,
-        "views": 218,
-        "bookmarks": 1
-      }
-    },
-    {
-      "id": "2112562457168498918",
-      "statusId": "2112562457168498918",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Jeff",
-      "handle": "JeffReineke",
-      "avatar": "https://pbs.twimg.com/profile_images/2084317789687271424/znFLD1eZ_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@SawyerMerritt @Chansoo 100 percent this becomes truth.",
-      "links": [],
-      "date": "2026-10-20T15:11:53Z",
-      "url": "https://x.com/JeffReineke/status/2112562457168498918",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "SawyerMerritt",
-        "handle": "SawyerMerritt",
-        "avatar": "",
-        "id": "2112551927649018058"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 3,
-        "views": 104,
+        "views": 936,
         "bookmarks": 0
       }
     },
@@ -722,9 +590,141 @@
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
+        "likes": 4,
+        "views": 249,
+        "bookmarks": 3
+      }
+    },
+    {
+      "id": "2112556815338860957",
+      "statusId": "2112556815338860957",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Roger Dottin",
+      "handle": "RogerDottin",
+      "avatar": "https://pbs.twimg.com/profile_images/1792639876115877888/DFSmPAjN_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@SawyerMerritt Which raises the question; Where DOES all of that wealth end up, if not in the hands of the creators?\nAnswer: It gets stolen.",
+      "links": [],
+      "date": "2026-10-20T14:49:28Z",
+      "url": "https://x.com/RogerDottin/status/2112556815338860957",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "SawyerMerritt",
+        "handle": "SawyerMerritt",
+        "avatar": "",
+        "id": "2112551927649018058"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 4,
+        "views": 736,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112575156623143364",
+      "statusId": "2112575156623143364",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Panke",
+      "handle": "spcxGOD",
+      "avatar": "https://pbs.twimg.com/profile_images/2096657055306416128/5fAtJb5j_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@SawyerMerritt Same here. My so-called wealth is also just a percentage ownership in SpaceX. Slightly smaller percentage",
+      "links": [],
+      "date": "2026-10-20T16:02:21Z",
+      "url": "https://x.com/spcxGOD/status/2112575156623143364",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "SawyerMerritt",
+        "handle": "SawyerMerritt",
+        "avatar": "",
+        "id": "2112551927649018058"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
         "likes": 3,
-        "views": 208,
-        "bookmarks": 2
+        "views": 272,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112552108532891667",
+      "statusId": "2112552108532891667",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Principal⭐️",
+      "handle": "OkadikeOnyeisi",
+      "avatar": "https://pbs.twimg.com/profile_images/2004871481134624768/8bp1QLGn_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@SawyerMerritt Musk’s point is that wealth built through innovation and ownership is different from cash sitting in a bank. His legacy may ultimately be measured less by the fortune he leaves behind and more by the technologies and industries he transforms.",
+      "links": [],
+      "date": "2026-10-20T14:30:46Z",
+      "url": "https://x.com/OkadikeOnyeisi/status/2112552108532891667",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "SawyerMerritt",
+        "handle": "SawyerMerritt",
+        "avatar": "",
+        "id": "2112551927649018058"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 3,
+        "views": 219,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2112562457168498918",
+      "statusId": "2112562457168498918",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Jeff",
+      "handle": "JeffReineke",
+      "avatar": "https://pbs.twimg.com/profile_images/2084317789687271424/znFLD1eZ_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@SawyerMerritt @Chansoo 100 percent this becomes truth.",
+      "links": [],
+      "date": "2026-10-20T15:11:53Z",
+      "url": "https://x.com/JeffReineke/status/2112562457168498918",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "SawyerMerritt",
+        "handle": "SawyerMerritt",
+        "avatar": "",
+        "id": "2112551927649018058"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 3,
+        "views": 107,
+        "bookmarks": 0
       }
     },
     {
@@ -756,7 +756,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 20,
+        "views": 22,
         "bookmarks": 0
       }
     },
@@ -789,7 +789,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 228,
+        "views": 245,
         "bookmarks": 0
       }
     },
@@ -822,7 +822,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 34,
+        "views": 38,
         "bookmarks": 0
       }
     },
@@ -855,7 +855,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 3,
-        "views": 17,
+        "views": 19,
         "bookmarks": 1
       }
     },
@@ -888,7 +888,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 20,
+        "views": 23,
         "bookmarks": 0
       }
     },
@@ -921,7 +921,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 64,
+        "views": 66,
         "bookmarks": 0
       }
     },
@@ -954,7 +954,40 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 164,
+        "views": 165,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112596625499783382",
+      "statusId": "2112596625499783382",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Temporary Form²",
+      "handle": "plAsterofbrAIn",
+      "avatar": "https://pbs.twimg.com/profile_images/2112036262660198400/139qMhy6_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@SawyerMerritt True disruptors don't mostly needed that kind of wealth, they only care about their creations.",
+      "links": [],
+      "date": "2026-10-20T17:27:40Z",
+      "url": "https://x.com/plAsterofbrAIn/status/2112596625499783382",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "SawyerMerritt",
+        "handle": "SawyerMerritt",
+        "avatar": "",
+        "id": "2112551927649018058"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 2,
+        "views": 119,
         "bookmarks": 0
       }
     },
@@ -987,7 +1020,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 23,
+        "views": 24,
         "bookmarks": 0
       }
     },
@@ -1020,7 +1053,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 21,
+        "views": 22,
         "bookmarks": 0
       }
     },
@@ -1053,7 +1086,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 18,
+        "views": 20,
         "bookmarks": 0
       }
     },
@@ -1086,7 +1119,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 17,
+        "views": 18,
         "bookmarks": 0
       }
     },
@@ -1119,7 +1152,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 29,
+        "views": 30,
         "bookmarks": 0
       }
     },
@@ -1152,40 +1185,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 62,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112598489888874756",
-      "statusId": "2112598489888874756",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Pierre Rousseau",
-      "handle": "truthb4face",
-      "avatar": "https://pbs.twimg.com/profile_images/1823409198295638016/wOmgFeqR_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@SawyerMerritt The denial of man from the beginning of language is literally the only cause of the idiocy of not understanding the constructive nature of wealth.\nIt is exactly the same tier of dumb error as demonizing one's descendant child as an (often \"toxic masculinity\") obstacle.",
-      "links": [],
-      "date": "2026-10-20T17:35:04Z",
-      "url": "https://x.com/truthb4face/status/2112598489888874756",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "SawyerMerritt",
-        "handle": "SawyerMerritt",
-        "avatar": "",
-        "id": "2112551927649018058"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 2,
-        "views": 143,
+        "views": 67,
         "bookmarks": 0
       }
     }

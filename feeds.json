@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:18:20Z",
+  "updated": "2026-10-20T21:47:48Z",
   "preview": true,
   "feeds": [
     {
@@ -171,7 +171,7 @@
       "handle": "zuck",
       "name": "Mark Zuckerberg",
       "title": "Mark Zuckerberg",
-      "avatar": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGOu00bscL9PA9fVYuHwxMH7UviDRKsaIl0TJNKE3dDDXap-R0YJxgDI5HUOqKgm6E&_nc_ohc=gegyXGDTXZwQ7kNvwF0kSzN&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqCnx-2rKjhxA55dTVSDoSNDGWsFdiqwIYbRhZRO-nuQ&oe=6ADDC16B&_nc_sid=10d13b",
+      "avatar": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH8Bzg6mfipsayY_w3jALbShmWKrOYjBHGWqiKRHD9psyeggkGd2j3LVD_tgNGoaXc&_nc_ohc=gegyXGDTXZwQ7kNvwF2p1uv&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOI23szblz6OXFsANU7vrYEB_Cf3L0bgf3kTN_1iIKD0w&oe=6ADDC16B&_nc_sid=10d13b",
       "url": "https://www.threads.com/@zuck",
       "configured": true,
       "avatarExpires": "2026-10-25T08:44:27Z"
@@ -459,8 +459,8 @@
       "kind": "post",
       "author": "Canadian Prepper",
       "handle": "CanadianPrepper",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nvCzAGaNykofYOjCF-rxjI-w-TWfGt1ROT8uYd2PtzB8A=s512-c-k-c0x00ffffff-no-rj",
-      "verifiedType": "blue",
+      "avatar": "",
+      "verifiedType": null,
       "text": "⚡ALERT! NOT NORMAL The Riots Are Preparation for MARTIAL LAW and WW3.",
       "links": [],
       "date": "2026-10-20T13:34:32+00:00",
@@ -472,9 +472,7 @@
           "poster": "https://i.ytimg.com/vi/xtrFOsncOeo/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "alt": "",
-          "duration": 3132,
-          "stream": "https://invidious.f5.si/latest_version?id=xtrFOsncOeo&itag=18"
+          "alt": ""
         }
       ],
       "images": [],
@@ -482,13 +480,11 @@
       "replyingTo": null,
       "quoted": null,
       "stats": {
-        "likes": 5331,
-        "views": 86500,
-        "replies": 1170
+        "likes": 5387,
+        "views": 88288
       },
       "title": "⚡ALERT! NOT NORMAL The Riots Are Preparation for MARTIAL LAW and WW3.",
-      "description": "This\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/",
-      "short": false
+      "description": "This\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/"
     },
     {
       "id": "uJkG4wKRVHA",
@@ -498,8 +494,8 @@
       "kind": "post",
       "author": "Canadian Prepper",
       "handle": "CanadianPrepper",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nvCzAGaNykofYOjCF-rxjI-w-TWfGt1ROT8uYd2PtzB8A=s512-c-k-c0x00ffffff-no-rj",
-      "verifiedType": "blue",
+      "avatar": "",
+      "verifiedType": null,
       "text": "⚡ALERT! CODE 100 ACTIVATED IN IRAN!",
       "links": [],
       "date": "2026-10-19T23:13:12+00:00",
@@ -511,9 +507,7 @@
           "poster": "https://i.ytimg.com/vi/uJkG4wKRVHA/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "alt": "",
-          "duration": 2578,
-          "stream": "https://invidious.f5.si/latest_version?id=uJkG4wKRVHA&itag=18"
+          "alt": ""
         }
       ],
       "images": [],
@@ -521,13 +515,11 @@
       "replyingTo": null,
       "quoted": null,
       "stats": {
-        "likes": 5623,
-        "views": 130838,
-        "replies": 769
+        "likes": 5630,
+        "views": 131045
       },
       "title": "⚡ALERT! CODE 100 ACTIVATED IN IRAN!",
-      "description": "Iranian insider has informed us that Iran is at maximum readiness and expects sh!t will hit the fan in the next couple weeks. Code 100 indicates the highest level of readiness as Israeli jets fly around Syria. Hegseth has met with Netanyahu and Israel has suspended leave for IDF as of thursday.\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/",
-      "short": false
+      "description": "Iranian insider has informed us that Iran is at maximum readiness and expects sh!t will hit the fan in the next couple weeks. Code 100 indicates the highest level of readiness as Israeli jets fly around Syria. Hegseth has met with Netanyahu and Israel has suspended leave for IDF as of thursday.\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/"
     },
     {
       "id": "LQLa9vTE_nU",
@@ -537,8 +529,8 @@
       "kind": "post",
       "author": "Canadian Prepper",
       "handle": "CanadianPrepper",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nvCzAGaNykofYOjCF-rxjI-w-TWfGt1ROT8uYd2PtzB8A=s512-c-k-c0x00ffffff-no-rj",
-      "verifiedType": "blue",
+      "avatar": "",
+      "verifiedType": null,
       "text": "⚡ALERT! WORLDWIDE WAR Preparations Underway, Russia, Europe, Canada, Hormuz Are on FIRE!",
       "links": [],
       "date": "2026-10-18T22:56:16+00:00",
@@ -550,9 +542,7 @@
           "poster": "https://i.ytimg.com/vi/LQLa9vTE_nU/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "alt": "",
-          "duration": 1966,
-          "stream": "https://invidious.f5.si/latest_version?id=LQLa9vTE_nU&itag=18"
+          "alt": ""
         }
       ],
       "images": [],
@@ -561,12 +551,10 @@
       "quoted": null,
       "stats": {
         "likes": 8476,
-        "views": 189561,
-        "replies": 1288
+        "views": 189584
       },
       "title": "⚡ALERT! WORLDWIDE WAR Preparations Underway, Russia, Europe, Canada, Hormuz Are on FIRE!",
-      "description": "Thr world is on fire from Canada to St. Petersburg, Europe and Hormuz\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/",
-      "short": false
+      "description": "Thr world is on fire from Canada to St. Petersburg, Europe and Hormuz\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/"
     },
     {
       "id": "yiR90jZYeRo",
@@ -576,8 +564,8 @@
       "kind": "post",
       "author": "Canadian Prepper",
       "handle": "CanadianPrepper",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nvCzAGaNykofYOjCF-rxjI-w-TWfGt1ROT8uYd2PtzB8A=s512-c-k-c0x00ffffff-no-rj",
-      "verifiedType": "blue",
+      "avatar": "",
+      "verifiedType": null,
       "text": "Survive Whats Coming With This Device",
       "links": [],
       "date": "2026-10-18T01:30:48+00:00",
@@ -589,9 +577,7 @@
           "poster": "https://i.ytimg.com/vi/yiR90jZYeRo/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "alt": "",
-          "duration": 1618,
-          "stream": "https://invidious.f5.si/latest_version?id=yiR90jZYeRo&itag=18"
+          "alt": ""
         }
       ],
       "images": [],
@@ -600,12 +586,10 @@
       "quoted": null,
       "stats": {
         "likes": 2447,
-        "views": 74153,
-        "replies": 267
+        "views": 74171
       },
       "title": "Survive Whats Coming With This Device",
-      "description": "I have no affiliation with this company but the product is a portable hand powered desalinator thats very cost effective for what it does. I was actually quite impressed once I got it working. Its called the quenchsea 3.0 and can be found on their website.\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/",
-      "short": false
+      "description": "I have no affiliation with this company but the product is a portable hand powered desalinator thats very cost effective for what it does. I was actually quite impressed once I got it working. Its called the quenchsea 3.0 and can be found on their website.\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/"
     },
     {
       "id": "NojEUlNM-BY",
@@ -615,8 +599,8 @@
       "kind": "post",
       "author": "Canadian Prepper",
       "handle": "CanadianPrepper",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nvCzAGaNykofYOjCF-rxjI-w-TWfGt1ROT8uYd2PtzB8A=s512-c-k-c0x00ffffff-no-rj",
-      "verifiedType": "blue",
+      "avatar": "",
+      "verifiedType": null,
       "text": "⚡ALERT! Trumps MOAB/ NUCLEAR Priming, Israel Preps BUNKERS, UKMTOs Shocking Admission!",
       "links": [],
       "date": "2026-10-17T02:01:18+00:00",
@@ -628,9 +612,7 @@
           "poster": "https://i.ytimg.com/vi/NojEUlNM-BY/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "alt": "",
-          "duration": 1634,
-          "stream": "https://invidious.f5.si/latest_version?id=NojEUlNM-BY&itag=18"
+          "alt": ""
         }
       ],
       "images": [],
@@ -639,11 +621,10 @@
       "quoted": null,
       "stats": {
         "likes": 8020,
-        "views": 182650
+        "views": 182659
       },
       "title": "⚡ALERT! Trumps MOAB/ NUCLEAR Priming, Israel Preps BUNKERS, UKMTOs Shocking Admission!",
-      "description": "Trump is gonna nuke Iran and say it was a MOAB?\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/",
-      "short": false
+      "description": "Trump is gonna nuke Iran and say it was a MOAB?\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/"
     },
     {
       "id": "Pw7TyA0dHLI",
@@ -653,8 +634,8 @@
       "kind": "post",
       "author": "Canadian Prepper",
       "handle": "CanadianPrepper",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nvCzAGaNykofYOjCF-rxjI-w-TWfGt1ROT8uYd2PtzB8A=s512-c-k-c0x00ffffff-no-rj",
-      "verifiedType": "blue",
+      "avatar": "",
+      "verifiedType": null,
       "text": "NEW! Countertop Freeze Dryer: GAME CHANGER for 25-Year Food Storage! Harvest Right",
       "links": [],
       "date": "2026-10-16T00:04:22+00:00",
@@ -666,9 +647,7 @@
           "poster": "https://i.ytimg.com/vi/Pw7TyA0dHLI/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "alt": "",
-          "duration": 1707,
-          "stream": "https://invidious.f5.si/latest_version?id=Pw7TyA0dHLI&itag=18"
+          "alt": ""
         }
       ],
       "images": [],
@@ -677,11 +656,10 @@
       "quoted": null,
       "stats": {
         "likes": 2702,
-        "views": 94937
+        "views": 94951
       },
       "title": "NEW! Countertop Freeze Dryer: GAME CHANGER for 25-Year Food Storage! Harvest Right",
-      "description": "Honestly this is the most impressed I've been with a new product in a while, this is definitely a new era of food preservation\n\nGet one of these units here\nhttps://affiliates.harvestright.com/296.html\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/",
-      "short": false
+      "description": "Honestly this is the most impressed I've been with a new product in a while, this is definitely a new era of food preservation\n\nGet one of these units here\nhttps://affiliates.harvestright.com/296.html\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/"
     },
     {
       "id": "2110778025629347999",
@@ -730,8 +708,8 @@
       "kind": "post",
       "author": "Canadian Prepper",
       "handle": "CanadianPrepper",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nvCzAGaNykofYOjCF-rxjI-w-TWfGt1ROT8uYd2PtzB8A=s512-c-k-c0x00ffffff-no-rj",
-      "verifiedType": "blue",
+      "avatar": "",
+      "verifiedType": null,
       "text": "⚡ALERT! Iran EVACUATING Military Bases, MASSIVE US AIRLIFT Underway, UKRAINE in TOTAL BLACKOUT",
       "links": [],
       "date": "2026-10-15T04:25:34+00:00",
@@ -743,9 +721,7 @@
           "poster": "https://i.ytimg.com/vi/UlK0Utb-XWc/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "alt": "",
-          "duration": 2373,
-          "stream": "https://invidious.f5.si/latest_version?id=UlK0Utb-XWc&itag=18"
+          "alt": ""
         }
       ],
       "images": [],
@@ -757,8 +733,7 @@
         "views": 196363
       },
       "title": "⚡ALERT! Iran EVACUATING Military Bases, MASSIVE US AIRLIFT Underway, UKRAINE in TOTAL BLACKOUT",
-      "description": "Iran military bases being evacuated\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/",
-      "short": false
+      "description": "Iran military bases being evacuated\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/"
     },
     {
       "id": "z2YuX0AIkdc",
@@ -768,8 +743,8 @@
       "kind": "post",
       "author": "Canadian Prepper",
       "handle": "CanadianPrepper",
-      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nvCzAGaNykofYOjCF-rxjI-w-TWfGt1ROT8uYd2PtzB8A=s512-c-k-c0x00ffffff-no-rj",
-      "verifiedType": "blue",
+      "avatar": "",
+      "verifiedType": null,
       "text": "⚡ALERT! Trump ANNOUNCES IRAN WAR 2.0 IMMINENT, NO CEASEFIRE! ARAMCO IN FLAMES! NATO WW3 PLAN REVEAL!",
       "links": [],
       "date": "2026-10-14T05:53:58+00:00",
@@ -781,9 +756,7 @@
           "poster": "https://i.ytimg.com/vi/z2YuX0AIkdc/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "alt": "",
-          "duration": 4173,
-          "stream": "https://invidious.f5.si/latest_version?id=z2YuX0AIkdc&itag=18"
+          "alt": ""
         }
       ],
       "images": [],
@@ -792,11 +765,10 @@
       "quoted": null,
       "stats": {
         "likes": 8352,
-        "views": 207219
+        "views": 207226
       },
       "title": "⚡ALERT! Trump ANNOUNCES IRAN WAR 2.0 IMMINENT, NO CEASEFIRE! ARAMCO IN FLAMES! NATO WW3 PLAN REVEAL!",
-      "description": "The ceasefire was a COMPLETE lie, everything is on fire in Russia and Ukraine, power plants, oil refineries, data centers, Kyiv is in a blackout, multiple vessels hit in Black sea and Hormuz. Trump just admitted Iran war 2.0 is about to start, massive fuel shortages in Asia. Buckle up folks\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/",
-      "short": false
+      "description": "The ceasefire was a COMPLETE lie, everything is on fire in Russia and Ukraine, power plants, oil refineries, data centers, Kyiv is in a blackout, multiple vessels hit in Black sea and Hormuz. Trump just admitted Iran war 2.0 is about to start, massive fuel shortages in Asia. Buckle up folks\n\nGET EMERGENCY PRESCRIPTION MEDS AND ANTIBIOTICS (affiliate link)\nhttps://jasemedical.com/canadianprepper\n\nUse discount code\nUse coupon code canadianprepper for 10% off\n\nGET Gasmasks and PPE\nhttps://alnk.to/2FGAZat\n\nIN USA: THE BEST SURVIVAL FOOD (EXCLUSIVE 20% DISCOUNT VALID THROUGH AUGUST use coupon code 'CanadianPrepper' (affiliate link)\nhttps://tinyurl.com/nhhtddh6\n\nIN CANADA: GET MOUNTAIN HOUSE FOOD for 10% OFF USE DISCOUNT CODE Code: CANADIANPREP10 here https://72hours.ca/collections/freeze-dried-food?sca_ref=11929078.o4H3sEP2rfoDx\n\nGet 70% off whatever is left at the store using discount code DADMODE70\nwww.canadianpreparedness.com\n\nGET WORLDS BEST (canada made!) NUCLEAR RADIATION DETECTOR HERE\nUSE CODE NUKE10 for 10% off\nhttps://gammawatch.com/ct008-f-promo/"
     },
     {
       "id": "2110116688507355620",
@@ -872,7 +844,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGOu00bscL9PA9fVYuHwxMH7UviDRKsaIl0TJNKE3dDDXap-R0YJxgDI5HUOqKgm6E&_nc_ohc=gegyXGDTXZwQ7kNvwF0kSzN&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqCnx-2rKjhxA55dTVSDoSNDGWsFdiqwIYbRhZRO-nuQ&oe=6ADDC16B&_nc_sid=10d13b",
+      "avatar": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH8Bzg6mfipsayY_w3jALbShmWKrOYjBHGWqiKRHD9psyeggkGd2j3LVD_tgNGoaXc&_nc_ohc=gegyXGDTXZwQ7kNvwF2p1uv&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOI23szblz6OXFsANU7vrYEB_Cf3L0bgf3kTN_1iIKD0w&oe=6ADDC16B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "It's been just over a year since we started Meta Superintelligence Labs. Muse Spark was our first family of models, and now Muse Wonder is a much larger and more advanced class of models that brings us to the frontier.\nWe're releasing two models today. Muse Wonder for fast frontier performance and Muse Wonder Full for the full version of the model.",
       "links": [],
@@ -881,8 +853,8 @@
       "media": [
         {
           "type": "video",
-          "url": "https://scontent-sjc3-1.cdninstagram.com/o1/v/t16/f2/m84/AQNdJDHTIzzEwEm2PIjsadzjW1lwnHlvhFof0tf0jvzczIF8OYWYVm8Resjw7ztm_wUKjM1RRs5UCeXGQVVfsVYMFHfSYiO6pe7hf-o.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=iohxM3JycycQ7kNvwExv9fN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5OTE3MDU3OTgxMDMyMjQsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6NjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3de3d6a2708c059f&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC83M0U0RTdERjE3QUI0RDJCQjQ2NkQ5OTFEN0Q3MDk5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZBRDZBMjMyQTZEMTQ3QzU4QzFGNEY2OTNBQTVFMTYxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwwv6Pjtf1PxUCKAJDMywXQFDx--dsi0QYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&_nc_ss=7a20f&_nc_zt=28&oh=00_AQO5YyvqLvL67i5x1Df98TupSUFnJ7eCNIoM_Yj3ltWTGg&oe=6AD9B115",
-          "poster": "https://scontent-sjc3-1.cdninstagram.com/v/t51.71878-15/843458448_2045298256099953_8644614754157170636_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=NDAwNjQzNDI2MTAyMDMwNzc1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=TXqzgWEKNY0Q7kNvwEOt9mU&_nc_oc=Adrgxjjj_60tdgHNwWZM0FzCDGVk_mPcQ8m_f1yJOzHf9y3GCSn84j59zXaTY4E1I9U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&_nc_ss=7a20f&oh=00_AQMFsstWJqY2PSWX27YdCIOPNTMXuBGgQtnblX4QDN1dNQ&oe=6ADDB05B",
+          "url": "https://scontent-sea5-1.cdninstagram.com/o1/v/t16/f2/m84/AQNdJDHTIzzEwEm2PIjsadzjW1lwnHlvhFof0tf0jvzczIF8OYWYVm8Resjw7ztm_wUKjM1RRs5UCeXGQVVfsVYMFHfSYiO6pe7hf-o.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=iohxM3JycycQ7kNvwHBMUqo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5OTE3MDU3OTgxMDMyMjQsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6NjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3de3d6a2708c059f&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC83M0U0RTdERjE3QUI0RDJCQjQ2NkQ5OTFEN0Q3MDk5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZBRDZBMjMyQTZEMTQ3QzU4QzFGNEY2OTNBQTVFMTYxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwwv6Pjtf1PxUCKAJDMywXQFDx--dsi0QYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&_nc_ss=7a20f&_nc_zt=28&oh=00_AQME7IGfLjPu3bK5Rv_KUVGUbzmIflAxwpzW2C_TETYipw&oe=6AD9B115",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/843458448_2045298256099953_8644614754157170636_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=NDAwNjQzNDI2MTAyMDMwNzc1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=TXqzgWEKNY0Q7kNvwGi8MFe&_nc_oc=AdpJ0W0FQVwcBDH2iUftyYqvGMUgcEdBjYECsem19PNWnnIxGHqpIMo1K3MeBzbYnhY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&_nc_ss=7a20f&oh=00_AQNDB-gEx0nRIdSjVgG0iSoZkqas3we9z4JDRCv-F4EnXg&oe=6ADDB05B",
           "width": null,
           "height": null,
           "alt": "",
@@ -904,7 +876,7 @@
       "kind": "post",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGOu00bscL9PA9fVYuHwxMH7UviDRKsaIl0TJNKE3dDDXap-R0YJxgDI5HUOqKgm6E&_nc_ohc=gegyXGDTXZwQ7kNvwF0kSzN&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqCnx-2rKjhxA55dTVSDoSNDGWsFdiqwIYbRhZRO-nuQ&oe=6ADDC16B&_nc_sid=10d13b",
+      "avatar": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH8Bzg6mfipsayY_w3jALbShmWKrOYjBHGWqiKRHD9psyeggkGd2j3LVD_tgNGoaXc&_nc_ohc=gegyXGDTXZwQ7kNvwF2p1uv&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOI23szblz6OXFsANU7vrYEB_Cf3L0bgf3kTN_1iIKD0w&oe=6ADDC16B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "Introducing Muse Wonder, our new family of frontier models with state of the art performance for personal and professional agentic work.",
       "links": [],
@@ -913,8 +885,8 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/844965867_17991705567103224_8296143909108287920_n.webp?_nc_cat=109&ig_cache_key=NDAwNjQzNDE0MDAxNDU3NjA5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OcRC0F9Oss0Q7kNvwFOLhNQ&_nc_oc=AdoHKlG-vF46GCh4u5JHmxMLtJzMPQzpOlpSrD-46qqjytTjhIHAULZFvdjoRy1sfMo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&_nc_ss=7a20f&oh=00_AQPmxOgHcN7z6l3dNEIXeMJZXjHCxqZYh3KXk0LVTdKmSw&oe=6ADDC930",
-          "poster": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/844965867_17991705567103224_8296143909108287920_n.webp?_nc_cat=109&ig_cache_key=NDAwNjQzNDE0MDAxNDU3NjA5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OcRC0F9Oss0Q7kNvwFOLhNQ&_nc_oc=AdoHKlG-vF46GCh4u5JHmxMLtJzMPQzpOlpSrD-46qqjytTjhIHAULZFvdjoRy1sfMo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&_nc_ss=7a20f&oh=00_AQPmxOgHcN7z6l3dNEIXeMJZXjHCxqZYh3KXk0LVTdKmSw&oe=6ADDC930",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844965867_17991705567103224_8296143909108287920_n.webp?_nc_cat=109&ig_cache_key=NDAwNjQzNDE0MDAxNDU3NjA5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OcRC0F9Oss0Q7kNvwF9QzEg&_nc_oc=AdokBTQJACITK6tRPOSX0W72MCHHTalsDtBuC3mI1ZZa11ygZKlJgyqs3XzudzZ_RsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&_nc_ss=7a20f&oh=00_AQMQIFg7bB_rJFnDBesvdIpNQ_1xr3M7CRagClm9fn1gTg&oe=6ADDC930",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844965867_17991705567103224_8296143909108287920_n.webp?_nc_cat=109&ig_cache_key=NDAwNjQzNDE0MDAxNDU3NjA5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OcRC0F9Oss0Q7kNvwF9QzEg&_nc_oc=AdokBTQJACITK6tRPOSX0W72MCHHTalsDtBuC3mI1ZZa11ygZKlJgyqs3XzudzZ_RsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&_nc_ss=7a20f&oh=00_AQMQIFg7bB_rJFnDBesvdIpNQ_1xr3M7CRagClm9fn1gTg&oe=6ADDC930",
           "width": null,
           "height": null,
           "alt": "",
@@ -922,7 +894,7 @@
         }
       ],
       "images": [
-        "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/844965867_17991705567103224_8296143909108287920_n.webp?_nc_cat=109&ig_cache_key=NDAwNjQzNDE0MDAxNDU3NjA5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OcRC0F9Oss0Q7kNvwFOLhNQ&_nc_oc=AdoHKlG-vF46GCh4u5JHmxMLtJzMPQzpOlpSrD-46qqjytTjhIHAULZFvdjoRy1sfMo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&_nc_ss=7a20f&oh=00_AQPmxOgHcN7z6l3dNEIXeMJZXjHCxqZYh3KXk0LVTdKmSw&oe=6ADDC930"
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844965867_17991705567103224_8296143909108287920_n.webp?_nc_cat=109&ig_cache_key=NDAwNjQzNDE0MDAxNDU3NjA5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OcRC0F9Oss0Q7kNvwF9QzEg&_nc_oc=AdokBTQJACITK6tRPOSX0W72MCHHTalsDtBuC3mI1ZZa11ygZKlJgyqs3XzudzZ_RsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&_nc_ss=7a20f&oh=00_AQMQIFg7bB_rJFnDBesvdIpNQ_1xr3M7CRagClm9fn1gTg&oe=6ADDC930"
       ],
       "repostedBy": null,
       "replyingTo": null,
@@ -937,7 +909,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGOu00bscL9PA9fVYuHwxMH7UviDRKsaIl0TJNKE3dDDXap-R0YJxgDI5HUOqKgm6E&_nc_ohc=gegyXGDTXZwQ7kNvwF0kSzN&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqCnx-2rKjhxA55dTVSDoSNDGWsFdiqwIYbRhZRO-nuQ&oe=6ADDC16B&_nc_sid=10d13b",
+      "avatar": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH8Bzg6mfipsayY_w3jALbShmWKrOYjBHGWqiKRHD9psyeggkGd2j3LVD_tgNGoaXc&_nc_ohc=gegyXGDTXZwQ7kNvwF2p1uv&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOI23szblz6OXFsANU7vrYEB_Cf3L0bgf3kTN_1iIKD0w&oe=6ADDC16B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "You can use Muse Wonder to power your Muse by subscribing today. We'll work to bring this level of intelligence to everyone over time.",
       "links": [],
@@ -958,7 +930,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGOu00bscL9PA9fVYuHwxMH7UviDRKsaIl0TJNKE3dDDXap-R0YJxgDI5HUOqKgm6E&_nc_ohc=gegyXGDTXZwQ7kNvwF0kSzN&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqCnx-2rKjhxA55dTVSDoSNDGWsFdiqwIYbRhZRO-nuQ&oe=6ADDC16B&_nc_sid=10d13b",
+      "avatar": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH8Bzg6mfipsayY_w3jALbShmWKrOYjBHGWqiKRHD9psyeggkGd2j3LVD_tgNGoaXc&_nc_ohc=gegyXGDTXZwQ7kNvwF2p1uv&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOI23szblz6OXFsANU7vrYEB_Cf3L0bgf3kTN_1iIKD0w&oe=6ADDC16B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "Muse Wonder is also available through Muse Code, the Meta Model API, and rolling into other products soon. More in the blog: https://research.meta.ai/blog/muse-wonder",
       "links": [],
@@ -1115,7 +1087,7 @@
       "kind": "post",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGOu00bscL9PA9fVYuHwxMH7UviDRKsaIl0TJNKE3dDDXap-R0YJxgDI5HUOqKgm6E&_nc_ohc=gegyXGDTXZwQ7kNvwF0kSzN&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqCnx-2rKjhxA55dTVSDoSNDGWsFdiqwIYbRhZRO-nuQ&oe=6ADDC16B&_nc_sid=10d13b",
+      "avatar": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH8Bzg6mfipsayY_w3jALbShmWKrOYjBHGWqiKRHD9psyeggkGd2j3LVD_tgNGoaXc&_nc_ohc=gegyXGDTXZwQ7kNvwF2p1uv&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOI23szblz6OXFsANU7vrYEB_Cf3L0bgf3kTN_1iIKD0w&oe=6ADDC16B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "Muse ordered me 🍉 how thoughtful!",
       "links": [],
@@ -1124,8 +1096,8 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CmgthCChTzwQ7kNvwGGlIIA&_nc_oc=AdoE6fi4mNdcO9dBoR_5r73NVJHqpVXEscwalI84pgbmGbifiaMoHm4z3cbZn8KNed8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&_nc_ss=7a20f&oh=00_AQNfD6UR35RmOe4b-dRQlOOYvx3p5XeRsRWHggHM4bsvaQ&oe=6ADDC828",
-          "poster": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CmgthCChTzwQ7kNvwGGlIIA&_nc_oc=AdoE6fi4mNdcO9dBoR_5r73NVJHqpVXEscwalI84pgbmGbifiaMoHm4z3cbZn8KNed8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&_nc_ss=7a20f&oh=00_AQNfD6UR35RmOe4b-dRQlOOYvx3p5XeRsRWHggHM4bsvaQ&oe=6ADDC828",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CmgthCChTzwQ7kNvwGDLXAK&_nc_oc=Adrod9AZhImjVYysBskIaypcWh4V2rmyMn-L7KrJOxjZbrC0ILF09uNHwRcEiMTvnhA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&_nc_ss=7a20f&oh=00_AQPQXdc3xZRy1C3KK1c1x1yIINRU4Wc5YXzizXrYcZksIA&oe=6ADDC828",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CmgthCChTzwQ7kNvwGDLXAK&_nc_oc=Adrod9AZhImjVYysBskIaypcWh4V2rmyMn-L7KrJOxjZbrC0ILF09uNHwRcEiMTvnhA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&_nc_ss=7a20f&oh=00_AQPQXdc3xZRy1C3KK1c1x1yIINRU4Wc5YXzizXrYcZksIA&oe=6ADDC828",
           "width": null,
           "height": null,
           "alt": "",
@@ -1133,7 +1105,7 @@
         }
       ],
       "images": [
-        "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CmgthCChTzwQ7kNvwGGlIIA&_nc_oc=AdoE6fi4mNdcO9dBoR_5r73NVJHqpVXEscwalI84pgbmGbifiaMoHm4z3cbZn8KNed8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&_nc_ss=7a20f&oh=00_AQNfD6UR35RmOe4b-dRQlOOYvx3p5XeRsRWHggHM4bsvaQ&oe=6ADDC828"
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CmgthCChTzwQ7kNvwGDLXAK&_nc_oc=Adrod9AZhImjVYysBskIaypcWh4V2rmyMn-L7KrJOxjZbrC0ILF09uNHwRcEiMTvnhA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&_nc_ss=7a20f&oh=00_AQPQXdc3xZRy1C3KK1c1x1yIINRU4Wc5YXzizXrYcZksIA&oe=6ADDC828"
       ],
       "repostedBy": null,
       "replyingTo": null,
@@ -1246,18 +1218,18 @@
       "text": "A decade of smoking meats",
       "links": [
         {
-          "expanded": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwExgQMR&_nc_oc=Adruipt66CAlXdAVGa1unYi_uPdO8UxyGYjrYSQKGbFgTMTyx2sO8ArZMuQBcO-02Uk&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQOVvFKBgUP6ATeWBzL8KGOwXfDGmNZNgisyJliFUfzTKQ&oe=6ADD9A0D",
-          "display": "scontent-sjc3-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwGx1urX&_nc_oc=AdpZfnKnbOFKkzUSC8NvzfO0HkFCYqekQuwVzm-cCVCs0q0ixOiMzWegIw6wU5O3VTk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMS8js6a0-tB4ymgGz8uFY-Us231EuQwKos1yz5Y61xvQ&oe=6ADD9A0D",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         },
         {
-          "expanded": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwHoWEz9&_nc_oc=AdpR3I14yvhqDRfJK7kcGqCkFiAMbvjx1S7a0KdSHFc6Cxp8juD5KBN1aIJwmKn4trM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQMgwGqAHzr52JvosuXyiHtG7mTGOGdk6x7oc7P7_2Stpw&oe=6ADDB91F",
-          "display": "scontent-sjc6-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwEeQnXt&_nc_oc=AdpxbjQPaw6nNakeW9ViZ-9LKycF_pbq8uPb32IyKGkChx1IpVDzMJ0L-H5EpB0ZrYE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQPVRQ68hJBtdzsKHQIPk4LXeR9VR3h5CMwLvOdI9pNZ5w&oe=6ADDB91F",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         },
         {
-          "expanded": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwHGB41b&_nc_oc=AdqAT1hsJ_PXiKiVHP9k0LJnGZy4Gd0068TbyWoS5EckCwUdqKOXc9axGNG5R2ypJEo&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQPs-u79HXggc2AWwDf5YHzrgi0LuS-POepAYdKiHurwkw&oe=6ADD9846",
-          "display": "scontent-sjc3-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwFQ_Zok&_nc_oc=Adr5TMB8nEWpo3Jz-smOatpEy0uQZcEt7Zb0fbYHtXnWtOL96tKawVx9zkUqaIjDJuY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQOGstf6YHEqeoawpB0V9q5pn5We7nn9mxAeNjYeev4Eyw&oe=6ADD9846",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         }
       ],
@@ -1274,8 +1246,8 @@
         },
         {
           "type": "photo",
-          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwExgQMR&_nc_oc=Adruipt66CAlXdAVGa1unYi_uPdO8UxyGYjrYSQKGbFgTMTyx2sO8ArZMuQBcO-02Uk&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQOVvFKBgUP6ATeWBzL8KGOwXfDGmNZNgisyJliFUfzTKQ&oe=6ADD9A0D",
-          "poster": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwExgQMR&_nc_oc=Adruipt66CAlXdAVGa1unYi_uPdO8UxyGYjrYSQKGbFgTMTyx2sO8ArZMuQBcO-02Uk&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQOVvFKBgUP6ATeWBzL8KGOwXfDGmNZNgisyJliFUfzTKQ&oe=6ADD9A0D",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwGx1urX&_nc_oc=AdpZfnKnbOFKkzUSC8NvzfO0HkFCYqekQuwVzm-cCVCs0q0ixOiMzWegIw6wU5O3VTk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMS8js6a0-tB4ymgGz8uFY-Us231EuQwKos1yz5Y61xvQ&oe=6ADD9A0D",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwGx1urX&_nc_oc=AdpZfnKnbOFKkzUSC8NvzfO0HkFCYqekQuwVzm-cCVCs0q0ixOiMzWegIw6wU5O3VTk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMS8js6a0-tB4ymgGz8uFY-Us231EuQwKos1yz5Y61xvQ&oe=6ADD9A0D",
           "width": null,
           "height": null,
           "alt": "A decade of smoking meats",
@@ -1283,8 +1255,8 @@
         },
         {
           "type": "photo",
-          "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwHoWEz9&_nc_oc=AdpR3I14yvhqDRfJK7kcGqCkFiAMbvjx1S7a0KdSHFc6Cxp8juD5KBN1aIJwmKn4trM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQMgwGqAHzr52JvosuXyiHtG7mTGOGdk6x7oc7P7_2Stpw&oe=6ADDB91F",
-          "poster": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwHoWEz9&_nc_oc=AdpR3I14yvhqDRfJK7kcGqCkFiAMbvjx1S7a0KdSHFc6Cxp8juD5KBN1aIJwmKn4trM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQMgwGqAHzr52JvosuXyiHtG7mTGOGdk6x7oc7P7_2Stpw&oe=6ADDB91F",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwEeQnXt&_nc_oc=AdpxbjQPaw6nNakeW9ViZ-9LKycF_pbq8uPb32IyKGkChx1IpVDzMJ0L-H5EpB0ZrYE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQPVRQ68hJBtdzsKHQIPk4LXeR9VR3h5CMwLvOdI9pNZ5w&oe=6ADDB91F",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwEeQnXt&_nc_oc=AdpxbjQPaw6nNakeW9ViZ-9LKycF_pbq8uPb32IyKGkChx1IpVDzMJ0L-H5EpB0ZrYE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQPVRQ68hJBtdzsKHQIPk4LXeR9VR3h5CMwLvOdI9pNZ5w&oe=6ADDB91F",
           "width": null,
           "height": null,
           "alt": "A decade of smoking meats",
@@ -1292,8 +1264,8 @@
         },
         {
           "type": "photo",
-          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwHGB41b&_nc_oc=AdqAT1hsJ_PXiKiVHP9k0LJnGZy4Gd0068TbyWoS5EckCwUdqKOXc9axGNG5R2ypJEo&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQPs-u79HXggc2AWwDf5YHzrgi0LuS-POepAYdKiHurwkw&oe=6ADD9846",
-          "poster": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwHGB41b&_nc_oc=AdqAT1hsJ_PXiKiVHP9k0LJnGZy4Gd0068TbyWoS5EckCwUdqKOXc9axGNG5R2ypJEo&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQPs-u79HXggc2AWwDf5YHzrgi0LuS-POepAYdKiHurwkw&oe=6ADD9846",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwFQ_Zok&_nc_oc=Adr5TMB8nEWpo3Jz-smOatpEy0uQZcEt7Zb0fbYHtXnWtOL96tKawVx9zkUqaIjDJuY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQOGstf6YHEqeoawpB0V9q5pn5We7nn9mxAeNjYeev4Eyw&oe=6ADD9846",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwFQ_Zok&_nc_oc=Adr5TMB8nEWpo3Jz-smOatpEy0uQZcEt7Zb0fbYHtXnWtOL96tKawVx9zkUqaIjDJuY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQOGstf6YHEqeoawpB0V9q5pn5We7nn9mxAeNjYeev4Eyw&oe=6ADD9846",
           "width": null,
           "height": null,
           "alt": "A decade of smoking meats",
@@ -1301,9 +1273,9 @@
         }
       ],
       "images": [
-        "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwExgQMR&_nc_oc=Adruipt66CAlXdAVGa1unYi_uPdO8UxyGYjrYSQKGbFgTMTyx2sO8ArZMuQBcO-02Uk&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQOVvFKBgUP6ATeWBzL8KGOwXfDGmNZNgisyJliFUfzTKQ&oe=6ADD9A0D",
-        "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwHoWEz9&_nc_oc=AdpR3I14yvhqDRfJK7kcGqCkFiAMbvjx1S7a0KdSHFc6Cxp8juD5KBN1aIJwmKn4trM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQMgwGqAHzr52JvosuXyiHtG7mTGOGdk6x7oc7P7_2Stpw&oe=6ADDB91F",
-        "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwHGB41b&_nc_oc=AdqAT1hsJ_PXiKiVHP9k0LJnGZy4Gd0068TbyWoS5EckCwUdqKOXc9axGNG5R2ypJEo&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQPs-u79HXggc2AWwDf5YHzrgi0LuS-POepAYdKiHurwkw&oe=6ADD9846"
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/845505407_18639858070058217_1352388357051443552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTIxMTczMzkxOTgzNjg3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_q8K_CNSWSAQ7kNvwGx1urX&_nc_oc=AdpZfnKnbOFKkzUSC8NvzfO0HkFCYqekQuwVzm-cCVCs0q0ixOiMzWegIw6wU5O3VTk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMS8js6a0-tB4ymgGz8uFY-Us231EuQwKos1yz5Y61xvQ&oe=6ADD9A0D",
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844630242_18639858091058217_3970985439393515556_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=NDAwNTIxMTczNzI0MTcxNzkwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzEyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mvu7W3TlL2MQ7kNvwEeQnXt&_nc_oc=AdpxbjQPaw6nNakeW9ViZ-9LKycF_pbq8uPb32IyKGkChx1IpVDzMJ0L-H5EpB0ZrYE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQPVRQ68hJBtdzsKHQIPk4LXeR9VR3h5CMwLvOdI9pNZ5w&oe=6ADDB91F",
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/844758201_18639858118058217_550588046740893291_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=110&ig_cache_key=NDAwNTIxMTc0NjEwMzE4OTkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xZkKQEMtbjsQ7kNvwFQ_Zok&_nc_oc=Adr5TMB8nEWpo3Jz-smOatpEy0uQZcEt7Zb0fbYHtXnWtOL96tKawVx9zkUqaIjDJuY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQOGstf6YHEqeoawpB0V9q5pn5We7nn9mxAeNjYeev4Eyw&oe=6ADD9846"
       ],
       "repostedBy": null,
       "replyingTo": null,
@@ -1317,7 +1289,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGOu00bscL9PA9fVYuHwxMH7UviDRKsaIl0TJNKE3dDDXap-R0YJxgDI5HUOqKgm6E&_nc_ohc=gegyXGDTXZwQ7kNvwF0kSzN&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqCnx-2rKjhxA55dTVSDoSNDGWsFdiqwIYbRhZRO-nuQ&oe=6ADDC16B&_nc_sid=10d13b",
+      "avatar": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH8Bzg6mfipsayY_w3jALbShmWKrOYjBHGWqiKRHD9psyeggkGd2j3LVD_tgNGoaXc&_nc_ohc=gegyXGDTXZwQ7kNvwF2p1uv&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOI23szblz6OXFsANU7vrYEB_Cf3L0bgf3kTN_1iIKD0w&oe=6ADDC16B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "CJ joins us from MongoDB, where he was CEO and President. Before that he led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO.",
       "links": [],
@@ -1338,7 +1310,7 @@
       "kind": "post",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGOu00bscL9PA9fVYuHwxMH7UviDRKsaIl0TJNKE3dDDXap-R0YJxgDI5HUOqKgm6E&_nc_ohc=gegyXGDTXZwQ7kNvwF0kSzN&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqCnx-2rKjhxA55dTVSDoSNDGWsFdiqwIYbRhZRO-nuQ&oe=6ADDC16B&_nc_sid=10d13b",
+      "avatar": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH8Bzg6mfipsayY_w3jALbShmWKrOYjBHGWqiKRHD9psyeggkGd2j3LVD_tgNGoaXc&_nc_ohc=gegyXGDTXZwQ7kNvwF2p1uv&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOI23szblz6OXFsANU7vrYEB_Cf3L0bgf3kTN_1iIKD0w&oe=6ADDC16B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "We believe superintelligence will create significant new opportunities for all people and businesses. Meta already serves billions of people at scale and helps hundreds of millions of businesses reach customers. Today we are starting the next major pillar of our business, Meta Enterprise Platform, to help businesses use AI to grow and transform in new ways as well.",
       "links": [],
@@ -1359,7 +1331,7 @@
       "kind": "reply",
       "author": "zuck",
       "handle": "zuck",
-      "avatar": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGOu00bscL9PA9fVYuHwxMH7UviDRKsaIl0TJNKE3dDDXap-R0YJxgDI5HUOqKgm6E&_nc_ohc=gegyXGDTXZwQ7kNvwF0kSzN&_nc_gid=Oy54dJS1izA-jIQyCSh1lA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqCnx-2rKjhxA55dTVSDoSNDGWsFdiqwIYbRhZRO-nuQ&oe=6ADDC16B&_nc_sid=10d13b",
+      "avatar": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/825322135_17989325280103224_1252773933700107438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH8Bzg6mfipsayY_w3jALbShmWKrOYjBHGWqiKRHD9psyeggkGd2j3LVD_tgNGoaXc&_nc_ohc=gegyXGDTXZwQ7kNvwF2p1uv&_nc_gid=5xNI1f8xF2AmBd77yyE6xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOI23szblz6OXFsANU7vrYEB_Cf3L0bgf3kTN_1iIKD0w&oe=6ADDC16B&_nc_sid=10d13b",
       "verifiedType": null,
       "text": "Meta Enterprise Platform will use our strengths that few other companies have: advanced models, leading agents, large-scale infrastructure, and years of working closely with many businesses. Initially, we will focus on bringing our full technology stack, including the Muse agent, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers to help them grow.",
       "links": [],
@@ -1498,38 +1470,38 @@
       "text": "Agrippa said it's time to get back to work 😎",
       "links": [
         {
-          "expanded": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwEqRZDR&_nc_oc=Adr8FSnaAgT7g8Nvc2_6_enm-xJrPX0__yKPpdxY6dyBIe7zuI2lLlGM-0z5uUHqhRg&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQM5bkoIM8gNHTdZTDcYU41Tk_9JqZkqaEYCPJwdS6sMlA&oe=6ADDA7EE",
-          "display": "scontent-sjc6-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwGOohzx&_nc_oc=AdpxziIo4ZghBBE01UOJVzyYG2zduyilcU9vx-FDZzONBxUn1lP2cNJCHst_DYzgO90&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQM0gs9QpZ6dc-18G_yc_Jp0e1YJgge4YKfPtE8ASF163Q&oe=6ADDA7EE",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         },
         {
-          "expanded": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwHNM3B_&_nc_oc=AdpAhX66eJeu78plFBjpLK8WLVzindOMzj9FYp49cDVdMBnHRgk6rEggAZEISVdfeZM&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQMq9nyWeGHGyvnKh2N9xhanu-4rOMAp1Iycj9VrsHrN3Q&oe=6ADDB115",
-          "display": "scontent-sjc3-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwEjZHcz&_nc_oc=AdoSyzUR6GdrbgIiHWXHTiNkkLg2Yv71YCP64mCgnsm7d_cnC5m0347G7wlt-Zk5mvw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMUJY09O5zlt8ZoubjIQxGcqjObK2CL32wyW-HHE7wXRw&oe=6ADDB115",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         },
         {
-          "expanded": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwEegBij&_nc_oc=Adpju13nfo91Meq9JI1UW2vIsROEF8pXePv-PjhTsbNfza8llSyXMpNTRPUiXCCgQJw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQNl6v_nS1Dg7hQOtZxva2r0SSGsTFv-w81UZOPex4RcXg&oe=6ADDC5E5",
-          "display": "scontent-sjc6-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwGe_qnQ&_nc_oc=AdobVgCSBCdFJDtOFrRQvxAP7m9ML438aSU7nrj55HCnUT162MvH10N_-5RKvBIFspI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQOVcAKdawOvsTNCSEkvegNnZJrMHQCUsmb5w_X-7T33Gg&oe=6ADDC5E5",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         },
         {
-          "expanded": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwF2eZ7S&_nc_oc=AdoYSIzF6WnYoKiyKl_gVc9LTUEjPIsdQbksMOaTkn6YFJR9Hho3Jh0fu5helNIxW8Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQO5ImIYv77pY29iojVl-dqfBVjc_qyyDIyNZlB4mo6CLA&oe=6ADDB2B3",
-          "display": "scontent-sjc6-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwFylM7X&_nc_oc=Adp9TdqCuhePJ2kKv-Fkd7akJIdZAGXW0IdepcanzY796BA8Q8QxxoVvNvSpOJSKlgY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQNrJSO3P-nap0aDescDD85HX-yHvWCRJ0q6pgzLxTI78g&oe=6ADDB2B3",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         },
         {
-          "expanded": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwEYdA0Q&_nc_oc=AdrpPVA4JtxIs_vorGa0hEzz2yOER97xdqNWv0fSJrvoi2SDG8jbr_aNaaktiK4vuR4&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQPp17RuXQMweYospavk_CRCgHsDnpleAFBA3AT-Xz_FQQ&oe=6ADDC3C3",
-          "display": "scontent-sjc6-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwFjvDnl&_nc_oc=AdpYiP8gYNMeYxr4SkswoK53UBd1KylfKjnYCYExsbn7GBISsUGxuCIyrUoITsGam1U&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMBmuEvzpWagppWZZttSLmuhh4FgemfZJMRgFRIjNbATw&oe=6ADDC3C3",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         },
         {
-          "expanded": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwF14pBE&_nc_oc=AdqpfFemTVEY0hFAJ8_JzywgD6cmvyu9zX7QKJtsi2CBiofU5FCk4Xg7ZOU7Z1tIorQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQOWd67qhDUWfld4hxWL-ICBJtxsrnkv-ImRTIYfj6IhYA&oe=6ADDAEBE",
-          "display": "scontent-sjc6-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwHOXjM6&_nc_oc=AdrlRvHbQNY8wv9glZUIFKPD160BAM8JeKkd3RHSXrdoyn1eJkCl5Ww59btFMs5Pfyc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMfWe1bXOtDs-Ez3J31a427gMeEcx17op4dao19AzRpZQ&oe=6ADDAEBE",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         },
         {
-          "expanded": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/821686111_18634670527058217_4300371356444530186_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzIwMjE2MjUyNTUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qjWAcORiwYIQ7kNvwFTqUml&_nc_oc=AdqAcUcrKEJSljRavCgFdn2KWNIUBsN4unCfIDepiQWx_VPgq9wNXwnPFF09eGWt5Sc&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQNPlzptoty0kKmJHCmYTBCmt2qzs9-r1BlqrI5dvhbZSQ&oe=6ADD9DA8",
-          "display": "scontent-sjc3-1.cdninstagra…",
+          "expanded": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/821686111_18634670527058217_4300371356444530186_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzIwMjE2MjUyNTUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qjWAcORiwYIQ7kNvwHNKIA0&_nc_oc=Ado4kCcqcyswDZPe-UZVLH_kxPT239uxneFYbQeYvcgfW5apMyQaNH5EJTwEp8RmgbA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQPaOZCi3b9-X6VJKCgIThq1RdpXdD00kkFKj-abhBLPSw&oe=6ADD9DA8",
+          "display": "scontent-sea5-1.cdninstagra…",
           "anchorText": ""
         }
       ],
@@ -1538,8 +1510,8 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwEqRZDR&_nc_oc=Adr8FSnaAgT7g8Nvc2_6_enm-xJrPX0__yKPpdxY6dyBIe7zuI2lLlGM-0z5uUHqhRg&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQM5bkoIM8gNHTdZTDcYU41Tk_9JqZkqaEYCPJwdS6sMlA&oe=6ADDA7EE",
-          "poster": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwEqRZDR&_nc_oc=Adr8FSnaAgT7g8Nvc2_6_enm-xJrPX0__yKPpdxY6dyBIe7zuI2lLlGM-0z5uUHqhRg&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQM5bkoIM8gNHTdZTDcYU41Tk_9JqZkqaEYCPJwdS6sMlA&oe=6ADDA7EE",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwGOohzx&_nc_oc=AdpxziIo4ZghBBE01UOJVzyYG2zduyilcU9vx-FDZzONBxUn1lP2cNJCHst_DYzgO90&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQM0gs9QpZ6dc-18G_yc_Jp0e1YJgge4YKfPtE8ASF163Q&oe=6ADDA7EE",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwGOohzx&_nc_oc=AdpxziIo4ZghBBE01UOJVzyYG2zduyilcU9vx-FDZzONBxUn1lP2cNJCHst_DYzgO90&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQM0gs9QpZ6dc-18G_yc_Jp0e1YJgge4YKfPtE8ASF163Q&oe=6ADDA7EE",
           "width": null,
           "height": null,
           "alt": "Agrippa said it's time to get back to work 😎",
@@ -1547,8 +1519,8 @@
         },
         {
           "type": "photo",
-          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwHNM3B_&_nc_oc=AdpAhX66eJeu78plFBjpLK8WLVzindOMzj9FYp49cDVdMBnHRgk6rEggAZEISVdfeZM&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQMq9nyWeGHGyvnKh2N9xhanu-4rOMAp1Iycj9VrsHrN3Q&oe=6ADDB115",
-          "poster": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwHNM3B_&_nc_oc=AdpAhX66eJeu78plFBjpLK8WLVzindOMzj9FYp49cDVdMBnHRgk6rEggAZEISVdfeZM&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQMq9nyWeGHGyvnKh2N9xhanu-4rOMAp1Iycj9VrsHrN3Q&oe=6ADDB115",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwEjZHcz&_nc_oc=AdoSyzUR6GdrbgIiHWXHTiNkkLg2Yv71YCP64mCgnsm7d_cnC5m0347G7wlt-Zk5mvw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMUJY09O5zlt8ZoubjIQxGcqjObK2CL32wyW-HHE7wXRw&oe=6ADDB115",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwEjZHcz&_nc_oc=AdoSyzUR6GdrbgIiHWXHTiNkkLg2Yv71YCP64mCgnsm7d_cnC5m0347G7wlt-Zk5mvw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMUJY09O5zlt8ZoubjIQxGcqjObK2CL32wyW-HHE7wXRw&oe=6ADDB115",
           "width": null,
           "height": null,
           "alt": "Agrippa said it's time to get back to work 😎",
@@ -1556,8 +1528,8 @@
         },
         {
           "type": "photo",
-          "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwEegBij&_nc_oc=Adpju13nfo91Meq9JI1UW2vIsROEF8pXePv-PjhTsbNfza8llSyXMpNTRPUiXCCgQJw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQNl6v_nS1Dg7hQOtZxva2r0SSGsTFv-w81UZOPex4RcXg&oe=6ADDC5E5",
-          "poster": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwEegBij&_nc_oc=Adpju13nfo91Meq9JI1UW2vIsROEF8pXePv-PjhTsbNfza8llSyXMpNTRPUiXCCgQJw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQNl6v_nS1Dg7hQOtZxva2r0SSGsTFv-w81UZOPex4RcXg&oe=6ADDC5E5",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwGe_qnQ&_nc_oc=AdobVgCSBCdFJDtOFrRQvxAP7m9ML438aSU7nrj55HCnUT162MvH10N_-5RKvBIFspI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQOVcAKdawOvsTNCSEkvegNnZJrMHQCUsmb5w_X-7T33Gg&oe=6ADDC5E5",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwGe_qnQ&_nc_oc=AdobVgCSBCdFJDtOFrRQvxAP7m9ML438aSU7nrj55HCnUT162MvH10N_-5RKvBIFspI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQOVcAKdawOvsTNCSEkvegNnZJrMHQCUsmb5w_X-7T33Gg&oe=6ADDC5E5",
           "width": null,
           "height": null,
           "alt": "Agrippa said it's time to get back to work 😎",
@@ -1565,8 +1537,8 @@
         },
         {
           "type": "photo",
-          "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwF2eZ7S&_nc_oc=AdoYSIzF6WnYoKiyKl_gVc9LTUEjPIsdQbksMOaTkn6YFJR9Hho3Jh0fu5helNIxW8Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQO5ImIYv77pY29iojVl-dqfBVjc_qyyDIyNZlB4mo6CLA&oe=6ADDB2B3",
-          "poster": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwF2eZ7S&_nc_oc=AdoYSIzF6WnYoKiyKl_gVc9LTUEjPIsdQbksMOaTkn6YFJR9Hho3Jh0fu5helNIxW8Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQO5ImIYv77pY29iojVl-dqfBVjc_qyyDIyNZlB4mo6CLA&oe=6ADDB2B3",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwFylM7X&_nc_oc=Adp9TdqCuhePJ2kKv-Fkd7akJIdZAGXW0IdepcanzY796BA8Q8QxxoVvNvSpOJSKlgY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQNrJSO3P-nap0aDescDD85HX-yHvWCRJ0q6pgzLxTI78g&oe=6ADDB2B3",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwFylM7X&_nc_oc=Adp9TdqCuhePJ2kKv-Fkd7akJIdZAGXW0IdepcanzY796BA8Q8QxxoVvNvSpOJSKlgY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQNrJSO3P-nap0aDescDD85HX-yHvWCRJ0q6pgzLxTI78g&oe=6ADDB2B3",
           "width": null,
           "height": null,
           "alt": "Agrippa said it's time to get back to work 😎",
@@ -1574,8 +1546,8 @@
         },
         {
           "type": "photo",
-          "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwEYdA0Q&_nc_oc=AdrpPVA4JtxIs_vorGa0hEzz2yOER97xdqNWv0fSJrvoi2SDG8jbr_aNaaktiK4vuR4&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQPp17RuXQMweYospavk_CRCgHsDnpleAFBA3AT-Xz_FQQ&oe=6ADDC3C3",
-          "poster": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwEYdA0Q&_nc_oc=AdrpPVA4JtxIs_vorGa0hEzz2yOER97xdqNWv0fSJrvoi2SDG8jbr_aNaaktiK4vuR4&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQPp17RuXQMweYospavk_CRCgHsDnpleAFBA3AT-Xz_FQQ&oe=6ADDC3C3",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwFjvDnl&_nc_oc=AdpYiP8gYNMeYxr4SkswoK53UBd1KylfKjnYCYExsbn7GBISsUGxuCIyrUoITsGam1U&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMBmuEvzpWagppWZZttSLmuhh4FgemfZJMRgFRIjNbATw&oe=6ADDC3C3",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwFjvDnl&_nc_oc=AdpYiP8gYNMeYxr4SkswoK53UBd1KylfKjnYCYExsbn7GBISsUGxuCIyrUoITsGam1U&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMBmuEvzpWagppWZZttSLmuhh4FgemfZJMRgFRIjNbATw&oe=6ADDC3C3",
           "width": null,
           "height": null,
           "alt": "Agrippa said it's time to get back to work 😎",
@@ -1591,8 +1563,8 @@
         },
         {
           "type": "photo",
-          "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwF14pBE&_nc_oc=AdqpfFemTVEY0hFAJ8_JzywgD6cmvyu9zX7QKJtsi2CBiofU5FCk4Xg7ZOU7Z1tIorQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQOWd67qhDUWfld4hxWL-ICBJtxsrnkv-ImRTIYfj6IhYA&oe=6ADDAEBE",
-          "poster": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwF14pBE&_nc_oc=AdqpfFemTVEY0hFAJ8_JzywgD6cmvyu9zX7QKJtsi2CBiofU5FCk4Xg7ZOU7Z1tIorQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQOWd67qhDUWfld4hxWL-ICBJtxsrnkv-ImRTIYfj6IhYA&oe=6ADDAEBE",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwHOXjM6&_nc_oc=AdrlRvHbQNY8wv9glZUIFKPD160BAM8JeKkd3RHSXrdoyn1eJkCl5Ww59btFMs5Pfyc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMfWe1bXOtDs-Ez3J31a427gMeEcx17op4dao19AzRpZQ&oe=6ADDAEBE",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwHOXjM6&_nc_oc=AdrlRvHbQNY8wv9glZUIFKPD160BAM8JeKkd3RHSXrdoyn1eJkCl5Ww59btFMs5Pfyc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMfWe1bXOtDs-Ez3J31a427gMeEcx17op4dao19AzRpZQ&oe=6ADDAEBE",
           "width": null,
           "height": null,
           "alt": "Agrippa said it's time to get back to work 😎",
@@ -1600,8 +1572,8 @@
         },
         {
           "type": "photo",
-          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/821686111_18634670527058217_4300371356444530186_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzIwMjE2MjUyNTUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qjWAcORiwYIQ7kNvwFTqUml&_nc_oc=AdqAcUcrKEJSljRavCgFdn2KWNIUBsN4unCfIDepiQWx_VPgq9wNXwnPFF09eGWt5Sc&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQNPlzptoty0kKmJHCmYTBCmt2qzs9-r1BlqrI5dvhbZSQ&oe=6ADD9DA8",
-          "poster": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/821686111_18634670527058217_4300371356444530186_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzIwMjE2MjUyNTUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qjWAcORiwYIQ7kNvwFTqUml&_nc_oc=AdqAcUcrKEJSljRavCgFdn2KWNIUBsN4unCfIDepiQWx_VPgq9wNXwnPFF09eGWt5Sc&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQNPlzptoty0kKmJHCmYTBCmt2qzs9-r1BlqrI5dvhbZSQ&oe=6ADD9DA8",
+          "url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/821686111_18634670527058217_4300371356444530186_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzIwMjE2MjUyNTUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qjWAcORiwYIQ7kNvwHNKIA0&_nc_oc=Ado4kCcqcyswDZPe-UZVLH_kxPT239uxneFYbQeYvcgfW5apMyQaNH5EJTwEp8RmgbA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQPaOZCi3b9-X6VJKCgIThq1RdpXdD00kkFKj-abhBLPSw&oe=6ADD9DA8",
+          "poster": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/821686111_18634670527058217_4300371356444530186_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzIwMjE2MjUyNTUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qjWAcORiwYIQ7kNvwHNKIA0&_nc_oc=Ado4kCcqcyswDZPe-UZVLH_kxPT239uxneFYbQeYvcgfW5apMyQaNH5EJTwEp8RmgbA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQPaOZCi3b9-X6VJKCgIThq1RdpXdD00kkFKj-abhBLPSw&oe=6ADD9DA8",
           "width": null,
           "height": null,
           "alt": "Agrippa said it's time to get back to work 😎",
@@ -1609,13 +1581,13 @@
         }
       ],
       "images": [
-        "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwEqRZDR&_nc_oc=Adr8FSnaAgT7g8Nvc2_6_enm-xJrPX0__yKPpdxY6dyBIe7zuI2lLlGM-0z5uUHqhRg&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQM5bkoIM8gNHTdZTDcYU41Tk_9JqZkqaEYCPJwdS6sMlA&oe=6ADDA7EE",
-        "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwHNM3B_&_nc_oc=AdpAhX66eJeu78plFBjpLK8WLVzindOMzj9FYp49cDVdMBnHRgk6rEggAZEISVdfeZM&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQMq9nyWeGHGyvnKh2N9xhanu-4rOMAp1Iycj9VrsHrN3Q&oe=6ADDB115",
-        "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwEegBij&_nc_oc=Adpju13nfo91Meq9JI1UW2vIsROEF8pXePv-PjhTsbNfza8llSyXMpNTRPUiXCCgQJw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQNl6v_nS1Dg7hQOtZxva2r0SSGsTFv-w81UZOPex4RcXg&oe=6ADDC5E5",
-        "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwF2eZ7S&_nc_oc=AdoYSIzF6WnYoKiyKl_gVc9LTUEjPIsdQbksMOaTkn6YFJR9Hho3Jh0fu5helNIxW8Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQO5ImIYv77pY29iojVl-dqfBVjc_qyyDIyNZlB4mo6CLA&oe=6ADDB2B3",
-        "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwEYdA0Q&_nc_oc=AdrpPVA4JtxIs_vorGa0hEzz2yOER97xdqNWv0fSJrvoi2SDG8jbr_aNaaktiK4vuR4&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQPp17RuXQMweYospavk_CRCgHsDnpleAFBA3AT-Xz_FQQ&oe=6ADDC3C3",
-        "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwF14pBE&_nc_oc=AdqpfFemTVEY0hFAJ8_JzywgD6cmvyu9zX7QKJtsi2CBiofU5FCk4Xg7ZOU7Z1tIorQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQOWd67qhDUWfld4hxWL-ICBJtxsrnkv-ImRTIYfj6IhYA&oe=6ADDAEBE",
-        "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/821686111_18634670527058217_4300371356444530186_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzIwMjE2MjUyNTUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qjWAcORiwYIQ7kNvwFTqUml&_nc_oc=AdqAcUcrKEJSljRavCgFdn2KWNIUBsN4unCfIDepiQWx_VPgq9wNXwnPFF09eGWt5Sc&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=O2TABAn2ykyRuG8u308_wA&_nc_ss=7e689&oh=00_AQNPlzptoty0kKmJHCmYTBCmt2qzs9-r1BlqrI5dvhbZSQ&oe=6ADD9DA8"
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/825322406_18634670344058217_2964137223921476803_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=102&ig_cache_key=Mzk5NDA5NzE0NDcyNDY1NTUyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6nfVhlFNzm4Q7kNvwGOohzx&_nc_oc=AdpxziIo4ZghBBE01UOJVzyYG2zduyilcU9vx-FDZzONBxUn1lP2cNJCHst_DYzgO90&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQM0gs9QpZ6dc-18G_yc_Jp0e1YJgge4YKfPtE8ASF163Q&oe=6ADDA7EE",
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/809315338_18634670353058217_1627514148232326618_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=105&ig_cache_key=Mzk5NDA5NzE0NjIyMjg4NDU2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wQpYaSt2NTcQ7kNvwEjZHcz&_nc_oc=AdoSyzUR6GdrbgIiHWXHTiNkkLg2Yv71YCP64mCgnsm7d_cnC5m0347G7wlt-Zk5mvw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMUJY09O5zlt8ZoubjIQxGcqjObK2CL32wyW-HHE7wXRw&oe=6ADDB115",
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/820374552_18634670431058217_6351366347823271548_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=104&ig_cache_key=Mzk5NDA5NzE4NjQ5Njc4MjY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SLMC0x3zUlQQ7kNvwGe_qnQ&_nc_oc=AdobVgCSBCdFJDtOFrRQvxAP7m9ML438aSU7nrj55HCnUT162MvH10N_-5RKvBIFspI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQOVcAKdawOvsTNCSEkvegNnZJrMHQCUsmb5w_X-7T33Gg&oe=6ADDC5E5",
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/821405228_18634670446058217_5451193410987327832_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE4NzQ5NzcyMTkwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=pPsbCwkM4oIQ7kNvwFylM7X&_nc_oc=Adp9TdqCuhePJ2kKv-Fkd7akJIdZAGXW0IdepcanzY796BA8Q8QxxoVvNvSpOJSKlgY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQNrJSO3P-nap0aDescDD85HX-yHvWCRJ0q6pgzLxTI78g&oe=6ADDB2B3",
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/825709730_18634670512058217_7849265375977503947_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzE5ODI5NDA3MDgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ijPrCEpsozIQ7kNvwFjvDnl&_nc_oc=AdpYiP8gYNMeYxr4SkswoK53UBd1KylfKjnYCYExsbn7GBISsUGxuCIyrUoITsGam1U&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMBmuEvzpWagppWZZttSLmuhh4FgemfZJMRgFRIjNbATw&oe=6ADDC3C3",
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/818261305_18634670488058217_6215018072679348445_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mzk5NDA5NzIwMTI1NTE2ODUyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ioEPMNPy7FIQ7kNvwHOXjM6&_nc_oc=AdrlRvHbQNY8wv9glZUIFKPD160BAM8JeKkd3RHSXrdoyn1eJkCl5Ww59btFMs5Pfyc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQMfWe1bXOtDs-Ez3J31a427gMeEcx17op4dao19AzRpZQ&oe=6ADDAEBE",
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/821686111_18634670527058217_4300371356444530186_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mzk5NDA5NzIwMjE2MjUyNTUwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qjWAcORiwYIQ7kNvwHNKIA0&_nc_oc=Ado4kCcqcyswDZPe-UZVLH_kxPT239uxneFYbQeYvcgfW5apMyQaNH5EJTwEp8RmgbA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=3EEJlt3tk63VCJp3FBQk6A&_nc_ss=7e689&oh=00_AQPaOZCi3b9-X6VJKCgIThq1RdpXdD00kkFKj-abhBLPSw&oe=6ADD9DA8"
       ],
       "repostedBy": null,
       "replyingTo": null,
@@ -1645,7 +1617,7 @@
           "alt": "",
           "expires": "2026-10-22T04:35:14Z",
           "posterExpires": "2026-10-25T06:15:50Z",
-          "fallback": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/817679248_18634097056058217_1242456129074364035_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEHG-5Z5KpLMzznDy_HiY0I038SseFZWTNjV2FVVfYvB616R0ztfXpZ9eBZaQwt7ns&_nc_ohc=kCfmHxEVkSMQ7kNvwEyDD37&_nc_gid=tWc_XHP-PIHU_WMtMTD_oQ&edm=AGenrX8BAAAA&ccb=7-5&oh=00_AQNhCOh7hdCZy47Vtk8mbXH_17hAoMyWnyVCN-AOInItzw&oe=6ADD9E96&_nc_sid=ed990e"
+          "fallback": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/817679248_18634097056058217_1242456129074364035_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFeVyTkFA0QD2XoMNhcalAC9RZhYpXtoDVEMP3fGu7x50gMTjstCu-xIf_S_XJYg8I&_nc_ohc=kCfmHxEVkSMQ7kNvwFzGBe5&_nc_gid=haeSphy_UYvYGdxDC5IBdg&edm=AGenrX8BAAAA&ccb=7-5&oh=00_AQM2nPEVHpq-n6eOvX95SFFSKiNAfe8u-xoBVgg5oJgIBQ&oe=6ADD9E96&_nc_sid=ed990e"
         }
       ],
       "images": [],
@@ -1707,7 +1679,7 @@
           "alt": "",
           "expires": "2026-10-22T06:37:22Z",
           "posterExpires": "2026-10-25T03:36:47Z",
-          "fallback": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/811170493_18633669466058217_1272129350810393762_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGspyf__Au5j-NqLmMNFmwwLWh2ljAWA1QdQ01Hj8BiheIEbQaN5EZNLmp-KXYZKUA&_nc_ohc=oHisYvgHrxAQ7kNvwHIOTls&_nc_gid=ejnUIIFlRnT8iKhQlA7mrw&edm=ALY_pVYBAAAA&ccb=7-5&oh=00_AQOUP_Z6xd6Acxtcmi1W3foqfRc5ts7kaRCJHuE0MzVBkQ&oe=6ADDB18F&_nc_sid=57e406"
+          "fallback": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/811170493_18633669466058217_1272129350810393762_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF7NJfecwhA5fQNCGH40_SP4QVngg5HHzDovUOmT_1fQXbbzwDzpfppPVkK1wnK0IA&_nc_ohc=oHisYvgHrxAQ7kNvwEw-nlc&_nc_gid=GmpPxvNye8SrF14D7SBycA&edm=ALY_pVYBAAAA&ccb=7-5&oh=00_AQPV80ukMQXb7K9G-sHYyhohtlLjKMV-fkbbOXv9Er55bw&oe=6ADDB18F&_nc_sid=57e406"
         }
       ],
       "images": [],
@@ -1769,7 +1741,7 @@
           "alt": "",
           "expires": "2026-10-22T05:02:46Z",
           "posterExpires": "2026-10-25T05:41:43Z",
-          "fallback": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/811170468_18633043450058217_796617669100998277_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGDKSJDbs5-beou2MEcqVx9_LEdWJFeXVm3EFp0RITvo2Bl1SQzMknDUQ9afGsDKY8&_nc_ohc=ZPmjV4ealfsQ7kNvwFa3saV&_nc_gid=535GmDDgM9SfEuIHKJcb6Q&edm=ALY_pVYBAAAA&ccb=7-5&oh=00_AQOG7qk3uAF8U3q6ygHV8TobnWBiNXIOovCnoj9l1wGuCQ&oe=6ADD9697&_nc_sid=57e406"
+          "fallback": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/811170468_18633043450058217_796617669100998277_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG4KVb5H_yVjGYM8oVwPSyEF8zbtH7GBqCEIEgZTNgl4sAWn-174NEs14duotnfFjo&_nc_ohc=ZPmjV4ealfsQ7kNvwFnMDVC&_nc_gid=PjtU21SIRM9nYg1Iz7khUg&edm=ALY_pVYBAAAA&ccb=7-5&oh=00_AQMcG9HH4YNgKDURNvNOTOyqTTRG6QoXDEUJGxGKdLt2Ng&oe=6ADDCED7&_nc_sid=57e406"
         }
       ],
       "images": [],
@@ -1831,7 +1803,7 @@
           "alt": "",
           "expires": "2026-10-22T07:07:40Z",
           "posterExpires": "2026-10-25T05:04:25Z",
-          "fallback": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/787888645_18629038708058217_7602872519504197567_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGBUnupgXeSewmlJZBwhrcHdAs47r3MS39-PIEnliEA3YE6F4bR3A8lG16F4xWmQuU&_nc_ohc=64baAe4C1zEQ7kNvwHZGxt2&_nc_gid=PnZ7En14gfUyyt-pJoF5mQ&edm=ALY_pVYBAAAA&ccb=7-5&oh=00_AQNNimb2QWkjo4chDUiZ_jy-xUAgGWtDlS0w3RMog4dWHQ&oe=6ADDC619&_nc_sid=57e406"
+          "fallback": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/787888645_18629038708058217_7602872519504197567_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEK56wzAVZNtaBvikS6siaFSL-F8AMGICR6KWmuxgNbEZYbUXbyjqrnzAS1auGuUxk&_nc_ohc=64baAe4C1zEQ7kNvwELKoyL&_nc_gid=G6pw5R3oduAc-BbRv5KuDw&edm=ALY_pVYBAAAA&ccb=7-5&oh=00_AQMEpnIbDuPUPjq7hgV_KxyzGv62OdzmNxxWlevBfpsOJA&oe=6ADDC619&_nc_sid=57e406"
         }
       ],
       "images": [],
@@ -1864,7 +1836,7 @@
           "alt": "",
           "expires": "2026-10-22T06:19:01Z",
           "posterExpires": "2026-10-25T04:31:57Z",
-          "fallback": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/769777729_18618792775058217_8303477721445574459_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE94h6g1wLNqEX9ufYWcWceX-UtKyt8_6Fwdv1rdAdJYefc-hDEOfZRuXxao1Xb7qg&_nc_ohc=1h4f_3M6XnYQ7kNvwGdTLnY&_nc_gid=idVTHyRbswm1vbGroFpujA&edm=ALY_pVYBAAAA&ccb=7-5&oh=00_AQNqnYDaxT-DgjCf4el4kFUp8BDvMyk8O0iwBduCMjZ12Q&oe=6ADDBE7D&_nc_sid=57e406"
+          "fallback": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/769777729_18618792775058217_8303477721445574459_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF7QyIoYMLXuyVwO-LQTonYh_-AUDyJt535Tg0uTGy1z6_fp7UyDd8VTLFHbJW1J3c&_nc_ohc=1h4f_3M6XnYQ7kNvwFlFsAB&_nc_gid=e2zePoQumgcuWG2DFVx0AA&edm=ALY_pVYBAAAA&ccb=7-5&oh=00_AQOjXWxi3DAXKeK-PJO-XVU0Bl16sE2oVYA1_OsJIyF5iA&oe=6ADDBE7D&_nc_sid=57e406"
         }
       ],
       "images": [],

@@ -32,7 +32,7 @@
         "reposts": 2,
         "quotes": 0,
         "likes": 15,
-        "views": 902,
+        "views": 917,
         "bookmarks": 1
       }
     },
@@ -76,7 +76,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 4,
-        "views": 224,
+        "views": 233,
         "bookmarks": 1
       }
     },
@@ -109,7 +109,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 247,
+        "views": 261,
         "bookmarks": 0
       }
     },
@@ -142,7 +142,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 3,
-        "views": 330,
+        "views": 343,
         "bookmarks": 0
       }
     },
@@ -175,7 +175,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 209,
+        "views": 219,
         "bookmarks": 0
       }
     },
@@ -209,6 +209,39 @@
         "quotes": 0,
         "likes": 2,
         "views": 12,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112656782971609319",
+      "statusId": "2112656782971609319",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Marusa Lujan",
+      "handle": "marusalujan",
+      "avatar": "https://pbs.twimg.com/profile_images/2111533430617882624/-WacxTcv_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@BrianRoemmele @elonmusk @grok @bot 🌊🏄‍♂️",
+      "links": [],
+      "date": "2026-10-20T21:26:42Z",
+      "url": "https://x.com/marusalujan/status/2112656782971609319",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "BrianRoemmele",
+        "handle": "BrianRoemmele",
+        "avatar": "",
+        "id": "2112544697139036236"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "likes": 2,
+        "views": 6,
         "bookmarks": 0
       }
     },
@@ -252,7 +285,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 2,
-        "views": 113,
+        "views": 118,
         "bookmarks": 1
       }
     },
@@ -285,7 +318,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 2,
-        "views": 191,
+        "views": 202,
         "bookmarks": 0
       }
     },
@@ -318,7 +351,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 248,
+        "views": 257,
         "bookmarks": 0
       }
     },
@@ -351,7 +384,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 91,
+        "views": 94,
         "bookmarks": 0
       }
     },
@@ -426,7 +459,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 86,
+        "views": 90,
         "bookmarks": 0
       }
     },
@@ -459,7 +492,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 16,
+        "views": 17,
         "bookmarks": 0
       }
     },
@@ -492,7 +525,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 4,
+        "views": 5,
         "bookmarks": 0
       }
     },
@@ -525,7 +558,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 143,
+        "views": 151,
         "bookmarks": 0
       }
     },
@@ -558,7 +591,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 196,
+        "views": 206,
         "bookmarks": 0
       }
     },
@@ -600,7 +633,7 @@
         "reposts": 1,
         "quotes": 0,
         "likes": 1,
-        "views": 8,
+        "views": 9,
         "bookmarks": 1
       }
     },
@@ -633,7 +666,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 53,
+        "views": 61,
         "bookmarks": 0
       }
     },
@@ -666,7 +699,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 32,
+        "views": 34,
         "bookmarks": 0
       }
     },
@@ -699,7 +732,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 1,
-        "views": 72,
+        "views": 76,
         "bookmarks": 0
       }
     },
@@ -732,7 +765,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 0,
-        "views": 28,
+        "views": 29,
         "bookmarks": 0
       }
     },
@@ -765,6 +798,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 0,
+        "views": 2,
         "bookmarks": 0
       }
     },
@@ -797,7 +831,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 0,
-        "views": 8,
+        "views": 10,
         "bookmarks": 0
       }
     },
@@ -830,7 +864,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 0,
-        "views": 101,
+        "views": 110,
         "bookmarks": 0
       }
     },
@@ -863,7 +897,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 0,
-        "views": 53,
+        "views": 55,
         "bookmarks": 0
       }
     },
@@ -929,7 +963,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 0,
-        "views": 29,
+        "views": 31,
         "bookmarks": 0
       }
     },
@@ -963,72 +997,6 @@
         "quotes": 0,
         "likes": 0,
         "views": 7,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112594435464913296",
-      "statusId": "2112594435464913296",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Enea⚡Vitali",
-      "handle": "EneaVitali",
-      "avatar": "https://pbs.twimg.com/profile_images/2101747000223969280/WFJC-bJK_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@BrianRoemmele @grok @bot Will SpaceX shares also climb similarly?",
-      "links": [],
-      "date": "2026-10-20T17:18:58Z",
-      "url": "https://x.com/EneaVitali/status/2112594435464913296",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "BrianRoemmele",
-        "handle": "BrianRoemmele",
-        "avatar": "",
-        "id": "2112544697139036236"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 0,
-        "views": 21,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112624174221115895",
-      "statusId": "2112624174221115895",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "N Rocky",
-      "handle": "RockyN35433",
-      "avatar": "https://pbs.twimg.com/profile_images/1772829290863767552/NXLUn5Ct_200x200.jpg",
-      "verifiedType": null,
-      "text": "@BrianRoemmele @grok @bot Why do they charge you to use it",
-      "links": [],
-      "date": "2026-10-20T19:17:08Z",
-      "url": "https://x.com/RockyN35433/status/2112624174221115895",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "BrianRoemmele",
-        "handle": "BrianRoemmele",
-        "avatar": "",
-        "id": "2112544697139036236"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 0,
-        "views": 1,
         "bookmarks": 0
       }
     },
@@ -1091,7 +1059,7 @@
         "reposts": 0,
         "quotes": 0,
         "likes": 0,
-        "views": 49,
+        "views": 58,
         "bookmarks": 0
       }
     }

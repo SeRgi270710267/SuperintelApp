@@ -28,12 +28,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 48,
-        "reposts": 58,
+        "replies": 52,
+        "reposts": 63,
         "quotes": 0,
-        "likes": 3129,
-        "views": 43703,
-        "bookmarks": 6
+        "likes": 3405,
+        "views": 47477,
+        "bookmarks": 7
       }
     },
     {
@@ -61,11 +61,11 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 8,
-        "reposts": 27,
+        "replies": 9,
+        "reposts": 31,
         "quotes": 0,
-        "likes": 1485,
-        "views": 24745,
+        "likes": 1625,
+        "views": 27012,
         "bookmarks": 5
       }
     },
@@ -95,10 +95,10 @@
       "quoted": null,
       "stats": {
         "replies": 22,
-        "reposts": 22,
+        "reposts": 23,
         "quotes": 0,
-        "likes": 1348,
-        "views": 24155,
+        "likes": 1426,
+        "views": 25618,
         "bookmarks": 6
       }
     },
@@ -128,10 +128,10 @@
       "quoted": null,
       "stats": {
         "replies": 18,
-        "reposts": 20,
+        "reposts": 23,
         "quotes": 0,
-        "likes": 1105,
-        "views": 21235,
+        "likes": 1288,
+        "views": 24046,
         "bookmarks": 3
       }
     },
@@ -160,12 +160,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 11,
-        "reposts": 14,
+        "replies": 13,
+        "reposts": 15,
         "quotes": 1,
-        "likes": 945,
-        "views": 16541,
-        "bookmarks": 3
+        "likes": 1095,
+        "views": 18931,
+        "bookmarks": 4
       }
     },
     {
@@ -196,8 +196,8 @@
         "replies": 2,
         "reposts": 3,
         "quotes": 0,
-        "likes": 525,
-        "views": 9765,
+        "likes": 574,
+        "views": 10977,
         "bookmarks": 0
       }
     },
@@ -226,12 +226,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 39,
-        "reposts": 32,
+        "replies": 42,
+        "reposts": 34,
         "quotes": 2,
-        "likes": 505,
-        "views": 22818,
-        "bookmarks": 1
+        "likes": 569,
+        "views": 27221,
+        "bookmarks": 2
       }
     },
     {
@@ -279,44 +279,11 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 8,
-        "reposts": 28,
+        "replies": 10,
+        "reposts": 30,
         "quotes": 0,
-        "likes": 488,
-        "views": 7847,
-        "bookmarks": 2
-      }
-    },
-    {
-      "id": "2112595311168553062",
-      "statusId": "2112595311168553062",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "ngmmix",
-      "handle": "VERSACE_Van",
-      "avatar": "https://pbs.twimg.com/profile_images/1248361833641148416/Z9wNZ9t1_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk @KenPaxtonTX Voting Blue this time! Sorry Elon!",
-      "links": [],
-      "date": "2026-10-20T17:22:26Z",
-      "url": "https://x.com/VERSACE_Van/status/2112595311168553062",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593866461216942"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 3,
-        "reposts": 2,
-        "quotes": 0,
-        "likes": 458,
-        "views": 13091,
+        "likes": 544,
+        "views": 8579,
         "bookmarks": 2
       }
     },
@@ -357,10 +324,43 @@
       "quoted": null,
       "stats": {
         "replies": 13,
-        "reposts": 14,
+        "reposts": 15,
         "quotes": 1,
-        "likes": 430,
-        "views": 9503,
+        "likes": 485,
+        "views": 10670,
+        "bookmarks": 2
+      }
+    },
+    {
+      "id": "2112595311168553062",
+      "statusId": "2112595311168553062",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "ngmmix",
+      "handle": "VERSACE_Van",
+      "avatar": "https://pbs.twimg.com/profile_images/1248361833641148416/Z9wNZ9t1_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @KenPaxtonTX Voting Blue this time! Sorry Elon!",
+      "links": [],
+      "date": "2026-10-20T17:22:26Z",
+      "url": "https://x.com/VERSACE_Van/status/2112595311168553062",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593866461216942"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 3,
+        "reposts": 2,
+        "quotes": 0,
+        "likes": 475,
+        "views": 13584,
         "bookmarks": 2
       }
     },
@@ -389,11 +389,11 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 3,
-        "reposts": 11,
+        "replies": 5,
+        "reposts": 12,
         "quotes": 0,
-        "likes": 395,
-        "views": 8715,
+        "likes": 457,
+        "views": 9902,
         "bookmarks": 2
       }
     },
@@ -425,8 +425,8 @@
         "replies": 4,
         "reposts": 9,
         "quotes": 0,
-        "likes": 340,
-        "views": 6519,
+        "likes": 359,
+        "views": 6944,
         "bookmarks": 1
       }
     },
@@ -458,74 +458,8 @@
         "replies": 1,
         "reposts": 6,
         "quotes": 0,
-        "likes": 243,
-        "views": 6252,
-        "bookmarks": 2
-      }
-    },
-    {
-      "id": "2112599300353949719",
-      "statusId": "2112599300353949719",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Bo Berry",
-      "handle": "BoBerryBisc",
-      "avatar": "https://pbs.twimg.com/profile_images/2095302873064308737/B2s6O_IX_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk @KenPaxtonTX Hell no, we aren’t voting for the corrupt pedo protector cyclops",
-      "links": [],
-      "date": "2026-10-20T17:38:18Z",
-      "url": "https://x.com/BoBerryBisc/status/2112599300353949719",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593866461216942"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 1,
-        "reposts": 2,
-        "quotes": 0,
-        "likes": 203,
-        "views": 5392,
-        "bookmarks": 1
-      }
-    },
-    {
-      "id": "2112600892759539728",
-      "statusId": "2112600892759539728",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Bo French",
-      "handle": "bofrench",
-      "avatar": "https://pbs.twimg.com/profile_images/1794820677607809024/Su7zKdWP_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk @KenPaxtonTX Every R in Texas. We can't afford to empower a single America hating D.",
-      "links": [],
-      "date": "2026-10-20T17:44:37Z",
-      "url": "https://x.com/bofrench/status/2112600892759539728",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593866461216942"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 15,
-        "reposts": 11,
-        "quotes": 0,
-        "likes": 197,
-        "views": 5602,
+        "likes": 272,
+        "views": 7002,
         "bookmarks": 2
       }
     },
@@ -557,9 +491,75 @@
         "replies": 3,
         "reposts": 7,
         "quotes": 0,
-        "likes": 197,
-        "views": 2644,
+        "likes": 225,
+        "views": 3023,
         "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112599300353949719",
+      "statusId": "2112599300353949719",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Bo Berry",
+      "handle": "BoBerryBisc",
+      "avatar": "https://pbs.twimg.com/profile_images/2095302873064308737/B2s6O_IX_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @KenPaxtonTX Hell no, we aren’t voting for the corrupt pedo protector cyclops",
+      "links": [],
+      "date": "2026-10-20T17:38:18Z",
+      "url": "https://x.com/BoBerryBisc/status/2112599300353949719",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593866461216942"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 2,
+        "quotes": 0,
+        "likes": 221,
+        "views": 5601,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2112600892759539728",
+      "statusId": "2112600892759539728",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Bo French",
+      "handle": "bofrench",
+      "avatar": "https://pbs.twimg.com/profile_images/1794820677607809024/Su7zKdWP_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @KenPaxtonTX Every R in Texas. We can't afford to empower a single America hating D.",
+      "links": [],
+      "date": "2026-10-20T17:44:37Z",
+      "url": "https://x.com/bofrench/status/2112600892759539728",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593866461216942"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 16,
+        "reposts": 11,
+        "quotes": 0,
+        "likes": 211,
+        "views": 5987,
+        "bookmarks": 2
       }
     },
     {
@@ -616,11 +616,44 @@
       },
       "stats": {
         "replies": 7,
-        "reposts": 12,
+        "reposts": 13,
         "quotes": 2,
-        "likes": 176,
-        "views": 7734,
+        "likes": 185,
+        "views": 8351,
         "bookmarks": 2
+      }
+    },
+    {
+      "id": "2112606022049407229",
+      "statusId": "2112606022049407229",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Eric Daugherty",
+      "handle": "EricLDaugh",
+      "avatar": "https://pbs.twimg.com/profile_images/1946702115037908992/NU6Ro1bl_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @KenPaxtonTX Elon knows the west is at stake",
+      "links": [],
+      "date": "2026-10-20T18:05:00Z",
+      "url": "https://x.com/EricLDaugh/status/2112606022049407229",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593866461216942"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 10,
+        "reposts": 11,
+        "quotes": 0,
+        "likes": 163,
+        "views": 5970,
+        "bookmarks": 0
       }
     },
     {
@@ -651,8 +684,8 @@
         "replies": 2,
         "reposts": 2,
         "quotes": 0,
-        "likes": 155,
-        "views": 5348,
+        "likes": 159,
+        "views": 5651,
         "bookmarks": 0
       }
     },
@@ -693,41 +726,8 @@
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
-        "likes": 154,
-        "views": 9499,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112606022049407229",
-      "statusId": "2112606022049407229",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Eric Daugherty",
-      "handle": "EricLDaugh",
-      "avatar": "https://pbs.twimg.com/profile_images/1946702115037908992/NU6Ro1bl_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk @KenPaxtonTX Elon knows the west is at stake",
-      "links": [],
-      "date": "2026-10-20T18:05:00Z",
-      "url": "https://x.com/EricLDaugh/status/2112606022049407229",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593866461216942"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 10,
-        "reposts": 10,
-        "quotes": 0,
-        "likes": 153,
-        "views": 5768,
+        "likes": 159,
+        "views": 9718,
         "bookmarks": 0
       }
     },
@@ -759,8 +759,8 @@
         "replies": 4,
         "reposts": 6,
         "quotes": 0,
-        "likes": 128,
-        "views": 4822,
+        "likes": 148,
+        "views": 5254,
         "bookmarks": 1
       }
     },
@@ -801,10 +801,10 @@
       "quoted": null,
       "stats": {
         "replies": 7,
-        "reposts": 11,
+        "reposts": 14,
         "quotes": 0,
-        "likes": 127,
-        "views": 3770,
+        "likes": 141,
+        "views": 3992,
         "bookmarks": 4
       }
     },
@@ -847,8 +847,8 @@
         "replies": 3,
         "reposts": 4,
         "quotes": 0,
-        "likes": 125,
-        "views": 2311,
+        "likes": 139,
+        "views": 2542,
         "bookmarks": 0
       }
     },
@@ -880,8 +880,8 @@
         "replies": 2,
         "reposts": 2,
         "quotes": 0,
-        "likes": 115,
-        "views": 3492,
+        "likes": 128,
+        "views": 3779,
         "bookmarks": 0
       }
     },
@@ -939,10 +939,10 @@
       },
       "stats": {
         "replies": 8,
-        "reposts": 15,
+        "reposts": 16,
         "quotes": 0,
-        "likes": 113,
-        "views": 3623,
+        "likes": 118,
+        "views": 3727,
         "bookmarks": 0
       }
     },
@@ -972,10 +972,10 @@
       "quoted": null,
       "stats": {
         "replies": 1,
-        "reposts": 1,
+        "reposts": 2,
         "quotes": 0,
-        "likes": 105,
-        "views": 4631,
+        "likes": 111,
+        "views": 4841,
         "bookmarks": 1
       }
     },
@@ -1005,10 +1005,76 @@
       "quoted": null,
       "stats": {
         "replies": 6,
-        "reposts": 14,
+        "reposts": 15,
         "quotes": 0,
-        "likes": 97,
-        "views": 1638,
+        "likes": 103,
+        "views": 1719,
+        "bookmarks": 1
+      }
+    },
+    {
+      "id": "2112600580946620578",
+      "statusId": "2112600580946620578",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Michael Mohundro 🇺🇸🇺🇦",
+      "handle": "MichaelMohundro",
+      "avatar": "https://pbs.twimg.com/profile_images/1606350425225138187/kQQGWVti_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @KenPaxtonTX You should have picked America instead of russia. Your credibility took a major hit:",
+      "links": [],
+      "date": "2026-10-20T17:43:23Z",
+      "url": "https://x.com/MichaelMohundro/status/2112600580946620578",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593866461216942"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 1,
+        "reposts": 5,
+        "quotes": 0,
+        "likes": 92,
+        "views": 2413,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112597704304144697",
+      "statusId": "2112597704304144697",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Sassafrass84",
+      "handle": "Sassafrass_84",
+      "avatar": "https://pbs.twimg.com/profile_images/2007867686848475136/pe2K9hqR_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @JoelOBryanPhD @KenPaxtonTX Let’s go Texas. In it to win it.\n\nVote for Ken Paxton today!",
+      "links": [],
+      "date": "2026-10-20T17:31:57Z",
+      "url": "https://x.com/Sassafrass_84/status/2112597704304144697",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593866461216942"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 12,
+        "reposts": 5,
+        "quotes": 0,
+        "likes": 89,
+        "views": 2705,
         "bookmarks": 1
       }
     },
@@ -1041,139 +1107,7 @@
         "reposts": 2,
         "quotes": 0,
         "likes": 89,
-        "views": 4100,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112597704304144697",
-      "statusId": "2112597704304144697",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Sassafrass84",
-      "handle": "Sassafrass_84",
-      "avatar": "https://pbs.twimg.com/profile_images/2007867686848475136/pe2K9hqR_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk @JoelOBryanPhD @KenPaxtonTX Let’s go Texas. In it to win it.\n\nVote for Ken Paxton today!",
-      "links": [],
-      "date": "2026-10-20T17:31:57Z",
-      "url": "https://x.com/Sassafrass_84/status/2112597704304144697",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593866461216942"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 12,
-        "reposts": 5,
-        "quotes": 0,
-        "likes": 86,
-        "views": 2548,
-        "bookmarks": 1
-      }
-    },
-    {
-      "id": "2112595416776835423",
-      "statusId": "2112595416776835423",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Thyrone Cameron 🏆🥇🎯",
-      "handle": "GetMeCash",
-      "avatar": "https://pbs.twimg.com/profile_images/1533842784821686273/S7sEqK9F_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk @KenPaxtonTX Sorry pal Vote @jamestalarico to save Texas from the sinners",
-      "links": [],
-      "date": "2026-10-20T17:22:52Z",
-      "url": "https://x.com/GetMeCash/status/2112595416776835423",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593866461216942"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "likes": 84,
-        "views": 3099,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112600580946620578",
-      "statusId": "2112600580946620578",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Michael Mohundro 🇺🇸🇺🇦",
-      "handle": "MichaelMohundro",
-      "avatar": "https://pbs.twimg.com/profile_images/1606350425225138187/kQQGWVti_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk @KenPaxtonTX You should have picked America instead of russia. Your credibility took a major hit:",
-      "links": [],
-      "date": "2026-10-20T17:43:23Z",
-      "url": "https://x.com/MichaelMohundro/status/2112600580946620578",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593866461216942"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 1,
-        "reposts": 4,
-        "quotes": 0,
-        "likes": 82,
-        "views": 2116,
-        "bookmarks": 0
-      }
-    },
-    {
-      "id": "2112603831146066355",
-      "statusId": "2112603831146066355",
-      "platform": "x",
-      "feedId": "",
-      "kind": "reply",
-      "author": "Pandeymonium",
-      "handle": "MassifYeti",
-      "avatar": "https://pbs.twimg.com/profile_images/1882096528271040512/NfhC4Jta_200x200.jpg",
-      "verifiedType": "blue",
-      "text": "@elonmusk @KenPaxtonTX Ken Paxton saving America is like saying Kimberley Guilfoyle will fight corruption. 😂😂",
-      "links": [],
-      "date": "2026-10-20T17:56:18Z",
-      "url": "https://x.com/MassifYeti/status/2112603831146066355",
-      "media": [],
-      "images": [],
-      "repostedBy": null,
-      "replyingTo": {
-        "name": "elonmusk",
-        "handle": "elonmusk",
-        "avatar": "",
-        "id": "2112593866461216942"
-      },
-      "quoted": null,
-      "stats": {
-        "replies": 2,
-        "reposts": 3,
-        "quotes": 0,
-        "likes": 77,
-        "views": 1533,
+        "views": 4146,
         "bookmarks": 0
       }
     },
@@ -1205,8 +1139,74 @@
         "replies": 0,
         "reposts": 1,
         "quotes": 0,
-        "likes": 74,
-        "views": 1400,
+        "likes": 88,
+        "views": 1617,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112603831146066355",
+      "statusId": "2112603831146066355",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Pandeymonium",
+      "handle": "MassifYeti",
+      "avatar": "https://pbs.twimg.com/profile_images/1882096528271040512/NfhC4Jta_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @KenPaxtonTX Ken Paxton saving America is like saying Kimberley Guilfoyle will fight corruption. 😂😂",
+      "links": [],
+      "date": "2026-10-20T17:56:18Z",
+      "url": "https://x.com/MassifYeti/status/2112603831146066355",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593866461216942"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 3,
+        "quotes": 0,
+        "likes": 87,
+        "views": 1724,
+        "bookmarks": 0
+      }
+    },
+    {
+      "id": "2112595416776835423",
+      "statusId": "2112595416776835423",
+      "platform": "x",
+      "feedId": "",
+      "kind": "reply",
+      "author": "Thyrone Cameron 🏆🥇🎯",
+      "handle": "GetMeCash",
+      "avatar": "https://pbs.twimg.com/profile_images/1533842784821686273/S7sEqK9F_200x200.jpg",
+      "verifiedType": "blue",
+      "text": "@elonmusk @KenPaxtonTX Sorry pal Vote @jamestalarico to save Texas from the sinners",
+      "links": [],
+      "date": "2026-10-20T17:22:52Z",
+      "url": "https://x.com/GetMeCash/status/2112595416776835423",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": {
+        "name": "elonmusk",
+        "handle": "elonmusk",
+        "avatar": "",
+        "id": "2112593866461216942"
+      },
+      "quoted": null,
+      "stats": {
+        "replies": 2,
+        "reposts": 1,
+        "quotes": 0,
+        "likes": 87,
+        "views": 3219,
         "bookmarks": 0
       }
     },
@@ -1236,38 +1236,40 @@
       "quoted": null,
       "stats": {
         "replies": 2,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
-        "likes": 74,
-        "views": 2639,
+        "likes": 78,
+        "views": 2864,
         "bookmarks": 0
       }
     },
     {
-      "id": "2112600829098397804",
-      "statusId": "2112600829098397804",
+      "id": "2112608987258421752",
+      "statusId": "2112608987258421752",
       "platform": "x",
       "feedId": "",
       "kind": "reply",
-      "author": "Orange_burp007",
-      "handle": "Orange_burp007",
-      "avatar": "https://pbs.twimg.com/profile_images/2017069468158218240/ahswM7VX_200x200.jpg",
+      "author": "Popular Liberal 🇺🇸",
+      "handle": "PopularLiberal",
+      "avatar": "https://pbs.twimg.com/profile_images/2106488028948533248/FfO1Ox0V_200x200.jpg",
       "verifiedType": "blue",
-      "text": "@elonmusk @KenPaxtonTX More like the fate of your tax breaks and high taxes on the American workers is at stake that’s something I’d gladly vote against",
+      "text": "DEAR ELMO, I hope this reach you well. You're going to prison. Take that to the bank, buddy.\n\nYour million-dollar \"Constitution petition\" checks? That's federal vote-buying. 18 U.S.C. § 597. Up to 5 years in prison PER COUNT. The DOJ warned you in writing. ​￼​\n\nWisconsin's bipartisan Elections Commission already found PROBABLE CAUSE you violated their election bribery statute. Wis. Stat. § 12.11. They voted 5-1 and sent it to prosecutors. ​￼​\n\nThen there's the subpoena you ghosted. The SEC had to drag you to federal court to FORCE you to testify — you agreed, then didn't show, two days before. ​￼​ And a judge just ordered you to testify under oath in the Texas fraud suit over the same million-dollar scam. ​￼​\n\nEverybody knows about you.\nAnd the $158 MILLION you just dropped on Ken Paxton — funneled to a Texas PAC the very next day? ​￼​ That's not a donation. That's a down payment on an Attorney General corrupt enough to owe you.\n\nDon't try to make it about Texas. Tell the American people what you're really afraid of, you bureaucratic hair-plug wearing MF’’.",
       "links": [],
-      "date": "2026-10-20T17:44:22Z",
-      "url": "https://x.com/Orange_burp007/status/2112600829098397804",
+      "date": "2026-10-20T18:16:47Z",
+      "url": "https://x.com/PopularLiberal/status/2112608987258421752",
       "media": [
         {
-          "type": "animated_gif",
-          "url": "https://video.twimg.com/tweet_video/HVF3QQNbwAA7syv.mp4",
-          "poster": "https://pbs.twimg.com/tweet_video_thumb/HVF3QQNbwAA7syv.jpg",
-          "width": 160,
-          "height": 158,
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVF-raJX0AApcQR.jpg?name=orig",
+          "poster": "https://pbs.twimg.com/media/HVF-raJX0AApcQR.jpg?name=orig",
+          "width": 218,
+          "height": 168,
           "alt": ""
         }
       ],
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/media/HVF-raJX0AApcQR.jpg?name=orig"
+      ],
       "repostedBy": null,
       "replyingTo": {
         "name": "elonmusk",
@@ -1277,12 +1279,12 @@
       },
       "quoted": null,
       "stats": {
-        "replies": 1,
-        "reposts": 2,
-        "quotes": 0,
-        "likes": 61,
-        "views": 2495,
-        "bookmarks": 0
+        "replies": 3,
+        "reposts": 10,
+        "quotes": 1,
+        "likes": 72,
+        "views": 1766,
+        "bookmarks": 1
       }
     }
   ]
