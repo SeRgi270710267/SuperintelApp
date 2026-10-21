@@ -222,7 +222,10 @@
         {"id": "1537598337367146597", "name": "profile-aesthetic", "category": "Community Fun", "mode": "messages", "limit": 50, "window": 300},
         {"id": "1539719926573703321", "name": "community-polls", "category": "Community Fun", "mode": "messages", "limit": 50, "window": 300},
         {"id": "1544031346077339790", "name": "fun-apps", "category": "Community Fun", "mode": "messages", "limit": 50, "window": 300},
-        {"id": "1219742162175131658", "name": "giveaway-corner", "category": "Community Fun", "mode": "messages", "limit": 50, "window": 300}
+        {"id": "1219742162175131658", "name": "giveaway-corner", "category": "Community Fun", "mode": "messages", "limit": 50, "window": 300},
+        {"id": "1218290760126828544", "name": "wfs-general", "category": "Boosters & Feedback", "mode": "messages", "limit": 50, "window": 300},
+        {"id": "1540408515661926501", "name": "boosters-chat", "category": "Boosters & Feedback", "mode": "messages", "limit": 50, "window": 300},
+        {"id": "1544030558017818644", "name": "boosters-apps", "category": "Boosters & Feedback", "mode": "messages", "limit": 50, "window": 300}
       ]
     }
   ],
