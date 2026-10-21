@@ -259,9 +259,9 @@
       },
       "source": {
         "type": "hls",
-        "statusUrl": "https://nadjnizsdaskttxahclp.supabase.co/storage/v1/object/public/live/status.json",
+        "statusUrl": "https://pub-bf9b5e3ebb2b421aa49e7af484f3c22d.r2.dev/status.json",
         "fallback": "live/superintelmusic.json",
-        "allow": ["nadjnizsdaskttxahclp.supabase.co", "r2.dev", "trycloudflare.com"]
+        "allow": ["pub-bf9b5e3ebb2b421aa49e7af484f3c22d.r2.dev", "r2.dev", "trycloudflare.com"]
       }
     }
   ]
