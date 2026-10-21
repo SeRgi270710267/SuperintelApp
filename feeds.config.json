@@ -225,5 +225,24 @@
         {"id": "1219742162175131658", "name": "giveaway-corner", "category": "Community Fun", "mode": "messages", "limit": 50, "window": 300}
       ]
     }
+  ],
+  "spaces": [
+    {
+      "id": "superintelmusic",
+      "title": "SuperintelMusic",
+      "cover": "icons/sergi-telegram.jpg",
+      "host": {
+        "name": "SеРgИ3775996834",
+        "handle": "SeRgi3775996834",
+        "platform": "telegram",
+        "followId": "telegram:SeRgi3775996834",
+        "avatar": "icons/sergi-telegram.jpg"
+      },
+      "source": {
+        "type": "hls",
+        "statusUrl": "live/superintelmusic.json",
+        "allow": ["trycloudflare.com"]
+      }
+    }
   ]
 }
