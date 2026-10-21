@@ -156,6 +156,24 @@
         "name": "Telegram News",
         "url": "https://t.me/telegram"
       }
+    },
+    {
+      "id": "telegram:SeRgi3775996834",
+      "platform": "telegram",
+      "handle": "SeRgi3775996834",
+      "adapter": "telegram",
+      "source_urls": ["https://t.me/s/{handle}"],
+      "fallbacks": [
+        {
+          "adapter": "telegram",
+          "source_urls": ["{rsshubBase}/telegram/channel/{handle}"]
+        }
+      ],
+      "limit": 8,
+      "profile": {
+        "name": "SеРgИ3775996834",
+        "url": "https://t.me/SeRgi3775996834"
+      }
     }
   ],
   "people": [
