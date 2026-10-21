@@ -137,5 +137,29 @@
         "url": "https://vk.com/vk"
       }
     }
+  ],
+  "people": [
+    {
+      "id": "canadian-prepper",
+      "name": "Canadian Prepper",
+      "accounts": [
+        {
+          "platform": "youtube",
+          "handle": "CanadianPrepper",
+          "channelId": "UCfgtuaUadGgOA-91geQ8Qog",
+          "source": "https://www.youtube.com/@CanadianPrepper/about"
+        },
+        {
+          "platform": "x",
+          "handle": "PrepperCanadian",
+          "source": "https://canadianpreparedness.com links to https://twitter.com/preppercanadian"
+        },
+        {
+          "platform": "instagram",
+          "handle": "canadian_prepper",
+          "source": "https://www.youtube.com/@CanadianPrepper/about and https://canadianpreparedness.com"
+        }
+      ]
+    }
   ]
 }
