@@ -228,6 +228,21 @@
         {"id": "1544031346077339790", "name": "fun-apps", "category": "Community Fun", "mode": "messages", "limit": 50, "window": 300},
         {"id": "1219742162175131658", "name": "giveaway-corner", "category": "Community Fun", "mode": "messages", "limit": 50, "window": 300}
       ]
+    },
+    {
+      "id": "x:X",
+      "platform": "x",
+      "handle": "X",
+      "adapter": "fxtwitter",
+      "defaultFollow": false,
+      "source_urls": ["{fxtwitterBase}/2/profile/X/statuses"],
+      "limit": 4,
+      "profile": {
+        "name": "X",
+        "avatar": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_200x200.jpg",
+        "verifiedType": "organization",
+        "url": "https://x.com/X"
+      }
     }
   ],
   "spaces": [

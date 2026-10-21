@@ -201,9 +201,261 @@
       "bannerColor": "linear-gradient(135deg, #dbddbb 0%, #6ba587 33%, #d5d88d 67%, #88b884 100%)",
       "url": "https://t.me/SeRgi3775996834",
       "configured": true
+    },
+    {
+      "id": "x:X",
+      "platform": "x",
+      "handle": "X",
+      "name": "X",
+      "title": "X",
+      "avatar": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_200x200.jpg",
+      "url": "https://x.com/X",
+      "verifiedType": "organization",
+      "configured": false
     }
   ],
   "posts": [
+    {
+      "id": "2007184284944322584",
+      "statusId": "2007184284944322584",
+      "platform": "x",
+      "feedId": "x:X",
+      "kind": "post",
+      "author": "X",
+      "handle": "X",
+      "avatar": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_200x200.jpg",
+      "verifiedType": "organization",
+      "text": "",
+      "links": [],
+      "date": "2026-01-02T20:16:39.000Z",
+      "url": "https://x.com/X/status/2007184284944322584",
+      "media": [],
+      "images": [],
+      "repostedBy": null,
+      "replyingTo": null,
+      "quoted": null,
+      "article": {
+        "id": "2007138660165009408",
+        "title": "this week on X: new week, new year, same me",
+        "preview": "january 2, 2026\nthe latest news & updates across X, from what we’ve shipped to what everyone’s talking about this week\nhappy New Year from X\n \n \n \n \n \n \nproduct & eng\ncoming soon for creators\n \nthe",
+        "cover": "https://pbs.twimg.com/media/G9rKDGFXUAAPHJZ.jpg",
+        "url": "https://x.com/i/article/2007138660165009408",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "january 2, 2026",
+            "styles": [
+              {
+                "start": 0,
+                "end": 15,
+                "style": "Bold"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "the latest news & updates across X, from what we’ve shipped to what everyone’s talking about this week"
+          },
+          {
+            "type": "h2",
+            "text": "happy New Year from X"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006547012154700211"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006914262065885600"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006379893920354480"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006663125408559289"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006556942383370738"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006748483429216619"
+          },
+          {
+            "type": "h2",
+            "text": "product & eng"
+          },
+          {
+            "type": "paragraph",
+            "text": "coming soon for creators"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006078175651193170"
+          },
+          {
+            "type": "paragraph",
+            "text": "the lab is open 25/8"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006796246250565865"
+          },
+          {
+            "type": "paragraph",
+            "text": "@Grok rung in 2026 with a new Imagine template",
+            "links": [
+              {
+                "start": 0,
+                "end": 5,
+                "url": "https://x.com/Grok"
+              }
+            ]
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006170190157942916"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006133907566014709"
+          },
+          {
+            "type": "paragraph",
+            "text": "new from @xAI ",
+            "links": [
+              {
+                "start": 9,
+                "end": 13,
+                "url": "https://x.com/xAI"
+              }
+            ]
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006108047609930069"
+          },
+          {
+            "type": "h2",
+            "text": "business"
+          },
+          {
+            "type": "paragraph",
+            "text": "catch us at CES"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2007180912354889888"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2007148707180167220"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006048112901607520"
+          },
+          {
+            "type": "h2",
+            "text": "safety & global affairs"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2005643771162038639"
+          },
+          {
+            "type": "h2",
+            "text": "we’re hiring"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2005681321314771180"
+          },
+          {
+            "type": "h2",
+            "text": "bts @X ",
+            "links": [
+              {
+                "start": 4,
+                "end": 6,
+                "url": "https://x.com/X"
+              }
+            ]
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006892906549039156"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006819729017811262"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006397065023357318"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006396107429962235"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2005703137060159616"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2004989102740152503"
+          },
+          {
+            "type": "h2",
+            "text": "what’s happening"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006662376993730765"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006402524035571885"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006092931124674765"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2004799828140982482"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2005662455289290861"
+          },
+          {
+            "type": "embed",
+            "tweetId": "2006016473794220080"
+          },
+          {
+            "type": "h2",
+            "text": "it’s that time of year again"
+          },
+          {
+            "type": "embed",
+            "tweetId": "1751319483031973979"
+          }
+        ]
+      },
+      "stats": {
+        "replies": 945,
+        "reposts": 340,
+        "quotes": 72,
+        "likes": 1528,
+        "views": 993165,
+        "bookmarks": 143
+      }
+    },
     {
       "id": "2112603906723487744",
       "statusId": "2112603906723487744",
