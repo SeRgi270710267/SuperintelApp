@@ -136,6 +136,26 @@
         "name": "ВКонтакте",
         "url": "https://vk.com/vk"
       }
+    },
+    {
+      "id": "telegram:telegram",
+      "platform": "telegram",
+      "handle": "telegram",
+      "adapter": "telegram",
+      "source_urls": ["https://t.me/s/{handle}"],
+      "fallbacks": [
+        {
+          "adapter": "telegram",
+          "source_urls": ["{rsshubBase}/telegram/channel/{handle}"]
+        }
+      ],
+      "fixture": "scripts/fixtures/telegram_channel.html",
+      "fixtureAdapter": "telegram",
+      "limit": 8,
+      "profile": {
+        "name": "Telegram News",
+        "url": "https://t.me/telegram"
+      }
     }
   ],
   "people": [
