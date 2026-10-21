@@ -190,6 +190,17 @@
       "configured": true,
       "channelId": "UCfgtuaUadGgOA-91geQ8Qog",
       "followers": 1360000
+    },
+    {
+      "id": "telegram:SeRgi3775996834",
+      "platform": "telegram",
+      "handle": "SeRgi3775996834",
+      "name": "SеРgИ3775996834",
+      "title": "SеРgИ3775996834",
+      "avatar": "icons/sergi-telegram.jpg",
+      "bannerColor": "linear-gradient(135deg, #dbddbb 0%, #6ba587 33%, #d5d88d 67%, #88b884 100%)",
+      "url": "https://t.me/SeRgi3775996834",
+      "configured": true
     }
   ],
   "posts": [
