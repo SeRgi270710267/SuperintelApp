@@ -123,6 +123,19 @@
         "name": "Canadian Prepper",
         "url": "https://www.youtube.com/@CanadianPrepper"
       }
+    },
+    {
+      "id": "vk:vk",
+      "platform": "vk",
+      "handle": "vk",
+      "adapter": "vk",
+      "fixture": "scripts/fixtures/vk_wall_vk.json",
+      "fixtureAdapter": "vk",
+      "limit": 8,
+      "profile": {
+        "name": "ВКонтакте",
+        "url": "https://vk.com/vk"
+      }
     }
   ]
 }
