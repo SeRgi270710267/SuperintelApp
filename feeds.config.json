@@ -75,14 +75,6 @@
       "source_urls": ["{rsshubBase}/instagram/user/{handle}"],
       "fallbacks": [
         {
-          "adapter": "rsshub_instagram",
-          "source_urls": [
-            "https://rsshub.rssforever.com/instagram/user/{handle}",
-            "https://rsshub.pseudoyu.com/instagram/user/{handle}",
-            "https://hub.slarker.me/instagram/user/{handle}"
-          ]
-        },
-        {
           "adapter": "generic_rss",
           "source_urls": [
             "http://localhost:8080/?action=display&bridge=InstagramBridge&context=Username&u={handle}&format=Atom"
@@ -104,14 +96,6 @@
       "adapter": "rsshub_threads",
       "source_urls": ["{rsshubBase}/threads/{handle}"],
       "fallbacks": [
-        {
-          "adapter": "rsshub_threads",
-          "source_urls": [
-            "https://rsshub.rssforever.com/threads/{handle}",
-            "https://rsshub.pseudoyu.com/threads/{handle}",
-            "https://hub.slarker.me/threads/{handle}"
-          ]
-        },
         {
           "adapter": "generic_rss",
           "source_urls": [
