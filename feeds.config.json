@@ -196,6 +196,108 @@
         "url": "https://x.com/X"
       }
     }
+  ,
+    {
+      "id": "x:MoloWarMonitor",
+      "platform": "x",
+      "handle": "MoloWarMonitor",
+      "adapter": "fxtwitter",
+      "source_urls": [
+        "{fxtwitterBase}/2/profile/{handle}/statuses"
+      ],
+      "fallbacks": [
+        {
+          "adapter": "nitter_rss",
+          "source_urls": [
+            "https://nitter.meowing.monster/{handle}/rss",
+            "https://nitter.kareem.one/{handle}/rss",
+            "https://nitter.jaydenha.uk/{handle}/rss"
+          ]
+        }
+      ],
+      "limit": 4,
+      "profile": {
+        "name": "MoloWarMonitor",
+        "url": "https://x.com/MoloWarMonitor"
+      },
+      "origin": "repost",
+      "defaultFollow": false,
+      "addedFrom": {
+        "feedId": "x:PrepperCanadian",
+        "handle": "PrepperCanadian",
+        "name": "Canadian Prepper",
+        "platform": "x",
+        "at": "2026-10-21T21:07:04.000Z"
+      }
+    },
+    {
+      "id": "x:shaunmmaguire",
+      "platform": "x",
+      "handle": "shaunmmaguire",
+      "adapter": "fxtwitter",
+      "source_urls": [
+        "{fxtwitterBase}/2/profile/{handle}/statuses"
+      ],
+      "fallbacks": [
+        {
+          "adapter": "nitter_rss",
+          "source_urls": [
+            "https://nitter.meowing.monster/{handle}/rss",
+            "https://nitter.kareem.one/{handle}/rss",
+            "https://nitter.jaydenha.uk/{handle}/rss"
+          ]
+        }
+      ],
+      "limit": 4,
+      "profile": {
+        "name": "Shaun Maguire",
+        "url": "https://x.com/shaunmmaguire",
+        "avatar": "https://pbs.twimg.com/profile_images/1942940317784719360/47aIqszK_200x200.jpg"
+      },
+      "origin": "repost",
+      "defaultFollow": false,
+      "addedFrom": {
+        "feedId": "x:elonmusk",
+        "handle": "elonmusk",
+        "name": "Elon Musk",
+        "platform": "x",
+        "at": "2026-10-21T23:53:58.000Z"
+      }
+    },
+    {
+      "id": "x:brivael",
+      "platform": "x",
+      "handle": "brivael",
+      "adapter": "fxtwitter",
+      "source_urls": [
+        "{fxtwitterBase}/2/profile/{handle}/statuses"
+      ],
+      "fallbacks": [
+        {
+          "adapter": "nitter_rss",
+          "source_urls": [
+            "https://nitter.meowing.monster/{handle}/rss",
+            "https://nitter.kareem.one/{handle}/rss",
+            "https://nitter.jaydenha.uk/{handle}/rss"
+          ]
+        }
+      ],
+      "limit": 4,
+      "profile": {
+        "name": "Brivael Le Pogam",
+        "url": "https://x.com/brivael",
+        "avatar": "https://pbs.twimg.com/profile_images/2057241969403834368/PFPm3cxd_200x200.jpg"
+      },
+      "origin": "repost",
+      "defaultFollow": false,
+      "addedFrom": {
+        "feedId": "x:elonmusk",
+        "handle": "elonmusk",
+        "name": "Elon Musk",
+        "platform": "x",
+        "at": "2026-10-21T23:23:30.000Z"
+      }
+    }
   ],
   "people": [
     {
