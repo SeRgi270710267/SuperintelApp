@@ -23,6 +23,7 @@
       "id": "x:elonmusk",
       "platform": "x",
       "handle": "elonmusk",
+      "permanentId": "44196397",
       "adapter": "fxtwitter",
       "source_urls": ["{fxtwitterBase}/2/profile/elonmusk/statuses"],
       "fallbacks": [
@@ -55,6 +56,7 @@
       "id": "x:finkd",
       "platform": "x",
       "handle": "finkd",
+      "permanentId": "20749410",
       "adapter": "fxtwitter",
       "source_urls": ["{fxtwitterBase}/2/profile/finkd/statuses"],
       "fallbacks": [
@@ -130,6 +132,7 @@
       "id": "youtube:CanadianPrepper",
       "platform": "youtube",
       "handle": "CanadianPrepper",
+      "permanentId": "UCfgtuaUadGgOA-91geQ8Qog",
       "channelId": "UCfgtuaUadGgOA-91geQ8Qog",
       "adapter": "youtube_rss",
       "source_urls": ["https://www.youtube.com/feeds/videos.xml?channel_id={channelId}"],
@@ -143,6 +146,7 @@
       "id": "vk:vk",
       "platform": "vk",
       "handle": "vk",
+      "permanentId": "-22822305",
       "adapter": "vk",
       "fixture": "scripts/fixtures/vk_wall_vk.json",
       "fixtureAdapter": "vk",
@@ -277,6 +281,7 @@
       "id": "x:brivael",
       "platform": "x",
       "handle": "brivael",
+      "permanentId": "1874492187070615552",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -312,6 +317,7 @@
       "id": "x:Worldsource24",
       "platform": "x",
       "handle": "Worldsource24",
+      "permanentId": "1480650450332495877",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -346,6 +352,7 @@
       "id": "x:SawyerMerritt",
       "platform": "x",
       "handle": "SawyerMerritt",
+      "permanentId": "243013409",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -379,6 +386,7 @@
       "id": "x:TheInsiderPaper",
       "platform": "x",
       "handle": "TheInsiderPaper",
+      "permanentId": "1247223374717296647",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -413,6 +421,7 @@
       "id": "x:BasedMikeLee",
       "platform": "x",
       "handle": "BasedMikeLee",
+      "permanentId": "1551266822460162051",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -447,6 +456,7 @@
       "id": "x:FaytuksNetwork",
       "platform": "x",
       "handle": "FaytuksNetwork",
+      "permanentId": "1795547119840821249",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -515,6 +525,7 @@
       "id": "x:SERobinsonJr",
       "platform": "x",
       "handle": "SERobinsonJr",
+      "permanentId": "1234183597583740929",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -548,6 +559,7 @@
       "id": "x:realBrandonGill",
       "platform": "x",
       "handle": "realBrandonGill",
+      "permanentId": "1481110622079266817",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -582,6 +594,7 @@
       "id": "x:Conflict_Radar",
       "platform": "x",
       "handle": "Conflict_Radar",
+      "permanentId": "1697704065537290240",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -621,6 +634,7 @@
         {
           "platform": "youtube",
           "handle": "CanadianPrepper",
+          "permanentId": "UCfgtuaUadGgOA-91geQ8Qog",
           "channelId": "UCfgtuaUadGgOA-91geQ8Qog",
           "source": "https://www.youtube.com/@CanadianPrepper/about"
         },
