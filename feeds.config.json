@@ -9,6 +9,15 @@
     "paceSeconds": 2
   },
   "removed": [],
+  "ia_public_sources": [
+    "fxtwitter",
+    "youtube_rss",
+    "youtube_community",
+    "telegram",
+    "rsshub_instagram",
+    "rsshub_threads"
+  ],
+  "ia_tiktok_allow": [],
   "feeds": [
     {
       "id": "x:elonmusk",
