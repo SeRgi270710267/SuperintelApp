@@ -671,10 +671,9 @@
         "avatar": "icons/sergi-telegram.jpg"
       },
       "source": {
-        "type": "hls",
-        "statusUrl": "https://pub-bf9b5e3ebb2b421aa49e7af484f3c22d.r2.dev/status.json",
-        "fallback": "live/superintelmusic.json",
-        "allow": ["pub-bf9b5e3ebb2b421aa49e7af484f3c22d.r2.dev", "r2.dev", "trycloudflare.com"]
+        "type": "loop",
+        "loopUrl": "https://pub-bf9b5e3ebb2b421aa49e7af484f3c22d.r2.dev/loop/current.json",
+        "allow": ["pub-bf9b5e3ebb2b421aa49e7af484f3c22d.r2.dev", "r2.dev"]
       }
     }
   ]
