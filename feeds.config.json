@@ -3,6 +3,12 @@
   "fxtwitterBase": "https://api.fxtwitter.com",
   "output": "feeds.json",
   "cap": 300,
+  "autoAdd": {
+    "perRun": 3,
+    "total": 12,
+    "paceSeconds": 2
+  },
+  "removed": [],
   "feeds": [
     {
       "id": "x:elonmusk",
