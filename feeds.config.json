@@ -501,6 +501,108 @@
         "at": "2026-10-22T04:46:32.000Z"
       }
     }
+  ,
+    {
+      "id": "x:SERobinsonJr",
+      "platform": "x",
+      "handle": "SERobinsonJr",
+      "adapter": "fxtwitter",
+      "source_urls": [
+        "{fxtwitterBase}/2/profile/{handle}/statuses"
+      ],
+      "fallbacks": [
+        {
+          "adapter": "nitter_rss",
+          "source_urls": [
+            "https://nitter.meowing.monster/{handle}/rss",
+            "https://nitter.kareem.one/{handle}/rss",
+            "https://nitter.jaydenha.uk/{handle}/rss"
+          ]
+        }
+      ],
+      "limit": 4,
+      "profile": {
+        "name": "SERobinsonJr",
+        "url": "https://x.com/SERobinsonJr"
+      },
+      "origin": "repost",
+      "defaultFollow": false,
+      "addedFrom": {
+        "feedId": "x:elonmusk",
+        "handle": "elonmusk",
+        "name": "Elon Musk",
+        "platform": "x",
+        "at": "2026-10-22T04:22:25.000Z"
+      }
+    },
+    {
+      "id": "x:realBrandonGill",
+      "platform": "x",
+      "handle": "realBrandonGill",
+      "adapter": "fxtwitter",
+      "source_urls": [
+        "{fxtwitterBase}/2/profile/{handle}/statuses"
+      ],
+      "fallbacks": [
+        {
+          "adapter": "nitter_rss",
+          "source_urls": [
+            "https://nitter.meowing.monster/{handle}/rss",
+            "https://nitter.kareem.one/{handle}/rss",
+            "https://nitter.jaydenha.uk/{handle}/rss"
+          ]
+        }
+      ],
+      "limit": 4,
+      "profile": {
+        "name": "Brandon Gill",
+        "url": "https://x.com/realBrandonGill",
+        "avatar": "https://pbs.twimg.com/profile_images/2017690903096262656/l45MPM6a_200x200.jpg"
+      },
+      "origin": "repost",
+      "defaultFollow": false,
+      "addedFrom": {
+        "feedId": "x:elonmusk",
+        "handle": "elonmusk",
+        "name": "Elon Musk",
+        "platform": "x",
+        "at": "2026-10-22T00:24:25.000Z"
+      }
+    },
+    {
+      "id": "x:Conflict_Radar",
+      "platform": "x",
+      "handle": "Conflict_Radar",
+      "adapter": "fxtwitter",
+      "source_urls": [
+        "{fxtwitterBase}/2/profile/{handle}/statuses"
+      ],
+      "fallbacks": [
+        {
+          "adapter": "nitter_rss",
+          "source_urls": [
+            "https://nitter.meowing.monster/{handle}/rss",
+            "https://nitter.kareem.one/{handle}/rss",
+            "https://nitter.jaydenha.uk/{handle}/rss"
+          ]
+        }
+      ],
+      "limit": 4,
+      "profile": {
+        "name": "Conflict Radar",
+        "url": "https://x.com/Conflict_Radar",
+        "avatar": "https://pbs.twimg.com/profile_images/1924904909914206208/D9T1EW2k_200x200.jpg"
+      },
+      "origin": "repost",
+      "defaultFollow": false,
+      "addedFrom": {
+        "feedId": "x:PrepperCanadian",
+        "handle": "PrepperCanadian",
+        "name": "Canadian Prepper",
+        "platform": "x",
+        "at": "2026-10-21T18:07:04.000Z"
+      }
+    }
   ],
   "people": [
     {
