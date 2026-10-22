@@ -198,6 +198,7 @@
       "id": "x:X",
       "platform": "x",
       "handle": "X",
+      "permanentId": "783214",
       "adapter": "fxtwitter",
       "defaultFollow": false,
       "source_urls": ["{fxtwitterBase}/2/profile/X/statuses"],
@@ -214,6 +215,7 @@
       "id": "x:MoloWarMonitor",
       "platform": "x",
       "handle": "MoloWarMonitor",
+      "permanentId": "1481649681390133249",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -247,6 +249,7 @@
       "id": "x:shaunmmaguire",
       "platform": "x",
       "handle": "shaunmmaguire",
+      "permanentId": "143134601",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -490,6 +493,7 @@
       "id": "x:chiproytx",
       "platform": "x",
       "handle": "chiproytx",
+      "permanentId": "1257667158",
       "adapter": "fxtwitter",
       "source_urls": [
         "{fxtwitterBase}/2/profile/{handle}/statuses"
@@ -641,6 +645,7 @@
         {
           "platform": "x",
           "handle": "PrepperCanadian",
+          "permanentId": "3049075843",
           "source": "https://canadianpreparedness.com links to https://twitter.com/preppercanadian"
         },
         {
