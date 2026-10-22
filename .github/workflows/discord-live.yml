@@ -33,7 +33,7 @@ jobs:
     timeout-minutes: 350
     environment:
       name: github-pages
-      url: https://sergi270710267.github.io/SuperintelApp/
+      url: ${{ github.server_url }}/${{ github.repository }}
     steps:
       - uses: actions/checkout@v4
 
