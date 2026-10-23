@@ -704,5 +704,42 @@
         "allow": ["pub-bf9b5e3ebb2b421aa49e7af484f3c22d.r2.dev", "r2.dev"]
       }
     }
-  ]
+  ],
+  "communities": {
+    "paceSeconds": 2,
+    "cacheSeconds": 900,
+    "rsshubBase": "https://rsshub.app",
+    "redlib": [
+      "https://redlib.fmhy.net",
+      "https://safereddit.com",
+      "https://redlib.catsarch.com",
+      "https://redlib.ducks.party"
+    ],
+    "embeds": [
+      "https://vxreddit.com",
+      "https://rxddit.com"
+    ],
+    "fallbacks": [
+      {
+        "adapter": "reddit_rss",
+        "source_urls": [
+          "https://www.reddit.com/r/{name}/.rss",
+          "https://www.reddit.com/r/{name}/new/.rss"
+        ]
+      },
+      {
+        "adapter": "rsshub_reddit",
+        "source_urls": ["{rsshubBase}/reddit/subreddit/{name}?format=atom"]
+      },
+      {
+        "adapter": "rss_bridge",
+        "source_urls": [
+          "https://rss-bridge.org/bridge01/?action=display&bridge=RedditBridge&context=single&r={name}&d=new&format=Atom"
+        ]
+      },
+      {"adapter": "redlib", "source_urls": ["{redlib}/r/{name}/rss"]},
+      {"adapter": "reddit_embed", "source_urls": ["{embed}/r/{name}"]}
+    ],
+    "items": [{"name": "teslamotors"}]
+  }
 }
